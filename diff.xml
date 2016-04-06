@@ -1,4 +1,11 @@
 <application>
+  <component name="DiffManager">
+    <enableFiles value="true" />
+    <enableMerge value="true" />
+    <filesTool value="/Applications/Araxis Merge.app/Contents/Utilities/compare" newValue="/Applications/Araxis Merge.app/Contents/Utilities/compare" />
+    <mergeTool value="/Applications/Araxis Merge.app/Contents/Utilities/compare" newValue="/Applications/Araxis Merge.app/Contents/Utilities/compare" />
+    <mergeToolParameters value="%1 %2 %3 %4" />
+  </component>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
@@ -10,7 +17,19 @@
       <entry key="Default">
         <PlaceSettings />
       </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings />
+      </entry>
     </option>
+  </component>
+  <component name="ExternalDiffSettings">
+    <option name="DIFF_ENABLED" value="true" />
+    <option name="DIFF_DEFAULT" value="true" />
+    <option name="DIFF_EXE_PATH" value="/Applications/Araxis Merge.app/Contents/Utilities/compare" />
+    <option name="DIFF_PARAMETERS" value="%1 %2 %3" />
+    <option name="MERGE_ENABLED" value="true" />
+    <option name="MERGE_EXE_PATH" value="/Applications/Araxis Merge.app/Contents/Utilities/compare" />
+    <option name="MERGE_PARAMETERS" value="%1 %2 %3 %4" />
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
@@ -25,6 +44,13 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
+        <PlaceSettings>
+          <option name="SHOW_WHITESPACES" value="true" />
+          <option name="SHOW_INDENT_LINES" value="true" />
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
     </option>

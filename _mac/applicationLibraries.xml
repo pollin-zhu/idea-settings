@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="Spring Integration-4.0">
+      <CLASSES>
+        <root url="file://$USER_HOME$/apps/IntelliJ-IDEA-Libs/Spring Integration-4.0.3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$USER_HOME$/apps/IntelliJ-IDEA-Libs/Spring Integration-4.0.3" recursive="false" />
+    </library>
+  </component>
+</application>
