@@ -56,6 +56,7 @@
   <component name="RefactoringSettings">
     <option name="renameParameterInHierarchy" value="false" />
     <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
     <option name="RENAME_PARAMETER_IN_HIERARCHY" value="false" />
