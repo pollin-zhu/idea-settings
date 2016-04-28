@@ -8,6 +8,9 @@
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
