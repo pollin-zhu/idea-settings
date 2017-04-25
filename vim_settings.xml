@@ -16,6 +16,9 @@
       <jump line="536" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/resource/scom/OrganizationResource.java" />
     </jumps>
     <registers>
+      <register name=":" type="4">
+        <text>edit</text>
+      </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmdEYXRhXD4=</text>
       </register>
@@ -33,6 +36,14 @@
       </history-search>
       <history-cmd>
         <entry>set colorschema</entry>
+        <entry>clo</entry>
+        <entry>!cat %</entry>
+        <entry>!shell</entry>
+        <entry>shell</entry>
+        <entry>vsp</entry>
+        <entry>e</entry>
+        <entry>e!</entry>
+        <entry>edit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
