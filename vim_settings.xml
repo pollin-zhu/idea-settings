@@ -3,6 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1493693566315">
+        <mark key="'" line="312" column="8" />
+        <mark key="[" line="237" column="56" />
+        <mark key="]" line="237" column="84" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1493693696923">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" timestamp="1493693405960">
+        <mark key="'" line="126" column="70" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/resource/scom/OrganizationResource.java" timestamp="1492995558012">
         <mark key="'" line="519" column="42" />
       </file>
@@ -28,19 +39,29 @@
       <jump line="310" column="71" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/common/ApiFilter.java" />
       <jump line="88" column="26" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/common/ApiFilter.java" />
       <jump line="99" column="29" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/common/ApiFilter.java" />
+      <jump line="312" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="79" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
+      <jump line="99" column="4" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
+      <jump line="126" column="70" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text>ldapDAO.maxServiceConnections</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>ldapDAO.maxServiceConnections</text>
+      </register>
       <register name=":" type="4">
-        <text>edit</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGaWx0ZXI=</text>
+        <text>Pool</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGaWx0ZXI=</last-search>
+      <last-search>Pool</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGaWx0ZXI=</last-pattern>
+      <last-pattern>Pool</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -48,6 +69,8 @@
       <history-search>
         <entry encoding="base64">XDxvcmdEYXRhXD4=</entry>
         <entry encoding="base64">XDxGaWx0ZXI=</entry>
+        <entry>pool</entry>
+        <entry>Pool</entry>
       </history-search>
       <history-cmd>
         <entry>set colorschema</entry>
@@ -59,6 +82,7 @@
         <entry>e</entry>
         <entry>e!</entry>
         <entry>edit</entry>
+        <entry>200</entry>
       </history-cmd>
       <history-expr />
       <history-input />
