@@ -19,7 +19,7 @@
       <file name="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/LDAPConnection.java" timestamp="1493795801650">
         <mark key="'" line="67" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/ListOfSharedConnections.java" timestamp="1493779247238">
+      <file name="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/ListOfSharedConnections.java" timestamp="1493797163621">
         <mark key="'" line="29" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/Store.java" timestamp="1493705014303">
@@ -210,7 +210,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -248,7 +248,6 @@
         <entry>!cat %</entry>
         <entry>!shell</entry>
         <entry>shell</entry>
-        <entry>vsp</entry>
         <entry>e</entry>
         <entry>e!</entry>
         <entry>edit</entry>
@@ -258,6 +257,7 @@
         <entry>set hlsearch</entry>
         <entry>w</entry>
         <entry>regs</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
