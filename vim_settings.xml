@@ -10,6 +10,9 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/identity/src/main/resources/IdentityBeans.xml" timestamp="1493705134698">
         <mark key="'" line="27" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" timestamp="1493962140886">
+        <mark key="'" line="185" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/Connection.java" timestamp="1493779646682">
         <mark key="'" line="106" column="18" />
       </file>
@@ -18,6 +21,12 @@
       </file>
       <file name="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/LDAPConnection.java" timestamp="1493795801650">
         <mark key="'" line="67" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" timestamp="1493962720960">
+        <mark key="'" line="106" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/LDAPjaas.config" timestamp="1493962149154">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/ListOfSharedConnections.java" timestamp="1493797163621">
         <mark key="'" line="29" column="29" />
@@ -36,8 +45,8 @@
       <file name="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/Connection.java" timestamp="1493796749474">
         <mark key="'" line="108" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1493790368832">
-        <mark key="'" line="15" column="58" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1493962212574">
+        <mark key="'" line="154" column="36" />
         <mark key="[" line="237" column="56" />
         <mark key="]" line="237" column="84" />
       </file>
@@ -71,36 +80,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/resource/scim/UserResource.java" />
-      <jump line="256" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/resource/scim/UserResource.java" />
-      <jump line="208" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/resource/scim/UserResource.java" />
-      <jump line="24" column="20" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/service/scom/StoreFactory.java" />
-      <jump line="161" column="4" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/identity/src/main/resources/IdentityBeans.xml" />
-      <jump line="996" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/service/scom/OrgResourceHandler.java" />
-      <jump line="163" column="27" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/Store.java" />
-      <jump line="5" column="89" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/identity/src/main/resources/IdentityBeans.xml" />
-      <jump line="27" column="53" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/identity/src/main/resources/IdentityBeans.xml" />
-      <jump line="122" column="6" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="81" column="0" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="114" column="0" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="126" column="0" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="125" column="4" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="29" column="29" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/ListOfSharedConnections.java" />
-      <jump line="147" column="29" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="148" column="12" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="152" column="16" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="164" column="12" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="165" column="12" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="169" column="12" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="171" column="33" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="130" column="0" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="143" column="0" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="163" column="0" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="179" column="0" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="175" column="12" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="176" column="26" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" />
-      <jump line="98" column="9" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/Connection.java" />
-      <jump line="120" column="49" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/Connection.java" />
       <jump line="97" column="5" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/Connection.java" />
       <jump line="106" column="18" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/Connection.java" />
       <jump line="1356" column="16" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/LDAPConnection.java" />
@@ -171,6 +150,36 @@
       <jump line="108" column="29" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/Connection.java" />
       <jump line="120" column="46" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/services/dsml/dom/DsmlImpl.java" />
       <jump line="48" column="73" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/services/dsml/dom/DsmlImpl.java" />
+      <jump line="419" column="32" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
+      <jump line="426" column="48" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
+      <jump line="96" column="19" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
+      <jump line="185" column="42" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/LDAPjaas.config" />
+      <jump line="240" column="52" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="330" column="40" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="154" column="36" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="142" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="74" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="143" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="155" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="140" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="107" column="50" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="90" column="38" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="76" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="150" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="77" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="75" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="82" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="84" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="87" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="91" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="98" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="105" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="106" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -180,7 +189,7 @@
         <text encoding="base64">Q29tcHV0ZXJDcmVkcyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bnNvbGljaXRlZExpc3RlbmVyc1w+</text>
+        <text encoding="base64">XDxjb25uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>ldapDAO.fallbackToPrimary</text>
@@ -213,22 +222,18 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>615</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bnNvbGljaXRlZExpc3RlbmVyc1w+</last-search>
+      <last-search encoding="base64">XDxjb25uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bnNvbGljaXRlZExpc3RlbmVyc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjb25uXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcmdEYXRhXD4=</entry>
-        <entry encoding="base64">XDxGaWx0ZXI=</entry>
-        <entry>pool</entry>
-        <entry>Pool</entry>
         <entry>ldapServicePoolContext</entry>
         <entry>bind</entry>
         <entry>iocI</entry>
@@ -244,6 +249,11 @@
         <entry>conn</entry>
         <entry>iocIn</entry>
         <entry encoding="base64">XDx1bnNvbGljaXRlZExpc3RlbmVyc1w+</entry>
+        <entry encoding="base64">XDxwb29sTmFtZVw+</entry>
+        <entry>com.cisco.codev.identity.common.ConnectionPool</entry>
+        <entry>ldapConnectionPool</entry>
+        <entry>IdentityStore</entry>
+        <entry encoding="base64">XDxjb25uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set colorschema</entry>
@@ -261,6 +271,7 @@
         <entry>w</entry>
         <entry>regs</entry>
         <entry>vsp</entry>
+        <entry>615</entry>
       </history-cmd>
       <history-expr />
       <history-input />
