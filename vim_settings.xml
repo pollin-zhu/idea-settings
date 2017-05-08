@@ -38,22 +38,25 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/common/ApiFilter.java" timestamp="1493095352647">
         <mark key="'" line="99" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/Connection.java" timestamp="1493796749474">
-        <mark key="'" line="108" column="29" />
+      <file name="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/Connection.java" timestamp="1494240278181">
+        <mark key="'" line="918" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1493962212574">
         <mark key="'" line="154" column="36" />
         <mark key="[" line="237" column="56" />
         <mark key="]" line="237" column="84" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" timestamp="1494211833308">
+      <file name="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/PoolManager.java" timestamp="1494241120956">
         <mark key="'" line="176" column="26" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="29" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="120" column="63" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclableConnection.java" timestamp="1494212442870">
-        <mark key="[" line="12" column="34" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclableConnection.java" timestamp="1494239551421">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/service/scom/OrgResourceHandler.java" timestamp="1493704739629">
         <mark key="'" line="996" column="0" />
@@ -64,7 +67,7 @@
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" timestamp="1493794032715">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" timestamp="1494239913873">
         <mark key="a" line="284" column="26" />
         <mark key="'" line="300" column="0" />
         <mark key="[" line="276" column="12" />
@@ -75,31 +78,18 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/resource/scom/OrganizationResource.java" timestamp="1492995558012">
         <mark key="'" line="519" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" timestamp="1494242108746">
+        <mark key="a" line="129" column="30" />
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/services/dsml/dom/DsmlImpl.java" timestamp="1493798958935">
         <mark key="'" line="120" column="46" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="5" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/Connection.java" />
-      <jump line="106" column="18" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/connectionpool/Connection.java" />
-      <jump line="1356" column="16" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/LDAPConnection.java" />
-      <jump line="1360" column="8" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/LDAPConnection.java" />
-      <jump line="1398" column="8" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/LDAPConnection.java" />
-      <jump line="1399" column="12" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/LDAPConnection.java" />
-      <jump line="1482" column="29" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/LDAPConnection.java" />
-      <jump line="20" column="39" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/PoolManagerEx.java" />
-      <jump line="86" column="24" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/PoolManagerEx.java" />
-      <jump line="472" column="4" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
-      <jump line="84" column="66" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
-      <jump line="100" column="91" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
-      <jump line="103" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
-      <jump line="112" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
-      <jump line="116" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
-      <jump line="121" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
-      <jump line="190" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
       <jump line="167" column="4" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
       <jump line="15" column="58" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="293" column="49" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" />
@@ -180,65 +170,83 @@
       <jump line="98" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
       <jump line="105" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
       <jump line="106" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
+      <jump line="855" column="13" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/Connection.java" />
+      <jump line="918" column="45" filename="$USER_HOME$/workspace/git/ci/openldap-jldap/com/novell/ldap/Connection.java" />
+      <jump line="79" column="37" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="27" column="80" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="75" column="9" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="81" column="7" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="98" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="66" column="7" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="94" column="67" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="87" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID0gMzA=</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBETiAgQXV0aGVudGljYXRpb24gRE4gdXNlZCBmb3IgYmluZCBhbmQga2V5LgogICAgICogQHBhcmFtIFBXICBBdXRoZW50aWNhdGlvbiBwYXNzd29yZCB1c2VkIGZvciBiaW5kIGFuZCBrZXkuCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gMzA=</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25uXD4=</text>
+        <text>;</text>
       </register>
-      <register name="0" type="4">
-        <text>ldapDAO.fallbackToPrimary</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBmYWN0b3J5IC0gQSBzb2NrZXQgZmFjdG9yeSB1c2VkIHRvIHNldCBhbiBlbmNyeXB0ZWQgY29ubmVjdGlvbiwKICAgICAqICAgICAgICAgICBvciBudWxsIGlmIG5vbmUuICBJZiB0aGUgZmFjdG9yeSBpcyBhbiBpbnN0YW5jZSBvZgogICAgICoge0BsaW5rIGNvbS5ub3ZlbGwubGRhcC5MREFQVExTU29ja2V0RmFjdG9yeX0gdGhlbiBhIHN0YXJ0VExTIGlzCiAgICAgKiBwZXJmb3JtZWQgYWZ0ZXIgdGhlIGNvbm5lY3Rpb24gdG8gdGhlIHNlcnZlciBpcyBlc3RhYmxpc2hlZC4KICAgICAqICAgICAgICAgICA8Y29kZT5MREFQVExTU29ja2V0RmFjdG9yeTwvY29kZT4KICAgICAqIChzZWUge0BsaW5rIGNvbS5ub3ZlbGwubGRhcC5MREFQQ29ubmVjdGlvbiNzZXRTb2NrZXRGYWN0b3J5KGNvbS5ub3ZlbGwubGRhcC5MREFQU29ja2V0RmFjdG9yeSkgTERBUENvbm5lY3Rpb24uc2V0U29ja2V0RmFjdG9yeSgpfSkuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbXB1dGVyQ3JlZHMgY3JlZHMgPSBnZXRDb21wdXRlckNyZWRzKCk7CiAgICAgICAgICAgICAgICBpZiAoY3JlZHMgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiQ291bGQgbm90IG9idGFpbiBjb21wdXRlciBjcmVkZW50aWFscyIpOwogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIk5vIExEQVAgQ29ubmVjdGlvbiBjcmVkcyBzdXBwbGllZC4iKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="2" type="4">
+        <text>.trim()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsb2dnZXIuaXNEZWJ1Z0VuYWJsZWQoKSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoIkNvbm5lY3Rpb25Qb29sLmRvU2VydmVyRmFpbG92ZXIgdG8gMCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJlY29uZGl0aW9ucy5jaGVja0FyZ3VtZW50KCFTdHJpbmdzLmlzTnVsbE9yRW1wdHkoZG4pLCAiRE4gbXVzdCBoYXZlIHZhbGlkIHZhbHVlIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZUNvbm5BdHRlbXB0c0RvbmUgPSAtMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZUNvbm5BdHRlbXB0c0RvbmUgPSAtMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJlY29uZGl0aW9ucy5jaGVja0FyZ3VtZW50KCFTdHJpbmdzLmlzTnVsbE9yRW1wdHkoaG9zdCksICJob3N0IG11c3QgaGF2ZSB2YWxpZCB2YWx1ZS4iKTsKICAgICAgICAgICAgUHJlY29uZGl0aW9ucy5jaGVja0FyZ3VtZW50KHBvcnQgPiAwICYmIHBvcnQgPCA2NTUzNSwgInBvcnQgbXVzdCBiZSB2YWx1ZSBiZXR3ZWVuIDAgYW5kIDY1NTM1Iik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3VycmVudFNlcnZlclN0YXR1cyA9IERPV047Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJlY29uZGl0aW9ucy5jaGVkZGNrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgawo=</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gcHdkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gZG4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25uXD4=</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25uXD4=</last-pattern>
+      <last-pattern>;</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ldapServicePoolContext</entry>
-        <entry>bind</entry>
-        <entry>iocI</entry>
-        <entry encoding="base64">ICAgIHB1YmxpYyB2b2lkIG1ha2VDb25uZWN0aW9uQXZhaWxhYmxlKExEQVBDb25uZWN0aW9uIGNvbm4pICAgICB7ICAgICAgICAgU2hhcmVkQ29ubmVjdGlvbnMgc2hhcmVkQ29ubnMgPSBudWxsOyAgICAgICAgICBzeW5jaHJvbml6ZWQoaW5Vc2VMaXN0T2ZTaGFyZWRDb25uZWN0aW9ucykgICAgICAgICB7ICAgICAgICAgICAgIA==</entry>
-        <entry>ldapDAO.fallbackToPrimary</entry>
         <entry>logger.error</entry>
         <entry>reset</entry>
         <entry encoding="base64">XDxyZUNvbm5BdHRlbXB0c0RvbmVcPg==</entry>
@@ -254,6 +262,11 @@
         <entry>ldapConnectionPool</entry>
         <entry>IdentityStore</entry>
         <entry encoding="base64">XDxjb25uXD4=</entry>
+        <entry encoding="base64">XDxpblw+</entry>
+        <entry>Builder</entry>
+        <entry>a</entry>
+        <entry>build()</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
         <entry>set colorschema</entry>
@@ -275,6 +288,7 @@
         <entry>!ls</entry>
         <entry>!echo %</entry>
         <entry>w</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
