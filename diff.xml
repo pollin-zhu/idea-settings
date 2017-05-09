@@ -1,4 +1,11 @@
 <application>
+  <component name="DiffManager">
+    <enableFiles value="true" />
+    <enableMerge value="true" />
+    <filesTool value="/Applications/Araxis Merge.app/Contents/Utilities/compare" newValue="/Applications/Araxis Merge.app/Contents/Utilities/compare" />
+    <mergeTool value="/Applications/Araxis Merge.app/Contents/Utilities/compare" newValue="/Applications/Araxis Merge.app/Contents/Utilities/compare" />
+    <mergeToolParameters value="%1 %2 %3 %4" />
+  </component>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
