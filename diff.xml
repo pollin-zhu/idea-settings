@@ -1,5 +1,5 @@
 <application>
-  <component name="DiffManager">
+  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces">
     <enableFiles value="true" />
     <enableMerge value="true" />
     <filesTool value="/Applications/Araxis Merge.app/Contents/Utilities/compare" newValue="/Applications/Araxis Merge.app/Contents/Utilities/compare" />
