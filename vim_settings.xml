@@ -25,18 +25,20 @@
       <file name="/a.dummy" timestamp="1494307391881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTestHelper.java" timestamp="1494833957852">
-        <mark key="[" line="8" column="72" />
-        <mark key="]" line="8" column="72" />
-        <mark key="." line="8" column="72" />
-        <mark key="^" line="8" column="83" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTestHelper.java" timestamp="1494899175433">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="9" />
+        <mark key="." line="54" column="9" />
+        <mark key="^" line="54" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" timestamp="1494838170608">
-        <mark key="s" line="28" column="34" />
-        <mark key="[" line="243" column="89" />
-        <mark key="]" line="248" column="34" />
-        <mark key="." line="248" column="34" />
-        <mark key="^" line="248" column="34" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" timestamp="1494902229256">
+        <mark key="s" line="30" column="34" />
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="128" column="82" />
+        <mark key="]" line="129" column="22" />
+        <mark key="^" line="129" column="22" />
+        <mark key="." line="129" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ConnectionPool.java" timestamp="1494570267215">
         <mark key="a" line="284" column="26" />
@@ -46,13 +48,13 @@
         <mark key="." line="276" column="12" />
         <mark key="^" line="276" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTest.java" timestamp="1494833790241">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTest.java" timestamp="1494899211552">
         <mark key="a" line="24" column="49" />
-        <mark key="'" line="182" column="0" />
-        <mark key="[" line="144" column="53" />
-        <mark key="]" line="179" column="33" />
-        <mark key="." line="179" column="33" />
-        <mark key="^" line="179" column="33" />
+        <mark key="'" line="148" column="100" />
+        <mark key="[" line="155" column="8" />
+        <mark key="]" line="155" column="39" />
+        <mark key="." line="155" column="39" />
+        <mark key="^" line="155" column="39" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1494319285157">
         <mark key="[" line="0" column="0" />
@@ -124,38 +126,15 @@
       <file name="/fragment.java" timestamp="1494833802893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" timestamp="1494837812491">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="69" column="64" />
-        <mark key="]" line="70" column="105" />
-        <mark key="." line="70" column="105" />
-        <mark key="^" line="70" column="105" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" timestamp="1494901307212">
+        <mark key="'" line="133" column="30" />
+        <mark key="[" line="60" column="66" />
+        <mark key="]" line="60" column="63" />
+        <mark key="^" line="60" column="63" />
+        <mark key="." line="60" column="63" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="126" column="72" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="85" column="29" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="18" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclableResource.java" />
-      <jump line="127" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="33" column="42" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="55" column="36" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="103" column="42" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="121" column="17" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="20" column="54" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="131" column="31" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="98" column="74" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTest.java" />
-      <jump line="89" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTest.java" />
-      <jump line="148" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTest.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="65" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="141" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="86" column="27" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="49" column="46" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="70" column="63" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="158" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="161" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTest.java" />
-      <jump line="125" column="39" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTest.java" />
       <jump line="123" column="22" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTest.java" />
       <jump line="27" column="19" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTest.java" />
       <jump line="20" column="44" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTest.java" />
@@ -199,14 +178,12 @@
       <jump line="49" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
       <jump line="50" column="119" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
       <jump line="71" column="93" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
-      <jump line="61" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
       <jump line="75" column="4" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
       <jump line="72" column="65" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
       <jump line="77" column="100" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
       <jump line="91" column="90" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
       <jump line="108" column="82" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
-      <jump line="116" column="74" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
       <jump line="122" column="74" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
       <jump line="127" column="101" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
       <jump line="128" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
@@ -233,58 +210,83 @@
       <jump line="43" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="101" column="48" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="116" column="30" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="59" column="89" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTestHelper.java" />
+      <jump line="134" column="92" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTest.java" />
+      <jump line="143" column="65" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTest.java" />
+      <jump line="148" column="100" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTest.java" />
+      <jump line="61" column="43" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="140" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="133" column="30" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" />
+      <jump line="60" column="49" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="127" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="150" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
+      <jump line="120" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBETiAgQXV0aGVudGljYXRpb24gRE4gdXNlZCBmb3IgYmluZCBhbmQga2V5LgogICAgICogQHBhcmFtIFBXICBBdXRoZW50aWNhdGlvbiBwYXNzd29yZCB1c2VkIGZvciBiaW5kIGFuZCBrZXkuCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>new Stopwatch()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>new Stopwatch()</text>
+        <text>e.printStackTrace();</text>
       </register>
       <register name="/" type="4">
-        <text>_</text>
+        <text encoding="base64">XDxjb3VudGVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGNvbmN1cnJlbnRUaGVhZENvdW50OyBpKyspIHsKICAgICAgICAgICAgdGhyZWFkc1tpXS5zdGFydCgpOwogICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">Z2V0UmVzb3VyY2Vfd29ya193ZWxsX3dpdGhfcmVsZWFzZV9hbmRfbW9uaXRvcigpIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkc1tpXS5zdGFydCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgVCByZXNvdXJjZSA9IGF2YWlsYWJsZVJlc291cmNlcy5wb2xsKCk7CiAgICAgICAgICAgIGlmIChyZXNvdXJjZSE9bnVsbCkgewogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICByZXNvdXJjZUZhY3RvcnkucmVmcmVzaElmTmVlZHMocmVzb3VyY2UpOwogICAgICAgICAgICAgICAgICAgIGluVXNlUmVzb3VyY2VzLmFkZChyZXNvdXJjZSk7CiAgICAgICAgICAgICAgICAgICAgcmVzb3VyY2Uuc2V0SW5Vc2UoKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzb3VyY2U7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKCJyZWZyZXNoIHJlc291cmNlIGZhaWxlZCgje30pLiB3aWxsIHRyeSBiZWZvcmUgdGltZW91dC4iLCArK2NvdW50ZXIsIGUpOwogICAgICAgICAgICAgICAgICAgIGF2YWlsYWJsZVJlc291cmNlcy5vZmZlcihyZXNvdXJjZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9hc3NlcnRTaXplKHBvb2xTaXplLTEsIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBsb2NrZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9hc3NlcnRTaXplKHBvb2xTaXplLCAwKTsK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBnZXRSZXNvdXJjZV93b3JrX3dlbGxfd2l0aF9yZWxlYXNlX2FuZF9tb25pdG9yKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CgogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgbG9nZ2VyLmluZm8oInt9IHRocmVhZHMgY29tcGxldGVkLiB0b3RhbGx5IGdvdCB7fSByZXNvdXJjZXMsIHt9IG51bGwuIiwgZG9uZVRocmVhZC5pbnRWYWx1ZSgpLCB2YWxpZFJlc291cmNlQ291bnQuaW50VmFsdWUoKSwgbnVsbFJlc291cmNlQ291bnQuaW50VmFsdWUoKSk7CiAgICAgICAgYXNzZXJ0VGhhdChkb25lVGhyZWFkLmludFZhbHVlKCksIGlzKGNvbmN1cnJlbnRUaGVhZENvdW50KSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkc1tpXS5zZXROYW1lKCJyZWN5Y2xlcG9vbC10ZXN0LWNsaWVudC0iICsgKGkrMSkpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>single</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oImdvdCB7fSByZXNvdXJjZSBhZnRlciB7fW1zIiwgcmVzb3VyY2U9PW51bGw/Im51bGwiIDogInZhbGlkIiwgZWxhcHNlZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgbW9uaXRvckluVXNlUmVzb3VyY2VzX25vX2NoYW5nZV9pZl9ub19yZXNvdXJjZV9pc19pbl91c2UoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBmaW5hbCBpbnQgYXZhaWxTaXplID0gdGVzdC5nZXRBdmFpbGFibGVSZXNvdXJjZVNpemUoKTsKICAgICAgICBmaW5hbCBpbnQgaW5Vc2VTaXplID0gdGVzdC5nZXRJblVzZVNpemUoKTsKCiAgICAgICAgd2FpdElkbGVTY2FuU3RhcnQoKTsKCiAgICAgICAgYXNzZXJ0U2l6ZShhdmFpbFNpemUsIGluVXNlU2l6ZSk7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIHdhaXRJZGxlU2NhblN0YXJ0KCkgdGhyb3dzIEludGVycnVwdGVkRXhjZXB0aW9uIHsKICAgICAgICBUaW1lVW5pdC5NSUxMSVNFQ09ORFMuc2xlZXAobWF4SWRsZVRpbWUqMTAwMCoyKTsKICAgIH0KCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgbW9uaXRvckluVXNlUmVzb3VyY2VzX25vX2NoYW5nZV9pZl9ub19pbl91c2VfcmVzb3VyY2VfaXNfdGltZW91dCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIGZpbmFsIFJlY3ljbGFibGVSZXNvdXJjZSBpblVzZVJlc291cmNlID0gdGVzdC5nZXRSZXNvdXJjZSgpOwogICAgICAgIGZpbmFsIGludCBpblVzZVNpemUgPSAxOwogICAgICAgIGZpbmFsIGludCBhdmFpbFNpemUgPSBwb29sU2l6ZS0xOwogICAgICAgIGFzc2VydFRoYXQoaW5Vc2VSZXNvdXJjZS5nZXRXcmFwcGVkUmVzb3VyY2UoKSwgbm90TnVsbFZhbHVlKCkpOwoKICAgICAgICAvLyBtYW51YWxseSB0cmlnZ2VyIGlkbGUgcmVzb3VyY2Ugc2Nhbi4KICAgICAgICBnZXRNb25pdG9ySW5Vc2VSZXNvdXJjZSgpLmludm9rZSh0ZXN0KTsKCiAgICAgICAgYXNzZXJ0U2l6ZShhdmFpbFNpemUsIGluVXNlU2l6ZSk7CiAgICAgICAgYXNzZXJ0VGhhdChpblVzZVJlc291cmNlLmdldFdyYXBwZWRSZXNvdXJjZSgpLCBub3ROdWxsVmFsdWUoKSk7CiAgICB9CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIG1vbml0b3JJblVzZVJlc291cmNlc19pZGxlX3Jlc291cmNlX3Nob3VsZF9iZV9yZWN5Y2xlZCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIHRlc3QgPSBjcmVhdGVUZXN0KDEpOwogICAgICAgIGZpbmFsIFJlY3ljbGFibGVSZXNvdXJjZSBpblVzZVJlc291cmNlID0gdGVzdC5nZXRSZXNvdXJjZSgpOwogICAgICAgIGZpbmFsIGludCBpblVzZVNpemUgPSAxOwogICAgICAgIGZpbmFsIGludCBhdmFpbFNpemUgPSAwOwogICAgICAgIGZpbmFsIE9iamVjdCB3cmFwcGVkUmVzb3VyY2UgPSBpblVzZVJlc291cmNlLmdldFdyYXBwZWRSZXNvdXJjZSgpOwogICAgICAgIGFzc2VydFRoYXQod3JhcHBlZFJlc291cmNlLCBub3ROdWxsVmFsdWUoKSk7CiAgICAgICAgd2FpdElkbGVTY2FuU3RhcnQoKTsKCiAgICAgICAgYXNzZXJ0U2l6ZShhdmFpbFNpemUrMSwgaW5Vc2VTaXplLTEpOwogICAgICAgIC8vIHNob3VsZCBiZSB1bmxpbmtlZCB3aXRoIHByZXZpb3VzIHdyYXBwZWQgcmVzb3VyY2UuCiAgICAgICAgYXNzZXJ0VGhhdChpblVzZVJlc291cmNlLmdldFdyYXBwZWRSZXNvdXJjZSgpLCBudWxsVmFsdWUoKSk7CgogICAgICAgIC8vIHNpbmNlIHBvb2wgc2l6ZSBpcyAxLCBuZXh0IGdldFJlc291cmNlKCkgbXVzdCByZXR1cm4gYSByZXNvdXJjZSB3cmFwcGluZyBwcmV2aW91cyB3cmFwcGVkIHJlc291cmNlLgogICAgICAgIGFzc2VydFRoYXQodGVzdC5nZXRSZXNvdXJjZSgpLmdldFdyYXBwZWRSZXNvdXJjZSgpLCBpcyh3cmFwcGVkUmVzb3VyY2UpKTsKICAgIH0KCiAgICBwcml2YXRlIFJlY3ljbGFibGVQb29sTWFuYWdlciBjcmVhdGVUZXN0KGZpbmFsIGludCBwb29sU2l6ZSkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKHRlc3QhPW51bGwpCiAgICAgICAgICAgIHRlc3Quc2h1dGRvd24oKTsKCiAgICAgICAgcmV0dXJuIG5ldyBSZWN5Y2xhYmxlUG9vbE1hbmFnZXIocmVzb3VyY2VGYWN0b3J5PT1udWxsPyBuZXcgUmVzb3VyY2VGYWN0b3J5U3R1YigpIDogcmVzb3VyY2VGYWN0b3J5LAogICAgICAgICAgICAgICAgcG9vbFNpemUsIG1heElkbGVUaW1lLCBtYXhXYWl0aW5nVGltZSwgd2FpdGluZ0ludGVydmFsKTsKICAgIH0KCiAgICBwcml2YXRlIE1ldGhvZCBnZXRNb25pdG9ySW5Vc2VSZXNvdXJjZSgpIHRocm93cyBOb1N1Y2hNZXRob2RFeGNlcHRpb24gewogICAgICAgIGZpbmFsIE1ldGhvZCBtZXRob2QgPSBSZWN5Y2xhYmxlUG9vbE1hbmFnZXIuY2xhc3MuZ2V0RGVjbGFyZWRNZXRob2QoIm1vbml0b3JJblVzZVJlc291cmNlcyIpOwogICAgICAgIG1ldGhvZC5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgIHJldHVybiBtZXRob2Q7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGFzc2VydFNpemUoZmluYWwgaW50IGF2YWlsYWJsZVNpemUsIGZpbmFsIGludCBpblVzZVNpemUpIHsKICAgICAgICBhc3NlcnRUaGF0KHRlc3QuZ2V0QXZhaWxhYmxlUmVzb3VyY2VTaXplKCksIGlzKGF2YWlsYWJsZVNpemUpKTsKICAgICAgICBhc3NlcnRUaGF0KHRlc3QuZ2V0SW5Vc2VTaXplKCksIGlzKGluVXNlU2l6ZSkpOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIFJlY3ljbGFibGVSZXNvdXJjZVN0dWIgZXh0ZW5kcyBCYXNpY1JlY3ljbGFibGVSZXNvdXJjZTxXcmFwcGVkUmVzb3VyY2VTdHViPiB7CiAgICAgICAgcHJpdmF0ZSBmaW5hbCBpbnQgaW5kZXg7CgogICAgICAgIHB1YmxpYyBSZWN5Y2xhYmxlUmVzb3VyY2VTdHViKGZpbmFsIFdyYXBwZWRSZXNvdXJjZVN0dWIgd3JhcHBlZFJlc291cmNlLCBmaW5hbCBpbnQgaW5kZXgpIHsKICAgICAgICAgICAgc3VwZXIod3JhcHBlZFJlc291cmNlKTsKICAgICAgICAgICAgdGhpcy5pbmRleCA9IGluZGV4OwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICAgICAgcmV0dXJuICJSZWN5Y2xhYmxlUmVzb3VyY2VTdHVieyIgKyAiaW5kZXg9JyIgKyBpbmRleCArICdcJycgKyAnfSc7CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIFdyYXBwZWRSZXNvdXJjZVN0dWIgewogICAgICAgIHByaXZhdGUgZmluYWwgaW50IGluZGV4OwoKICAgICAgICBXcmFwcGVkUmVzb3VyY2VTdHViKGZpbmFsIGludCBpbmRleCkgewogICAgICAgICAgICB0aGlzLmluZGV4ID0gaW5kZXg7CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIFJlc291cmNlRmFjdG9yeVN0dWIgaW1wbGVtZW50cyBSZXNvdXJjZUZhY3Rvcnk8UmVjeWNsYWJsZVJlc291cmNlPFdyYXBwZWRSZXNvdXJjZVN0dWI+LCBXcmFwcGVkUmVzb3VyY2VTdHViPiB7CiAgICAgICAgcHJpdmF0ZSBpbnQgY291bnRlciA9IDE7CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBSZWN5Y2xhYmxlUmVzb3VyY2VTdHViIGNyZWF0ZVJlc291cmNlKCkgewogICAgICAgICAgICBmaW5hbCBSZWN5Y2xhYmxlUmVzb3VyY2VTdHViIHJlc291cmNlID0gbmV3IFJlY3ljbGFibGVSZXNvdXJjZVN0dWIoCiAgICAgICAgICAgICAgICAgICAgbmV3IFdyYXBwZWRSZXNvdXJjZVN0dWIoY291bnRlciksIGNvdW50ZXIpOwogICAgICAgICAgICBjb3VudGVyKys7CiAgICAgICAgICAgIHJldHVybiByZXNvdXJjZTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBSZWN5Y2xhYmxlUmVzb3VyY2VTdHViIGNyZWF0ZVJlc291cmNlKGZpbmFsIFdyYXBwZWRSZXNvdXJjZVN0dWIgd3JhcHBlZFJlc291cmNlKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgUmVjeWNsYWJsZVJlc291cmNlU3R1Yih3cmFwcGVkUmVzb3VyY2UsIGNvdW50ZXIrKyk7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCByZWZyZXNoSWZOZWVkcyhmaW5hbCBSZWN5Y2xhYmxlUmVzb3VyY2U8V3JhcHBlZFJlc291cmNlU3R1Yj4gcmVzb3VyY2UpIHRocm93cyBSZWN5Y2xlUmVzb3VyY2VFeGNlcHRpb24gewoKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_</last-search>
+      <last-search encoding="base64">XDxjb3VudGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>_</last-pattern>
+      <last-pattern encoding="base64">XDxjb3VudGVyXD4=</last-pattern>
       <last-replace>T</last-replace>
       <last-substitute encoding="base64">UmVjeWNsYWJsZVJlc291cmNlPFc+</last-substitute>
       <last-dir>1</last-dir>
@@ -292,7 +294,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/\*\*</entry>
         <entry>\/\*</entry>
         <entry>while</entry>
         <entry encoding="base64">XDxSZWN5Y2xhYmxlQ29ubmVjdGlvblw+</entry>
@@ -312,6 +313,7 @@
         <entry>{</entry>
         <entry>;</entry>
         <entry>_</entry>
+        <entry encoding="base64">XDxjb3VudGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>edit</entry>
@@ -320,19 +322,19 @@
         <entry>set hlsearch</entry>
         <entry>regs</entry>
         <entry>615</entry>
-        <entry>jumps</entry>
         <entry>ls</entry>
         <entry>!ls</entry>
         <entry>!echo %</entry>
         <entry>%s//RecyclableResource/gc</entry>
         <entry>vsp</entry>
         <entry>%s//T/gc</entry>
-        <entry>reg</entry>
         <entry encoding="base64">JXMvUmVjeWNsYWJsZVJlc291cmNlPFc+L1QvZ2M=</entry>
         <entry>q</entry>
         <entry>delete</entry>
         <entry encoding="base64">JzwsJz5kZWw=</entry>
+        <entry>jumps</entry>
         <entry encoding="base64">JzwsJz5kZWxldGU=</entry>
+        <entry>reg</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
