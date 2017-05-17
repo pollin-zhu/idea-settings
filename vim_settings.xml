@@ -16,11 +16,11 @@
         <mark key="." line="80" column="52" />
         <mark key="^" line="80" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/BasicRecyclableResource.java" timestamp="1494983841970">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="26" column="14" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/BasicRecyclableResource.java" timestamp="1494985771820">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="41" column="26" />
+        <mark key="." line="41" column="26" />
+        <mark key="^" line="41" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1494902732388">
         <mark key="[" line="0" column="0" />
@@ -32,11 +32,11 @@
         <mark key="." line="54" column="9" />
         <mark key="^" line="54" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" timestamp="1494983863438">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" timestamp="1494985465933">
         <mark key="s" line="31" column="34" />
         <mark key="c" line="59" column="59" />
         <mark key="'" line="74" column="0" />
-        <mark key="[" line="123" column="37" />
+        <mark key="[" line="242" column="41" />
         <mark key="]" line="123" column="37" />
         <mark key="." line="123" column="37" />
         <mark key="^" line="59" column="54" />
@@ -100,22 +100,22 @@
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclableResource.java" timestamp="1494984258631">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclableResource.java" timestamp="1494985356769">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="16" column="36" />
-        <mark key="^" line="16" column="74" />
-        <mark key="." line="16" column="36" />
+        <mark key="[" line="18" column="85" />
+        <mark key="]" line="19" column="46" />
+        <mark key="." line="19" column="46" />
+        <mark key="^" line="19" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/SampleRecyclablePoolManager.java" timestamp="1494308701245">
         <mark key="[" line="7" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" timestamp="1494983812422">
-        <mark key="'" line="13" column="6" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="29" column="14" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" timestamp="1494985795572">
+        <mark key="'" line="14" column="6" />
+        <mark key="[" line="63" column="15" />
+        <mark key="]" line="63" column="30" />
+        <mark key="^" line="63" column="30" />
+        <mark key="." line="63" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/recyclablepool/RecyclablePoolManager.java" timestamp="1494307300344">
         <mark key="a" line="161" column="30" />
@@ -243,43 +243,43 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBETiAgQXV0aGVudGljYXRpb24gRE4gdXNlZCBmb3IgYmluZCBhbmQga2V5LgogICAgICogQHBhcmFtIFBXICBBdXRoZW50aWNhdGlvbiBwYXNzd29yZCB1c2VkIGZvciBiaW5kIGFuZCBrZXkuCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">QGxpbmsg</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QGxpbmsg</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>forceRecycle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB0YWtlQnJlYWsoKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgLy8gc2xlZXAgdGltZSBtdXN0IGJlIGdyZWF0IHRoYW4gbWF4SWRsZVRpbWUgc28gc29tZSByZXNvdXJjZSBjYW4gYmUgcmVnYXJkZWQgYXMgaWRsZSByZXNvdXJjZS4KICAgICAgICAgICAgVGltZVVuaXQuTUlMTElTRUNPTkRTLnNsZWVwKHIubmV4dEludChtYXhXYWl0aW5nVGltZSkrMSk7CiAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjYWxsZXJTdGFja1RyYWNlID0gbnVsbDsKICAgICAgICB1c2VkID0gZmFsc2U7CiAgICAgICAgbGFzdEFjdGl2ZVRpbWUgPSAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gcHJldmlvdXMgd3JhcHBlZCByZXNvdXJjZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcHJldmlvdXNXcmFwcGVkUmVzb3VyY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBXIHByZXZpb3VzV3JhcHBlZFJlc291cmNlID0gd3JhcHBlZFJlc291cmNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRha2VCcmVhaygpOwo=</text>
+        <text encoding="base64">ICAgICAqICA8bGk+e0BsaW5rICNnZXRMYXN0QWN0aXZlVGltZSgpfTwvbGk+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFrZUJyZWFrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gcHJldmlvdXMgd3JhcHBlZCByZXNvdXJjZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBhZGQgcmFuZG9tKDF+MTBtcykgZGVsYXkuCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcHJldmlvdXNXcmFwcGVkUmVzb3VyY2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB0YWtlQnJlYWsoKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgLy8gc2xlZXAgdGltZSBtdXN0IGJlIGdyZWF0IHRoYW4gbWF4SWRsZVRpbWUgc28gc29tZSByZXNvdXJjZSBjYW4gYmUgcmVnYXJkZWQgYXMgaWRsZSByZXNvdXJjZS4KICAgICAgICAgICAgVGltZVVuaXQuTUlMTElTRUNPTkRTLnNsZWVwKHIubmV4dEludChtYXhXYWl0aW5nVGltZSkrMSk7CiAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBXIHByZXZpb3VzV3JhcHBlZFJlc291cmNlID0gd3JhcHBlZFJlc291cmNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc2xlZXAgdGltZSBtdXN0IGJlIGdyZWF0IHRoYW4gbWF4SWRsZVRpbWUgc28gc29tZSByZXNvdXJjZSBjYW4gYmUgcmVnYXJkZWQgYXMgaWRsZSByZXNvdXJjZS4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
