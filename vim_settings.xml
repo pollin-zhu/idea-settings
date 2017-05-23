@@ -84,10 +84,12 @@
         <mark key="^" line="13" column="75" />
         <mark key="." line="19" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/InMemorySessionManager.java" timestamp="1495511307310" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/SampleResource.java" timestamp="1494308685941">
         <mark key="[" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" timestamp="1495508042048" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Logout.java" timestamp="1495510701529" />
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1494319280962">
         <mark key="[" line="0" column="0" />
       </file>
