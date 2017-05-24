@@ -102,6 +102,10 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/SampleResource.java" timestamp="1494308685941">
         <mark key="[" line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/openDJConfigStoreProvider.properties" timestamp="1495602843128">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" timestamp="1495519641064" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Logout.java" timestamp="1495510701529" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/PoolStatistic.java" timestamp="1495593722506">
@@ -278,8 +282,8 @@
       <register name="a" type="4">
         <text>getPoolStatistic().getAvailSize</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ldapDAO.urls</text>
       </register>
       <register name="b" type="4">
         <text>getPoolStatistic().getInUseSize</text>
@@ -290,8 +294,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQb29sU3RhdGlzdGljXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzc2VydFRoYXQodGVzdC5nZXRQb29sU3RhdGlzdGljKCkuaXNDb3JydXB0ZWQoKSwgaXMoZmFsc2UpKTsK</text>
+      <register name="0" type="4">
+        <text>ldapDAO.urls</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -321,7 +325,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nUG9vbEluZm8oInBvb2wgaW5mbyhhZnRlcikiKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -363,7 +367,6 @@
         <entry>delete</entry>
         <entry>jumps</entry>
         <entry encoding="base64">JzwsJz5kZWxldGU=</entry>
-        <entry>reg</entry>
         <entry encoding="base64">JzwsJz5kZWw=</entry>
         <entry>x</entry>
         <entry>vsplit</entry>
@@ -377,6 +380,7 @@
         <entry>%s//getPoolStatistic().getAvailSize/gc</entry>
         <entry>%s//getPoolStatistic().getInUseSize/gc</entry>
         <entry>w</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
