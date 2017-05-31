@@ -21,7 +21,6 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/SessionManager.java" timestamp="1495506178026" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/BasicRecyclableResource.java" timestamp="1495419265728">
         <mark key="'" line="68" column="13" />
         <mark key="[" line="29" column="0" />
@@ -39,8 +38,6 @@
         <mark key="^" line="62" column="55" />
         <mark key="." line="62" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/UpdateGuidTaskImpl.java" timestamp="1495506502999" />
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/UpdateGUIDTask.java" timestamp="1495506694989" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" timestamp="1495610743717">
         <mark key="s" line="41" column="34" />
         <mark key="c" line="69" column="59" />
@@ -65,7 +62,6 @@
         <mark key="." line="276" column="12" />
         <mark key="^" line="276" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/SyncQueryTaskResultCodeHandler.java" timestamp="1495506808628" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTest.java" timestamp="1495594288584">
         <mark key="a" line="26" column="49" />
         <mark key="'" line="59" column="24" />
@@ -87,7 +83,6 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1494319357524">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SessionImpl.java" timestamp="1495509542367" />
       <file name="/Dummy.txt" timestamp="1495519532646">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,7 +92,6 @@
         <mark key="^" line="13" column="75" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/InMemorySessionManager.java" timestamp="1495764811059" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RetryableLdapConnection.java" timestamp="1495690978792">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="61" />
@@ -109,8 +103,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" timestamp="1495519641064" />
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Logout.java" timestamp="1495510701529" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/PoolStatistic.java" timestamp="1495593722506">
         <mark key="[" line="46" column="32" />
         <mark key="]" line="49" column="47" />
@@ -145,7 +137,7 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/SampleRecyclablePoolManager.java" timestamp="1494308701245">
         <mark key="[" line="7" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" timestamp="1495694736689">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" timestamp="1496194302061">
         <mark key="'" line="562" column="10" />
         <mark key="[" line="624" column="0" />
         <mark key="]" line="624" column="0" />
