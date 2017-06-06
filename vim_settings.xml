@@ -117,8 +117,14 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Kotlin-GetStarted/src/main/kotlin/name/flyingpig/getstarted/kotlin/Return.kt" timestamp="1496717828859">
-        <mark key="[" line="5" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/Kotlin-GetStarted/src/main/kotlin/name/flyingpig/getstarted/kotlin/app.kt" timestamp="1496724537138">
+        <mark key="[" line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Kotlin-GetStarted/src/main/kotlin/name/flyingpig/getstarted/kotlin/Return.kt" timestamp="1496718763106">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/ResourceCreationException.java" timestamp="1494575128653">
         <mark key="[" line="7" column="13" />
@@ -137,6 +143,11 @@
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/SampleRecyclablePoolManager.java" timestamp="1494308701245">
         <mark key="[" line="7" column="40" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Kotlin-GetStarted/src/main/kotlin/name/flyingpig/getstarted/kotlin/Main.kt" timestamp="1496724620205">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RetryableLdapConnection.java" timestamp="1495690978792">
         <mark key="[" line="41" column="0" />
@@ -181,9 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="597" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
-      <jump line="602" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
-      <jump line="607" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="612" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="617" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="622" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
@@ -281,13 +289,16 @@
       <jump line="337" column="34" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="736" column="61" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="87" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/fromcommonproj/ConnectionPoolConcurrentTest.java" />
+      <jump line="21" column="4" filename="$USER_HOME$/IdeaProjects/Kotlin-GetStarted/src/main/kotlin/name/flyingpig/getstarted/kotlin/Return.kt" />
+      <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/Kotlin-GetStarted/src/main/kotlin/name/flyingpig/getstarted/kotlin/Return.kt" />
+      <jump line="7" column="13" filename="$USER_HOME$/IdeaProjects/Kotlin-GetStarted/src/main/kotlin/name/flyingpig/getstarted/kotlin/Return.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>0f,Dj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>Int</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -311,7 +322,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text>ConnectionPool</text>
@@ -323,37 +334,37 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IHBvbGxpIG9uIDIwMTcvNi82LgogKi8KY2xhc3MgUmV0dXJuIHsKCn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHJlbGVhc2VSYXdDb25uZWN0aW9uKGZpbmFsIExEQVBDb25uZWN0aW9uIGNvbm5lY3Rpb24pIHRocm93cyBMREFQRXhjZXB0aW9uIHsKICAgICAgICBjb25uZWN0aW9uLmRpc2Nvbm5lY3QoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGZ1biBtYWluKGFyZ3M6IEFycmF5PEludD4pIHsKICAgICAgICB2YWwgaW50cyA9IGludEFycmF5T2YoMywyLDYsMCw5KTsKCiAgICAgICAgZm9vKGludHMpCiAgICB9CgogICAgZnVuIGZvbyhpbnRzOiBJbnRBcnJheSkgewogICAgICAgIHByaW50bG4oIlN0YXJ0aW5nLi4uIikKCiAgICAgICAgaW50cy5mb3JFYWNoIHsKICAgICAgICAgICAgaWYgKGl0ID09IDApIHJldHVybgogICAgICAgICAgICBwcmludGxuKGl0KQogICAgICAgIH0KCiAgICAgICAgcHJpbnRsbigiRE9ORSIpCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgTERBUENvbm5lY3Rpb24gZGV0YWNoZWRDb25uID0gZmlyc3RCYXRjaGVzLmdldCgwKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCJvdT1TeXN0ZW0gU2VydmljZXMsZGM9SWRlbnRpdHkiLCBMREFQQ29ubmVjdGlvbi5TQ09QRV9TVUIsICIoY249aWRzdmNVc2VyKSIsIG5ldyBTdHJpbmdbXXsiY24ifSwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBtYWluKGFyZ3M6IEFycmF5PEludD4pIHsKICAgICAgICB2YWwgaW50cyA9IGludEFycmF5T2YoMywyLDYsMCw5KTsKCiAgICAgICAgZm9vKGludHMpCiAgICB9CgogICAgZnVuIGZvbyhpbnRzOiBJbnRBcnJheSkgewogICAgICAgIHByaW50bG4oIlN0YXJ0aW5nLi4uIikKCiAgICAgICAgaW50cy5mb3JFYWNoIHsKICAgICAgICAgICAgaWYgKGl0ID09IDApIHJldHVybgogICAgICAgICAgICBwcmludGxuKGl0KQogICAgICAgIH0KCiAgICAgICAgcHJpbnRsbigiRE9ORSIpCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PD8gZXh0ZW5kcyBMREFQQ29ubmVjdGlvbj4gY29ubmVjdGlvbnMgPSBydW5PdXRPZkNvbm5lY3Rpb25zUXVpY2tseSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRHZXRWZXJ5UXVpY2tseShzdG9wd2F0Y2gpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdG9wd2F0Y2ggc3RvcHdhdGNoID0gU3RvcHdhdGNoLmNyZWF0ZVN0YXJ0ZWQoKTsK</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name=":" type="4">
-        <text>33</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -389,7 +400,6 @@
         <entry>ConnectionPool</entry>
       </history-search>
       <history-cmd>
-        <entry>c</entry>
         <entry>close</entry>
         <entry>vspl</entry>
         <entry>%s//getPoolStatistic().getAvailSize/gc</entry>
@@ -405,10 +415,11 @@
         <entry>70</entry>
         <entry>122</entry>
         <entry>313</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5j</entry>
         <entry encoding="base64">JzwsJz5k</entry>
         <entry>33</entry>
+        <entry encoding="base64">JzwsJz4yMw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -470,6 +481,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
