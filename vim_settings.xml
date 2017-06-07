@@ -350,7 +350,7 @@
         <text encoding="base64">ICAgICAgICBTdG9wd2F0Y2ggc3RvcHdhdGNoID0gU3RvcHdhdGNoLmNyZWF0ZVN0YXJ0ZWQoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>33</text>
+        <text>set number</text>
       </register>
     </registers>
     <search>
@@ -394,9 +394,7 @@
         <entry>reg a</entry>
         <entry>reg b</entry>
         <entry>reg</entry>
-        <entry>set relativenumber</entry>
         <entry>set nu</entry>
-        <entry>set number</entry>
         <entry>set norelativenumber</entry>
         <entry>403</entry>
         <entry>70</entry>
@@ -406,6 +404,8 @@
         <entry encoding="base64">JzwsJz5j</entry>
         <entry encoding="base64">JzwsJz5k</entry>
         <entry>33</entry>
+        <entry>set relativenumber</entry>
+        <entry>set number</entry>
       </history-cmd>
       <history-expr />
       <history-input />
