@@ -117,6 +117,9 @@
         <mark key="^" line="49" column="47" />
         <mark key="." line="49" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" timestamp="1496900690702">
+        <mark key="'" line="411" column="45" />
+      </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1494319280962">
         <mark key="[" line="0" column="0" />
       </file>
@@ -178,12 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="597" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
-      <jump line="602" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
-      <jump line="607" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
-      <jump line="612" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
-      <jump line="617" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
-      <jump line="622" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="627" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="632" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="637" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
@@ -278,6 +275,12 @@
       <jump line="337" column="34" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="736" column="61" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="87" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/fromcommonproj/ConnectionPoolConcurrentTest.java" />
+      <jump line="325" column="19" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" />
+      <jump line="326" column="38" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" />
+      <jump line="328" column="45" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" />
+      <jump line="408" column="19" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" />
+      <jump line="409" column="38" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" />
+      <jump line="411" column="45" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -311,7 +314,7 @@
         <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>ConnectionPool</text>
+        <text encoding="base64">XDxwZW5kaW5nVGFza3NcPg==</text>
       </register>
       <register name="0" type="4">
         <text>search(&quot;ou=System Services,dc=Identity&quot;, LDAPConnection.SCOPE_SUB, &quot;(cn=idsvcUser)&quot;, new String[]{&quot;cn&quot;}, false);</text>
@@ -354,9 +357,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ConnectionPool</last-search>
+      <last-search encoding="base64">XDxwZW5kaW5nVGFza3NcPg==</last-search>
       <last-offset />
-      <last-pattern>ConnectionPool</last-pattern>
+      <last-pattern encoding="base64">XDxwZW5kaW5nVGFza3NcPg==</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">XDxnZXRJblVzZVNpemVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -364,7 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry>E</entry>
         <entry>l</entry>
         <entry>)</entry>
         <entry>}</entry>
@@ -384,6 +386,7 @@
         <entry>logger\.</entry>
         <entry>\/</entry>
         <entry>ConnectionPool</entry>
+        <entry encoding="base64">XDxwZW5kaW5nVGFza3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>c</entry>
