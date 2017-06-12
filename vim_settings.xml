@@ -22,6 +22,7 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/BearerAuthorizationProvider.java" timestamp="1497255084847" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/log4j.properties" timestamp="1496294620728">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="20" />
@@ -48,12 +49,13 @@
         <mark key="^" line="62" column="55" />
         <mark key="." line="62" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/SyncTaskAvatarHandlerImpl.java" timestamp="1497254917630" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/log4j.properties" timestamp="1496294587906">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="220" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1496295820109">
-        <mark key="'" line="735" column="61" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1497254473601">
+        <mark key="'" line="220" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" timestamp="1496207496432">
         <mark key="s" line="42" column="34" />
@@ -182,7 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="627" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="632" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="637" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="642" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
@@ -282,6 +283,7 @@
       <jump line="408" column="19" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" />
       <jump line="409" column="38" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" />
       <jump line="411" column="45" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" />
+      <jump line="220" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -315,7 +317,7 @@
         <text>public</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZW5kaW5nVGFza3NcPg==</text>
+        <text>AvatarHandler</text>
       </register>
       <register name="0" type="4">
         <text>search(&quot;ou=System Services,dc=Identity&quot;, LDAPConnection.SCOPE_SUB, &quot;(cn=idsvcUser)&quot;, new String[]{&quot;cn&quot;}, false);</text>
@@ -358,9 +360,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZW5kaW5nVGFza3NcPg==</last-search>
+      <last-search>AvatarHandler</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZW5kaW5nVGFza3NcPg==</last-pattern>
+      <last-pattern>AvatarHandler</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">XDxnZXRJblVzZVNpemVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -368,8 +370,6 @@
     </search>
     <history>
       <history-search>
-        <entry>l</entry>
-        <entry>)</entry>
         <entry>}</entry>
         <entry>=</entry>
         <entry>notifyAll</entry>
@@ -388,6 +388,8 @@
         <entry>\/</entry>
         <entry>ConnectionPool</entry>
         <entry encoding="base64">XDxwZW5kaW5nVGFza3NcPg==</entry>
+        <entry>AvatarClient</entry>
+        <entry>AvatarHandler</entry>
       </history-search>
       <history-cmd>
         <entry>c</entry>
