@@ -22,7 +22,6 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/BearerAuthorizationProvider.java" timestamp="1497255084847" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/log4j.properties" timestamp="1496294620728">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="20" />
@@ -39,10 +38,13 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/LdapConfig.java" timestamp="1496295591426">
         <mark key="[" line="31" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" timestamp="1497428633122">
+        <mark key="'" line="562" column="12" />
+      </file>
       <file name="/a.dummy" timestamp="1496301108183">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/aci/authentication/modules/OAuthCodeSsoTokenLoginModule.java" timestamp="1497340546613">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/aci/authentication/modules/OAuthCodeSsoTokenLoginModule.java" timestamp="1497428618349">
         <mark key="'" line="187" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTestHelper.java" timestamp="1495526436998">
@@ -52,12 +54,11 @@
         <mark key="^" line="62" column="55" />
         <mark key="." line="62" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/SyncTaskAvatarHandlerImpl.java" timestamp="1497254917630" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/log4j.properties" timestamp="1496294587906">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="220" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/LDAPjaas.config" timestamp="1497340073550" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/LDAPjaas.config" timestamp="1497428611315" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1497254473601">
         <mark key="'" line="220" column="8" />
       </file>
@@ -108,7 +109,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/CommonIdentityClient.java" timestamp="1497253594367" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/PoolStatistic.java" timestamp="1495593722506">
         <mark key="[" line="46" column="32" />
         <mark key="]" line="49" column="47" />
@@ -179,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="637" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="642" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="647" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="652" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
@@ -279,6 +278,7 @@
       <jump line="411" column="45" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" />
       <jump line="220" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="187" column="19" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/aci/authentication/modules/OAuthCodeSsoTokenLoginModule.java" />
+      <jump line="562" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -312,7 +312,7 @@
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2RlXD4=</text>
+        <text encoding="base64">XDx1aWRGcm9tT0F1dGhDb2RlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>search(&quot;ou=System Services,dc=Identity&quot;, LDAPConnection.SCOPE_SUB, &quot;(cn=idsvcUser)&quot;, new String[]{&quot;cn&quot;}, false);</text>
@@ -355,9 +355,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2RlXD4=</last-search>
+      <last-search encoding="base64">XDx1aWRGcm9tT0F1dGhDb2RlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2RlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1aWRGcm9tT0F1dGhDb2RlXD4=</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">XDxnZXRJblVzZVNpemVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -365,7 +365,6 @@
     </search>
     <history>
       <history-search>
-        <entry>=</entry>
         <entry>notifyAll</entry>
         <entry>signalAll</entry>
         <entry encoding="base64">XDxSZWN5Y2xhYmxlUmVzb3VyY2VTdHViXD4=</entry>
@@ -385,6 +384,7 @@
         <entry>AvatarClient</entry>
         <entry>AvatarHandler</entry>
         <entry encoding="base64">XDxjb2RlXD4=</entry>
+        <entry encoding="base64">XDx1aWRGcm9tT0F1dGhDb2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>c</entry>
