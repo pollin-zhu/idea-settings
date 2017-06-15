@@ -38,8 +38,9 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/LdapConfig.java" timestamp="1496295591426">
         <mark key="[" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" timestamp="1497428633122">
-        <mark key="'" line="562" column="12" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" timestamp="1497492253993">
+        <mark key="'" line="596" column="18" />
+        <mark key="m" line="616" column="12" />
       </file>
       <file name="/a.dummy" timestamp="1496301108183">
         <mark key="[" line="0" column="0" />
@@ -179,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="642" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="647" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="652" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="192" column="99" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
@@ -279,6 +279,7 @@
       <jump line="220" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="187" column="19" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/aci/authentication/modules/OAuthCodeSsoTokenLoginModule.java" />
       <jump line="562" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
+      <jump line="596" column="18" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -312,7 +313,7 @@
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1aWRGcm9tT0F1dGhDb2RlXD4=</text>
+        <text encoding="base64">XDxpZEVudHJ5XD4=</text>
       </register>
       <register name="0" type="4">
         <text>search(&quot;ou=System Services,dc=Identity&quot;, LDAPConnection.SCOPE_SUB, &quot;(cn=idsvcUser)&quot;, new String[]{&quot;cn&quot;}, false);</text>
@@ -355,9 +356,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1aWRGcm9tT0F1dGhDb2RlXD4=</last-search>
+      <last-search encoding="base64">XDxpZEVudHJ5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1aWRGcm9tT0F1dGhDb2RlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpZEVudHJ5XD4=</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">XDxnZXRJblVzZVNpemVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -365,7 +366,6 @@
     </search>
     <history>
       <history-search>
-        <entry>notifyAll</entry>
         <entry>signalAll</entry>
         <entry encoding="base64">XDxSZWN5Y2xhYmxlUmVzb3VyY2VTdHViXD4=</entry>
         <entry>public static</entry>
@@ -385,6 +385,7 @@
         <entry>AvatarHandler</entry>
         <entry encoding="base64">XDxjb2RlXD4=</entry>
         <entry encoding="base64">XDx1aWRGcm9tT0F1dGhDb2RlXD4=</entry>
+        <entry encoding="base64">XDxpZEVudHJ5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>c</entry>
