@@ -38,9 +38,9 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/LdapConfig.java" timestamp="1496295591426">
         <mark key="[" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" timestamp="1497492992234">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" timestamp="1497506269806">
         <mark key="b" line="928" column="60" />
-        <mark key="'" line="522" column="8" />
+        <mark key="'" line="852" column="55" />
         <mark key="m" line="616" column="12" />
       </file>
       <file name="/a.dummy" timestamp="1496301108183">
@@ -181,8 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="506" column="10" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
-      <jump line="517" column="10" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="562" column="10" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
       <jump line="209" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
       <jump line="419" column="15" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
@@ -281,6 +279,8 @@
       <jump line="524" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
       <jump line="523" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
       <jump line="522" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
+      <jump line="789" column="33" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
+      <jump line="852" column="55" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -314,7 +314,7 @@
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxndWlkXD4=</text>
+        <text>isFullAdmin</text>
       </register>
       <register name="0" type="4">
         <text>search(&quot;ou=System Services,dc=Identity&quot;, LDAPConnection.SCOPE_SUB, &quot;(cn=idsvcUser)&quot;, new String[]{&quot;cn&quot;}, false);</text>
@@ -357,18 +357,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxndWlkXD4=</last-search>
+      <last-search>isFullAdmin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxndWlkXD4=</last-pattern>
+      <last-pattern>isFullAdmin</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">XDxnZXRJblVzZVNpemVcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZWN5Y2xhYmxlUmVzb3VyY2VTdHViXD4=</entry>
-        <entry>public static</entry>
         <entry>attach</entry>
         <entry encoding="base64">XDxnZXRBdmFpbGFibGVSZXNvdXJjZVNpemVcPg==</entry>
         <entry encoding="base64">XDxnZXRJblVzZVNpemVcPg==</entry>
@@ -387,6 +385,8 @@
         <entry encoding="base64">XDx1aWRGcm9tT0F1dGhDb2RlXD4=</entry>
         <entry encoding="base64">XDxpZEVudHJ5XD4=</entry>
         <entry encoding="base64">XDxndWlkXD4=</entry>
+        <entry encoding="base64">XDxtYW5hZ2VzT3JnQmVhbkxpc3RcPg==</entry>
+        <entry>isFullAdmin</entry>
       </history-search>
       <history-cmd>
         <entry>c</entry>
