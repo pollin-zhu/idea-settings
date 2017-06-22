@@ -56,10 +56,7 @@
         <mark key="^" line="62" column="55" />
         <mark key="." line="62" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/log4j.properties" timestamp="1496294587906">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="220" />
-      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/TaskImpl.java" timestamp="1498099059826" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/LDAPjaas.config" timestamp="1497428611315" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1497254473601">
         <mark key="'" line="220" column="8" />
@@ -92,10 +89,6 @@
         <mark key="]" line="19" column="84" />
         <mark key="^" line="13" column="75" />
         <mark key="." line="19" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RetryableLdapConnection.java" timestamp="1495690978792">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RetryableLdapCaller.java" timestamp="1497317557431">
         <mark key="[" line="75" column="0" />
