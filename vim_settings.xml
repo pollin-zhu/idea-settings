@@ -90,6 +90,10 @@
         <mark key="^" line="13" column="75" />
         <mark key="." line="19" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" timestamp="1498446172407">
+        <mark key="'" line="405" column="42" />
+        <mark key="m" line="569" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RetryableLdapCaller.java" timestamp="1497317557431">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="77" column="11" />
@@ -110,8 +114,9 @@
         <mark key="^" line="49" column="47" />
         <mark key="." line="49" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" timestamp="1498445539238">
-        <mark key="'" line="411" column="45" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" timestamp="1498446699286">
+        <mark key="b" line="417" column="45" />
+        <mark key="'" line="417" column="45" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1494319280962">
         <mark key="[" line="0" column="0" />
@@ -174,10 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="562" column="10" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RecycleNovellConnection.java" />
-      <jump line="209" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="419" column="15" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="32" column="25" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
       <jump line="89" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
       <jump line="150" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
       <jump line="164" column="24" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
@@ -274,6 +275,10 @@
       <jump line="522" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
       <jump line="789" column="33" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
       <jump line="852" column="55" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/authentication/modules/LdapLoginModule.java" />
+      <jump line="565" column="48" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" />
+      <jump line="569" column="4" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" />
+      <jump line="405" column="42" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" />
+      <jump line="417" column="45" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
