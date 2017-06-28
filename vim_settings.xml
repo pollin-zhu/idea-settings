@@ -40,9 +40,6 @@
       <file name="/a.dummy" timestamp="1496301108183">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/aci/authentication/modules/OAuthCodeSsoTokenLoginModule.java" timestamp="1497428618349">
-        <mark key="'" line="187" column="19" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerTestHelper.java" timestamp="1495526436998">
         <mark key="'" line="138" column="0" />
         <mark key="[" line="61" column="33" />
@@ -51,6 +48,11 @@
         <mark key="." line="62" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/TaskImpl.java" timestamp="1498099059826" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/syncService.properties" timestamp="1498636782907">
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/ConfigurationDAOImpl.java" timestamp="1498532677670">
         <mark key="'" line="317" column="39" />
         <mark key="[" line="313" column="106" />
@@ -91,6 +93,11 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/SampleResource.java" timestamp="1494308685941">
         <mark key="[" line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/openDJConfigStoreProvider.properties" timestamp="1496295943506">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/PoolStatistic.java" timestamp="1495593722506">
         <mark key="[" line="46" column="32" />
         <mark key="]" line="49" column="47" />
@@ -128,6 +135,11 @@
         <mark key="." line="122" column="19" />
         <mark key="^" line="122" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/properties/openDJConfigStoreProvider.properties" timestamp="1496299763107">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclableResource.java" timestamp="1495604078398">
         <mark key="'" line="48" column="22" />
         <mark key="[" line="53" column="0" />
@@ -164,7 +176,7 @@
         <mark key="^" line="283" column="22" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" timestamp="1498636050868">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" timestamp="1498636766310">
         <mark key="'" line="549" column="46" />
         <mark key="[" line="523" column="24" />
         <mark key="]" line="523" column="71" />
