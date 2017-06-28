@@ -164,12 +164,12 @@
         <mark key="^" line="283" column="22" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" timestamp="1498631900777">
-        <mark key="'" line="548" column="46" />
-        <mark key="[" line="158" column="54" />
-        <mark key="]" line="162" column="3" />
-        <mark key="^" line="162" column="3" />
-        <mark key="." line="162" column="3" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" timestamp="1498634789287">
+        <mark key="'" line="549" column="46" />
+        <mark key="[" line="523" column="24" />
+        <mark key="]" line="523" column="71" />
+        <mark key="^" line="523" column="71" />
+        <mark key="." line="523" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" timestamp="1498628956674" />
       <file name="/HTML File.txt.ft" timestamp="1494319285157">
@@ -344,7 +344,7 @@
         <text>0f,Dj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>almostl</text>
+        <text>trace</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -368,7 +368,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>almostl</text>
+        <text>trace</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb2xsaW5nSW50ZXJ2YWxcPg==</text>
