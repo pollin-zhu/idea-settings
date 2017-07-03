@@ -63,8 +63,8 @@
         <mark key="." line="33" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/concurrent/lock/ConcurrentLock.java" timestamp="1498458921722" />
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1498631057691">
-        <mark key="'" line="819" column="0" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1499062116740">
+        <mark key="'" line="219" column="87" />
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
@@ -248,8 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="48" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
-      <jump line="109" column="121" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
       <jump line="126" column="107" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
       <jump line="129" column="138" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
       <jump line="160" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" />
@@ -348,6 +346,8 @@
       <jump line="595" column="105" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/notification/EmailAlerter.java" />
       <jump line="271" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
       <jump line="546" column="46" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
+      <jump line="102" column="33" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="219" column="87" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -381,7 +381,7 @@
         <text>trace</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb2xsaW5nSW50ZXJ2YWxcPg==</text>
+        <text>SSOInformation</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U3luY2hyb25pemF0aW9uU2VydmljZVR5cGUg</text>
@@ -424,9 +424,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb2xsaW5nSW50ZXJ2YWxcPg==</last-search>
+      <last-search>SSOInformation</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb2xsaW5nSW50ZXJ2YWxcPg==</last-pattern>
+      <last-pattern>SSOInformation</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">XDxnZXRJblVzZVNpemVcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -434,7 +434,6 @@
     </search>
     <history>
       <history-search>
-        <entry>return conn.</entry>
         <entry encoding="base64">XDx0b3VjaExhc3RBY3RpdmVUaW1lXD4=</entry>
         <entry>logger.</entry>
         <entry>logger\.</entry>
@@ -454,6 +453,7 @@
         <entry>SyncModuleHandler</entry>
         <entry>DirSyncPostProcessing</entry>
         <entry encoding="base64">XDxwb2xsaW5nSW50ZXJ2YWxcPg==</entry>
+        <entry>SSOInformation</entry>
       </history-search>
       <history-cmd>
         <entry>vspl</entry>
