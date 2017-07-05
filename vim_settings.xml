@@ -139,7 +139,7 @@
         <mark key="." line="87" column="69" />
         <mark key="^" line="87" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncServiceMessageFactory.java" timestamp="1495522327302">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncServiceMessageFactory.java" timestamp="1499237525780">
         <mark key="[" line="122" column="16" />
         <mark key="]" line="122" column="19" />
         <mark key="." line="122" column="19" />
@@ -232,14 +232,6 @@
         <mark key="]" line="19" column="84" />
         <mark key="^" line="13" column="75" />
         <mark key="." line="19" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" timestamp="1498532623059">
-        <mark key="'" line="405" column="42" />
-        <mark key="[" line="578" column="105" />
-        <mark key="m" line="569" column="23" />
-        <mark key="]" line="578" column="105" />
-        <mark key="." line="578" column="105" />
-        <mark key="^" line="578" column="105" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/InMemorySessionManager.java" timestamp="1499066098051">
         <mark key="[" line="153" column="35" />
