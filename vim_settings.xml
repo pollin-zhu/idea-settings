@@ -5,9 +5,6 @@
       <mark key="V" line="578" column="63" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/notification/EmailAlerter.java" timestamp="1498629050991">
-        <mark key="'" line="595" column="105" />
-      </file>
       <file name="/File Header.txt.ft" timestamp="1494319360370">
         <mark key="[" line="0" column="0" />
       </file>
@@ -86,6 +83,7 @@
         <mark key="^" line="17" column="40" />
         <mark key="." line="17" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/AbstractSyncDeletor.java" timestamp="1499325631621" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RetryableLdapCaller.java" timestamp="1497317557431">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="77" column="11" />
@@ -151,9 +149,6 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
         <mark key="^" line="34" column="116" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/ConfigurationHandler.java" timestamp="1498455446103">
-        <mark key="'" line="603" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/ResourceCreationException.java" timestamp="1494575128653">
         <mark key="[" line="7" column="13" />
