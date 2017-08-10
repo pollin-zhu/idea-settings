@@ -49,12 +49,6 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1499062116740">
-        <mark key="'" line="219" column="87" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/DefaultRecyclablePoolManagerTest.java" timestamp="1495442099696">
         <mark key="'" line="175" column="0" />
         <mark key="[" line="211" column="29" />
@@ -86,7 +80,7 @@
         <mark key="." line="77" column="11" />
         <mark key="^" line="77" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarPayloadProcesser.java" timestamp="1502267745363" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarPayloadProcesser.java" timestamp="1502342682929" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/SampleResource.java" timestamp="1494308685941">
         <mark key="[" line="7" column="27" />
       </file>
@@ -234,6 +228,7 @@
         <mark key="." line="434" column="128" />
         <mark key="^" line="434" column="128" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarAsyncTaskRunners.java" timestamp="1502342830756" />
       <file name="/Class.txt.ft" timestamp="1494319352474">
         <mark key="[" line="0" column="0" />
       </file>
