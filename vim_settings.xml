@@ -159,13 +159,13 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/LdapConfig.java" timestamp="1496295591426">
         <mark key="[" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1502687948663">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1502694236738">
         <mark key="a" line="594" column="79" />
         <mark key="'" line="594" column="79" />
-        <mark key="[" line="287" column="97" />
-        <mark key="]" line="288" column="23" />
-        <mark key="." line="288" column="23" />
-        <mark key="^" line="288" column="23" />
+        <mark key="[" line="646" column="52" />
+        <mark key="]" line="646" column="73" />
+        <mark key="." line="646" column="52" />
+        <mark key="^" line="577" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceStatusDAOImpl.java" timestamp="1499068799125">
         <mark key="[" line="707" column="48" />
@@ -361,8 +361,8 @@
       <register name="a" type="4">
         <text>0f,Dj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>(avatar not included)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -391,8 +391,8 @@
       <register name="/" type="4">
         <text>set</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuZ2VkID0gdHJ1ZTsK</text>
+      <register name="0" type="4">
+        <text>(avatar not included)</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
@@ -428,7 +428,7 @@
         <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>register</text>
       </register>
     </registers>
     <search>
@@ -464,7 +464,6 @@
         <entry>set</entry>
       </history-search>
       <history-cmd>
-        <entry>%s//getPoolStatistic().getInUseSize/gc</entry>
         <entry>reg a</entry>
         <entry>reg b</entry>
         <entry>reg</entry>
@@ -484,6 +483,7 @@
         <entry>jumps</entry>
         <entry>76</entry>
         <entry>w</entry>
+        <entry>register</entry>
       </history-cmd>
       <history-expr />
       <history-input />
