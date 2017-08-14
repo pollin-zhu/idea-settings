@@ -5,7 +5,6 @@
       <mark key="V" line="578" column="63" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/DeploymentConfiguration.java" timestamp="1502695173322" />
       <file name="/File Header.txt.ft" timestamp="1494319360370">
         <mark key="[" line="0" column="0" />
       </file>
@@ -76,7 +75,6 @@
         <mark key="." line="77" column="11" />
         <mark key="^" line="77" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/ldapsp/statusprovider/LDAPStatusProvider.java" timestamp="1502694980135" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarPayloadProcesser.java" timestamp="1502434081226">
         <mark key="[" line="100" column="27" />
         <mark key="]" line="100" column="30" />
@@ -143,7 +141,6 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="34" column="116" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/springboot/pom.xml" timestamp="1502581058682" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/ResourceCreationException.java" timestamp="1494575128653">
         <mark key="[" line="7" column="13" />
       </file>
@@ -153,15 +150,15 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/springboot/src/main/java/com/zhuqiujun/exer/spring/springboot/SpringbootApplication.java" timestamp="1502630001384">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/workspace/exercises/springboot/src/main/java/com/zhuqiujun/exer/spring/springboot/SpringbootApplication.java" timestamp="1502718567543">
+        <mark key="[" line="20" column="44" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/LdapConfig.java" timestamp="1496295591426">
         <mark key="[" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1502699006816">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1502717199711">
         <mark key="a" line="597" column="79" />
         <mark key="'" line="597" column="79" />
         <mark key="[" line="297" column="0" />
