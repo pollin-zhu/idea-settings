@@ -23,12 +23,12 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/AbstractTest.java" timestamp="1503043520857">
-        <mark key="'" line="34" column="51" />
-        <mark key="[" line="279" column="27" />
-        <mark key="]" line="281" column="14" />
-        <mark key="." line="281" column="14" />
-        <mark key="^" line="281" column="14" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/AbstractTest.java" timestamp="1503295763333">
+        <mark key="'" line="926" column="16" />
+        <mark key="[" line="310" column="26" />
+        <mark key="]" line="310" column="27" />
+        <mark key="." line="310" column="27" />
+        <mark key="^" line="310" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/StatusDAOImpl.java" timestamp="1499068852436">
         <mark key="[" line="142" column="76" />
@@ -228,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="515" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
       <jump line="346" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="84" column="33" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="108" column="67" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
@@ -328,13 +327,14 @@
       <jump line="316" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/AbstractTest.java" />
       <jump line="302" column="13" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/AbstractTest.java" />
       <jump line="32" column="51" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/AbstractTest.java" />
+      <jump line="923" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/AbstractTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>0f,Dj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZTEucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>pool.searchForEntry(getOrgRootContainer(), SearchScope.SUB, filter, SearchRequest.NO_ATTRIBUTES);</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -358,13 +358,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>pool.searchForEntry(getOrgRootContainer(), SearchScope.SUB, filter, SearchRequest.NO_ATTRIBUTES);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdHJpbmdzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>(avatar not included)</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jb2Rldi5pZGVudGl0eS5jb21tb24ubGRhcC5VbmJvdW5kTGRhcFV0aWxzOwo=</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
@@ -401,7 +401,7 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set relativenumber</text>
       </register>
     </registers>
     <search>
@@ -437,7 +437,6 @@
         <entry encoding="base64">XDxTdHJpbmdzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>reg a</entry>
         <entry>reg b</entry>
         <entry>reg</entry>
         <entry>set nu</entry>
@@ -450,13 +449,14 @@
         <entry>33</entry>
         <entry>set number</entry>
         <entry>set norelativenumber</entry>
-        <entry>set relativenumber</entry>
         <entry>260</entry>
         <entry>x</entry>
         <entry>jumps</entry>
         <entry>76</entry>
         <entry>register</entry>
+        <entry>277</entry>
         <entry>w</entry>
+        <entry>set relativenumber</entry>
       </history-cmd>
       <history-expr />
       <history-input />
