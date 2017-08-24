@@ -238,10 +238,10 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/dirSyncServiceInternal.properties" timestamp="1503017612611">
         <mark key="[" line="24" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarAsyncTaskRunners.java" timestamp="1503556111543">
-        <mark key="[" line="209" column="4" />
-        <mark key="]" line="209" column="12" />
-        <mark key="." line="209" column="12" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarAsyncTaskRunners.java" timestamp="1503562475124">
+        <mark key="[" line="209" column="24" />
+        <mark key="]" line="209" column="27" />
+        <mark key="." line="209" column="26" />
         <mark key="^" line="209" column="12" />
       </file>
       <file name="/Class.txt.ft" timestamp="1494319352474">
@@ -396,7 +396,7 @@
         <text>f(vf;y</text>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>l</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -423,7 +423,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmlnaW5hbFRhc2tcPg==</text>
