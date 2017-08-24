@@ -247,11 +247,11 @@
       <file name="/Class.txt.ft" timestamp="1494319352474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/RunnalbeAvatarTaskTest.java" timestamp="1503556335549">
-        <mark key="[" line="25" column="5" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="41" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/RunnalbeAvatarTaskTest.java" timestamp="1503557321509">
+        <mark key="[" line="67" column="19" />
+        <mark key="]" line="67" column="19" />
+        <mark key="." line="67" column="19" />
+        <mark key="^" line="27" column="109" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/LDAPServicePool.java" timestamp="1503294414487">
         <mark key="[" line="86" column="67" />
@@ -395,8 +395,8 @@
       <register name="a" type="4">
         <text>f(vf;y</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBBdmF0YXJBc3luY1Rhc2tSdW5uZXJzIGF2YXRhckFzeW5jVGFza1J1bm5lcnMgPSBuZXcgQXZhdGFyQXN5bmNUYXNrUnVubmVycygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -423,25 +423,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmlnaW5hbFRhc2tcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFN0cmluZyBnZXRPcmdJZCgpIHsKCQlyZXR1cm4gbmV3IFN0cmluZyhvcmdJZCk7Cgl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VGhhdChNREMuZ2V0KENvbnN0YW50cy5NRENfU0VTU0lPTklEKSwgbnVsbFZhbHVlKCkpOwo=</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBBdmF0YXJBc3luY1Rhc2tSdW5uZXJzIGF2YXRhckFzeW5jVGFza1J1bm5lcnMgPSBuZXcgQXZhdGFyQXN5bmNUYXNrUnVubmVycygpOwo=</text>
+      <register name="1" type="4">
+        <text>@Override
+        public String getOrgId() {
+            return nulcl;
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFN0cmluZyBnZXRUYXNrSWQoKSB7CgkJcmV0dXJuIHRhc2tJZDsKCX0K</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBBdmF0YXJBc3luY1Rhc2tSdW5uZXJzIGF2YXRhckFzeW5jVGFza1J1bm5lcnMgPSBuZXcgQXZhdGFyQXN5bmNUYXNrUnVubmVycygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFN0cmluZyBnZXRUYXNrSWQoKSB7CgkJcmV0dXJuIHRhc2tJZDsKCX0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -450,19 +453,19 @@
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwdWJsaWMgdm9pZCBzZXRUYXNrSWQoZmluYWwgU3RyaW5nIHRhc2tJZCkgewoJCXRoaXMudGFza0lkID0gdGFza0lkOwoJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldFRhc2tJZChmaW5hbCBTdHJpbmcgdGFza0lkKSB7CgkJdGhpcy50YXNrSWQgPSB0YXNrSWQ7Cgl9Cgo=</text>
+        <text encoding="base64">CQlwdWJsaWMgdm9pZCBzZXRUYXNrSWQoZmluYWwgU3RyaW5nIHRhc2tJZCkgewoJCXRoaXMudGFza0lkID0gdGFza0lkOwoJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHRhc2tJZDsK</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldFRhc2tJZChmaW5hbCBTdHJpbmcgdGFza0lkKSB7CgkJdGhpcy50YXNrSWQgPSB0YXNrSWQ7Cgl9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHRhc2tJZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkZWxldGVPcmdhbml6YXRpb24ob3JnSWQpOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
