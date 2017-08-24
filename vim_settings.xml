@@ -18,7 +18,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/pom.xml" timestamp="1503364627805">
-        <mark key="[" line="475" column="16" />
+        <mark key="[" line="474" column="16" />
         <mark key="]" line="26" column="33" />
         <mark key="." line="26" column="33" />
         <mark key="^" line="26" column="33" />
@@ -163,12 +163,7 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/LdapConfig.java" timestamp="1496295591426">
         <mark key="[" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/management/src/test/resources/config.properties" timestamp="1503462347679">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/management/src/test/resources/config.properties" timestamp="1503462347679" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceStatusDAOImpl.java" timestamp="1499068799125">
         <mark key="[" line="707" column="48" />
         <mark key="]" line="707" column="63" />
