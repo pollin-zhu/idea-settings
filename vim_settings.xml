@@ -14,7 +14,7 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1503364979310">
+      <file name="/a.dummy" timestamp="1503629298364">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/pom.xml" timestamp="1503364627805">
@@ -52,8 +52,11 @@
         <mark key="." line="48" column="30" />
         <mark key="^" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/MyBeanTest.java" timestamp="1503365133831">
-        <mark key="[" line="12" column="23" />
+      <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/java/com/cisco/webex/apis/oauth2/provider/ci/CIOAuth2ProviderITTest.java" timestamp="1503629218043">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/StatusDAOImpl.java" timestamp="1499068852436">
         <mark key="[" line="142" column="76" />
@@ -229,7 +232,9 @@
         <mark key="^" line="153" column="42" />
         <mark key="." line="153" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/java/com/cisco/webex/apis/oauth2/provider/ci/CIOAuth2ProviderTest.java" timestamp="1503626503039" />
+      <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/java/com/cisco/webex/apis/oauth2/provider/ci/CIOAuth2ProviderTest.java" timestamp="1503629207273">
+        <mark key="'" line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/UnboundLdapUtils.java" timestamp="1503294322054">
         <mark key="[" line="51" column="55" />
         <mark key="]" line="51" column="55" />
@@ -291,8 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="110" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
-      <jump line="290" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTaskHandler.java" />
       <jump line="186" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTaskHandler.java" />
       <jump line="435" column="20" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" />
       <jump line="311" column="39" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/ConfigurationDAOImpl.java" />
@@ -391,13 +394,15 @@
       <jump line="167" column="43" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/testBeans.xml" />
       <jump line="380" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/handler/v1/TestQueryResponse.java" />
       <jump line="786" column="40" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTaskHandler.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/java/com/cisco/webex/apis/oauth2/provider/ci/CIOAuth2ProviderITTest.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/java/com/cisco/webex/apis/oauth2/provider/ci/CIOAuth2ProviderTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(vf;y</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QElnbm9yZSgiaW5zdGFibGUgY2kgZW52IikK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -430,43 +435,40 @@
         <text encoding="base64">XDxvcmlnaW5hbFRhc2tcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VGhhdChNREMuZ2V0KENvbnN0YW50cy5NRENfU0VTU0lPTklEKSwgbnVsbFZhbHVlKCkpOwo=</text>
+        <text encoding="base64">CXByaXZhdGUgQ0lPQXV0aDJQcm92aWRlciB0ZXN0OwoKCUBCZWZvcmUKCXB1YmxpYyB2b2lkIHNldFVwKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CgkJdGVzdCA9IG5ldyBDSU9BdXRoMlByb3ZpZGVyKCk7Cgl9Cg==</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
-      <register name="1" type="4">
-        <text>@Override
-        public String getOrgId() {
-            return nulcl;
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">QElnbm9yZSgiaW5zdGFibGUgY2kgZW52IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBBdmF0YXJBc3luY1Rhc2tSdW5uZXJzIGF2YXRhckFzeW5jVGFza1J1bm5lcnMgPSBuZXcgQXZhdGFyQXN5bmNUYXNrUnVubmVycygpOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFN0cmluZyBnZXRUYXNrSWQoKSB7CgkJcmV0dXJuIHRhc2tJZDsKCX0K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwdWJsaWMgdm9pZCBzZXRUYXNrSWQoZmluYWwgU3RyaW5nIHRhc2tJZCkgewoJCXRoaXMudGFza0lkID0gdGFza0lkOwoJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldFRhc2tJZChmaW5hbCBTdHJpbmcgdGFza0lkKSB7CgkJdGhpcy50YXNrSWQgPSB0YXNrSWQ7Cgl9Cgo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHRhc2tJZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RTdWNjZXNzKCkgewovLwkJZmluYWwgUHJvcGVydGllcyBwcm9wcyA9IG5ldyBQcm9wZXJ0aWVzKCk7Ci8vCQlwcm9wcy5wdXQoIk9BdXRoMlNlcnZlckVuZHBvaW50IiwgImh0dHBzOi8vaWRzdmMtaWRiLmNpc2NvLmNvbS9pZGIiKTsKLy8JCXByb3BzLnB1dCgiUmVzb3VyY2VTZXJ2aWNlSUQiLCAiUjFmNTMzOGExY2QxZmY0NDUzMDhlZTUwZmZkMmQxOWJlZTBjNGFlZjg5MzNhOWVmMjUxOGQwZWZlYjRjYTdiNzkiKTsKLy8JCXByb3BzLnB1dCgiUmVzb3VyY2VTZXJ2aWNlU2VjcmV0IiwgIjgyYzVmNzI0OTRjYjI4NjY5ZDY4NWZmYWE2NGFjM2QxNDUyNTdjODczNmY1OTMyOTNjN2NlZDI4NGI4ODgwZGIiKTsKCQl0ZXN0ID0gbmV3IENJT0F1dGgyUHJvdmlkZXIoKTsKCQl0ZXN0LmluaXQoKTsKCQkKCQlTdHJpbmcgdG9rZW4gPSBDSVRlc3RIZWxwZXIuZ2V0QWNjZXNzVG9rZW4oIkFQSUZyYW1ld29ya0FDTUU6ZGVsZXRlIik7CgkJCgkJTGlzdDxTdHJpbmc+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKCQlsaXN0LmFkZCgiQVBJRnJhbWV3b3JrQUNNRTpkZWxldGUiKTsKCQlPQXV0aDJWYWxpZGF0aW9uUmVzdWx0IHZhbGlkID0gdGVzdC5pc1ZhbGlkKHRva2VuLCBsaXN0LCBmYWxzZSk7CgkJQXNzZXJ0LmFzc2VydFRydWUodmFsaWQuaXNTdWNjZXNzKCkpOwoJfQoKCgkKCUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0RmFpbCgpIHsKCQl0ZXN0ID0gbmV3IENJT0F1dGgyUHJvdmlkZXIoKTsKCQl0ZXN0LmluaXQoKTsKCQkKCgkJCgkJTGlzdDxTdHJpbmc+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKCQlsaXN0LmFkZCgiQVBJRnJhbWV3b3JrQUNNRTpkZWxldGUiKTsKCQlPQXV0aDJWYWxpZGF0aW9uUmVzdWx0IHZhbGlkID0gdGVzdC5pc1ZhbGlkKCJkZWxldGUiLCBsaXN0LCBmYWxzZSk7CgkJQXNzZXJ0LmFzc2VydEZhbHNlKHZhbGlkLmlzU3VjY2VzcygpKTsKCgl9CgkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
