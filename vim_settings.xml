@@ -24,10 +24,10 @@
         <mark key="^" line="26" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/pom.xml" timestamp="1503625529964">
-        <mark key="[" line="41" column="24" />
-        <mark key="]" line="41" column="25" />
-        <mark key="." line="41" column="25" />
-        <mark key="^" line="41" column="24" />
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/concurrent/lock/synctask/ConcurrentSyncLock.java" timestamp="1498456186391">
         <mark key="[" line="31" column="0" />
@@ -104,12 +104,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/main/java/com/cisco/webex/apis/oauth2/provider/ci/CIOAuth2Provider.java" timestamp="1503645624717">
-        <mark key="[" line="207" column="38" />
-        <mark key="]" line="214" column="16" />
-        <mark key="^" line="214" column="16" />
-        <mark key="." line="214" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarPayloadProcesser.java" timestamp="1503555410867">
         <mark key="[" line="180" column="104" />
@@ -244,13 +238,6 @@
         <mark key="]" line="153" column="42" />
         <mark key="^" line="153" column="42" />
         <mark key="." line="153" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/java/com/cisco/webex/apis/oauth2/provider/ci/CIOAuth2ProviderTest.java" timestamp="1503643901029">
-        <mark key="'" line="95" column="38" />
-        <mark key="[" line="83" column="26" />
-        <mark key="]" line="83" column="46" />
-        <mark key="." line="83" column="46" />
-        <mark key="^" line="83" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/UnboundLdapUtils.java" timestamp="1503294322054">
         <mark key="[" line="51" column="55" />
