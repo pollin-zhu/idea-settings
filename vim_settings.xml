@@ -70,6 +70,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1494319357524">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncSynchronizationQueryTask.java" timestamp="1504508695244">
+        <mark key="'" line="101" column="5" />
+        <mark key="[" line="101" column="4" />
+        <mark key="]" line="101" column="5" />
+        <mark key="." line="101" column="5" />
+        <mark key="^" line="101" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/TestBean.java" timestamp="1503364690921">
         <mark key="[" line="7" column="23" />
       </file>
@@ -245,6 +252,9 @@
         <mark key="." line="51" column="55" />
         <mark key="^" line="51" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" timestamp="1504508618533">
+        <mark key="[" line="113" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAO.java" timestamp="1504503192521">
         <mark key="'" line="289" column="17" />
       </file>
@@ -298,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="39" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/ConfigurationDAOImpl.java" />
       <jump line="818" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="331" column="30" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
       <jump line="492" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
@@ -398,13 +407,14 @@
       <jump line="46" column="0" filename="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/java/com/cisco/webex/apis/oauth2/provider/ci/CIOAuth2ProviderTest.java" />
       <jump line="57" column="38" filename="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/java/com/cisco/webex/apis/oauth2/provider/ci/CIOAuth2ProviderTest.java" />
       <jump line="289" column="17" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAO.java" />
+      <jump line="101" column="5" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncSynchronizationQueryTask.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f(vf;y</text>
       </register>
       <register name="&quot;" type="4">
-        <text>26d88b83f060f62bd6d748c9729a3bfbd4eee6a1a4123883d38d6a9c47ea702a</text>
+        <text>void</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -431,7 +441,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>26d88b83f060f62bd6d748c9729a3bfbd4eee6a1a4123883d38d6a9c47ea702a</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXREZXRhaWxlZFByb2dyZXNzXD4=</text>
