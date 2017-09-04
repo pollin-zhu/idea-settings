@@ -245,6 +245,9 @@
         <mark key="." line="51" column="55" />
         <mark key="^" line="51" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAO.java" timestamp="1504503192521">
+        <mark key="'" line="289" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/dirSyncServiceInternal.properties" timestamp="1503017612611">
         <mark key="[" line="24" column="57" />
       </file>
@@ -295,7 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="435" column="20" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" />
       <jump line="311" column="39" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/ConfigurationDAOImpl.java" />
       <jump line="818" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="331" column="30" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
@@ -395,6 +397,7 @@
       <jump line="10" column="0" filename="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/java/com/cisco/webex/apis/oauth2/provider/ci/CIOAuth2ProviderITTest.java" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/java/com/cisco/webex/apis/oauth2/provider/ci/CIOAuth2ProviderTest.java" />
       <jump line="57" column="38" filename="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/java/com/cisco/webex/apis/oauth2/provider/ci/CIOAuth2ProviderTest.java" />
+      <jump line="289" column="17" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAO.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -431,7 +434,7 @@
         <text>26d88b83f060f62bd6d748c9729a3bfbd4eee6a1a4123883d38d6a9c47ea702a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmlnaW5hbFRhc2tcPg==</text>
+        <text encoding="base64">XDxzZXREZXRhaWxlZFByb2dyZXNzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXByaXZhdGUgQ0lPQXV0aDJQcm92aWRlciB0ZXN0OwoKCUBCZWZvcmUKCXB1YmxpYyB2b2lkIHNldFVwKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CgkJdGVzdCA9IG5ldyBDSU9BdXRoMlByb3ZpZGVyKCk7Cgl9Cg==</text>
@@ -474,9 +477,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcmlnaW5hbFRhc2tcPg==</last-search>
+      <last-search encoding="base64">XDxzZXREZXRhaWxlZFByb2dyZXNzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmlnaW5hbFRhc2tcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXREZXRhaWxlZFByb2dyZXNzXD4=</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">XDxTdHJpbmdzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -484,7 +487,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/</entry>
         <entry>ConnectionPool</entry>
         <entry encoding="base64">XDxwZW5kaW5nVGFza3NcPg==</entry>
         <entry>AvatarClient</entry>
@@ -504,6 +506,7 @@
         <entry>set</entry>
         <entry encoding="base64">XDxTdHJpbmdzXD4=</entry>
         <entry encoding="base64">XDxvcmlnaW5hbFRhc2tcPg==</entry>
+        <entry encoding="base64">XDxzZXREZXRhaWxlZFByb2dyZXNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>reg b</entry>
