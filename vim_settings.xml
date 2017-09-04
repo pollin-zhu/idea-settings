@@ -5,17 +5,11 @@
       <mark key="V" line="578" column="63" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" />
     </globalmarks>
     <filemarks>
-      <file name="/File Header.txt.ft" timestamp="1494319360370">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/log4j.properties" timestamp="1496294620728">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
-      </file>
-      <file name="/a.dummy" timestamp="1503629298364">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/pom.xml" timestamp="1503364627805">
         <mark key="[" line="474" column="16" />
@@ -42,23 +36,14 @@
         <mark key="." line="33" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/java/com/cisco/webex/apis/oauth2/provider/ci/CITestHelper.java" timestamp="1504488166554" />
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/testBeans.xml" timestamp="1503450196698">
-        <mark key="'" line="167" column="43" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="." line="190" column="0" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1504513747363">
+        <mark key="'" line="486" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/UpdateAvatarTask.java" timestamp="1503555455536">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="30" />
         <mark key="." line="48" column="30" />
         <mark key="^" line="48" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/java/com/cisco/webex/apis/oauth2/provider/ci/CIOAuth2ProviderITTest.java" timestamp="1503629218043">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/StatusDAOImpl.java" timestamp="1499068852436">
         <mark key="[" line="142" column="76" />
@@ -67,21 +52,12 @@
         <mark key="." line="143" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/git/api-framework/framework-test/src/main/java/com/cisco/webex/apis/test/APIHttpHelper.java" timestamp="1504488363509" />
-      <file name="/ActionScript File Header.txt.ft" timestamp="1494319357524">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncSynchronizationQueryTask.java" timestamp="1504512200526">
         <mark key="'" line="116" column="5" />
         <mark key="[" line="89" column="22" />
         <mark key="]" line="90" column="38" />
         <mark key="." line="90" column="38" />
         <mark key="^" line="90" column="38" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/TestBean.java" timestamp="1503364690921">
-        <mark key="[" line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/ConnectorState.java" timestamp="1499067356104">
-        <mark key="[" line="138" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/Child.java" timestamp="1499136911879">
         <mark key="[" line="17" column="47" />
@@ -124,9 +100,6 @@
         <mark key="." line="20" column="85" />
         <mark key="^" line="20" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/SampleResource.java" timestamp="1494308685941">
-        <mark key="[" line="7" column="27" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/openDJConfigStoreProvider.properties" timestamp="1503450179725">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -151,17 +124,11 @@
         <mark key="." line="24" column="60" />
         <mark key="^" line="24" column="60" />
       </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1494319280962">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/ReattachablePoolManager.java" timestamp="1495604068452">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="22" column="10" />
         <mark key="^" line="22" column="10" />
         <mark key="." line="22" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/fromcommonproj/ConnectionPoolTest.java" timestamp="1496282441835">
-        <mark key="[" line="3" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncServiceMessageFactory.java" timestamp="1499237525780">
         <mark key="[" line="122" column="16" />
@@ -169,20 +136,11 @@
         <mark key="." line="122" column="19" />
         <mark key="^" line="122" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/Parent.java" timestamp="1499136558583">
-        <mark key="[" line="7" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarTask.java" timestamp="1503554434089">
-        <mark key="[" line="11" column="25" />
-      </file>
       <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/resources/OAuth2-test.properties" timestamp="1504488818207">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="77" />
         <mark key="." line="1" column="77" />
         <mark key="^" line="1" column="77" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/ResourceCreationException.java" timestamp="1494575128653">
-        <mark key="[" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/ReattachableResource.java" timestamp="1495594572249">
         <mark key="[" line="14" column="0" />
@@ -202,26 +160,17 @@
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/LdapConfig.java" timestamp="1496295591426">
-        <mark key="[" line="31" column="49" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceStatusDAOImpl.java" timestamp="1499068799125">
         <mark key="[" line="707" column="48" />
         <mark key="]" line="707" column="63" />
         <mark key="^" line="707" column="63" />
         <mark key="." line="707" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManager.java" timestamp="1498810933499">
-        <mark key="[" line="227" column="9" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/datastore/DirSyncServiceSyncTest.java" timestamp="1503039200870">
         <mark key="[" line="38" column="12" />
         <mark key="]" line="38" column="24" />
         <mark key="." line="38" column="24" />
         <mark key="^" line="38" column="24" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1494319285157">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/concurrent/lock/synctask/NumbConcurrentSyncLock.java" timestamp="1498459670577">
         <mark key="[" line="12" column="38" />
@@ -231,9 +180,6 @@
       </file>
       <file name="$USER_HOME$/workspace/git/api-framework/framework-component-security-oauth2/src/main/java/com/cisco/webex/apis/component/security/oauth2/core/ErrorKeys.java" timestamp="1504489799004" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" timestamp="1503967580494" />
-      <file name="/Dummy.txt" timestamp="1503365303129">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/ResourceFactory.java" timestamp="1495604948713">
         <mark key="[" line="19" column="29" />
         <mark key="]" line="19" column="84" />
@@ -271,17 +217,11 @@
         <mark key="." line="326" column="80" />
         <mark key="^" line="326" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/dirSyncServiceInternal.properties" timestamp="1503017612611">
-        <mark key="[" line="24" column="57" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarAsyncTaskRunners.java" timestamp="1503562475124">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarAsyncTaskRunners.java" timestamp="1504513727319">
         <mark key="[" line="209" column="24" />
         <mark key="]" line="209" column="27" />
         <mark key="." line="209" column="26" />
         <mark key="^" line="209" column="12" />
-      </file>
-      <file name="/Class.txt.ft" timestamp="1494319352474">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/RunnalbeAvatarTaskTest.java" timestamp="1503557321509">
         <mark key="[" line="67" column="19" />
@@ -294,12 +234,6 @@
         <mark key="]" line="86" column="68" />
         <mark key="^" line="86" column="40" />
         <mark key="." line="86" column="68" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/SampleRecyclablePoolManager.java" timestamp="1494308701245">
-        <mark key="[" line="7" column="40" />
-      </file>
-      <file name="/fragment.java" timestamp="1503555941406">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/UnboundLdapUtils.java" timestamp="1503043119944">
         <mark key="[" line="22" column="0" />
@@ -321,7 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="818" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="331" column="30" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
       <jump line="492" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
       <jump line="427" column="30" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
@@ -421,6 +354,7 @@
       <jump line="57" column="38" filename="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/java/com/cisco/webex/apis/oauth2/provider/ci/CIOAuth2ProviderTest.java" />
       <jump line="289" column="17" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAO.java" />
       <jump line="101" column="5" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncSynchronizationQueryTask.java" />
+      <jump line="486" column="57" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -457,7 +391,7 @@
         <text>long</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXREZXRhaWxlZFByb2dyZXNzXD4=</text>
+        <text>AvatarAsyncTaskRunners</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CS8qKiBzZXQgcHJvY2Vzc2VkIHNlcSBuby4gaW4gdG90YWwgYXZhdGFyIHBhY2thZ2UuICovCg==</text>
@@ -500,9 +434,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXREZXRhaWxlZFByb2dyZXNzXD4=</last-search>
+      <last-search>AvatarAsyncTaskRunners</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXREZXRhaWxlZFByb2dyZXNzXD4=</last-pattern>
+      <last-pattern>AvatarAsyncTaskRunners</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">XDxTdHJpbmdzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -510,7 +444,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ConnectionPool</entry>
         <entry encoding="base64">XDxwZW5kaW5nVGFza3NcPg==</entry>
         <entry>AvatarClient</entry>
         <entry>AvatarHandler</entry>
@@ -530,6 +463,7 @@
         <entry encoding="base64">XDxTdHJpbmdzXD4=</entry>
         <entry encoding="base64">XDxvcmlnaW5hbFRhc2tcPg==</entry>
         <entry encoding="base64">XDxzZXREZXRhaWxlZFByb2dyZXNzXD4=</entry>
+        <entry>AvatarAsyncTaskRunners</entry>
       </history-search>
       <history-cmd>
         <entry>reg b</entry>
