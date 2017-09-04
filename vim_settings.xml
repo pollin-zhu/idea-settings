@@ -70,12 +70,12 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1494319357524">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncSynchronizationQueryTask.java" timestamp="1504508695244">
-        <mark key="'" line="101" column="5" />
-        <mark key="[" line="101" column="4" />
-        <mark key="]" line="101" column="5" />
-        <mark key="." line="101" column="5" />
-        <mark key="^" line="101" column="5" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncSynchronizationQueryTask.java" timestamp="1504511163921">
+        <mark key="'" line="105" column="5" />
+        <mark key="[" line="86" column="68" />
+        <mark key="]" line="105" column="5" />
+        <mark key="." line="105" column="5" />
+        <mark key="^" line="105" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/TestBean.java" timestamp="1503364690921">
         <mark key="[" line="7" column="23" />
@@ -246,17 +246,30 @@
         <mark key="^" line="153" column="42" />
         <mark key="." line="153" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/QueryResponse.java" timestamp="1504510930644">
+        <mark key="[" line="180" column="81" />
+        <mark key="]" line="181" column="56" />
+        <mark key="^" line="181" column="56" />
+        <mark key="." line="181" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/UnboundLdapUtils.java" timestamp="1503294322054">
         <mark key="[" line="51" column="55" />
         <mark key="]" line="51" column="55" />
         <mark key="." line="51" column="55" />
         <mark key="^" line="51" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" timestamp="1504508618533">
-        <mark key="[" line="113" column="39" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" timestamp="1504510882778">
+        <mark key="[" line="244" column="15" />
+        <mark key="]" line="244" column="43" />
+        <mark key="^" line="244" column="43" />
+        <mark key="." line="244" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAO.java" timestamp="1504503192521">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAO.java" timestamp="1504511092534">
         <mark key="'" line="289" column="17" />
+        <mark key="[" line="313" column="25" />
+        <mark key="]" line="313" column="25" />
+        <mark key="^" line="313" column="30" />
+        <mark key="." line="313" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/dirSyncServiceInternal.properties" timestamp="1503017612611">
         <mark key="[" line="24" column="57" />
@@ -414,7 +427,7 @@
         <text>f(vf;y</text>
       </register>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>getava</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -441,7 +454,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>getava</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXREZXRhaWxlZFByb2dyZXNzXD4=</text>
