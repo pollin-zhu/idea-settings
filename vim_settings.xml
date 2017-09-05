@@ -52,12 +52,12 @@
         <mark key="." line="143" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/git/api-framework/framework-test/src/main/java/com/cisco/webex/apis/test/APIHttpHelper.java" timestamp="1504488363509" />
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncSynchronizationQueryTask.java" timestamp="1504514578507">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncSynchronizationQueryTask.java" timestamp="1504579783112">
         <mark key="'" line="116" column="5" />
-        <mark key="[" line="100" column="8" />
-        <mark key="]" line="100" column="10" />
-        <mark key="." line="100" column="10" />
-        <mark key="^" line="100" column="10" />
+        <mark key="[" line="96" column="4" />
+        <mark key="]" line="96" column="6" />
+        <mark key="." line="96" column="6" />
+        <mark key="^" line="96" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/Child.java" timestamp="1499136911879">
         <mark key="[" line="17" column="47" />
@@ -204,18 +204,18 @@
         <mark key="." line="51" column="55" />
         <mark key="^" line="51" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" timestamp="1504510882778">
-        <mark key="[" line="244" column="15" />
-        <mark key="]" line="244" column="43" />
-        <mark key="^" line="244" column="43" />
-        <mark key="." line="244" column="43" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" timestamp="1504579742423">
+        <mark key="[" line="117" column="52" />
+        <mark key="]" line="118" column="37" />
+        <mark key="^" line="118" column="37" />
+        <mark key="." line="118" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAO.java" timestamp="1504514637265">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAO.java" timestamp="1504579581582">
         <mark key="'" line="289" column="17" />
-        <mark key="[" line="316" column="48" />
-        <mark key="]" line="316" column="79" />
-        <mark key="." line="316" column="79" />
-        <mark key="^" line="316" column="79" />
+        <mark key="[" line="321" column="67" />
+        <mark key="]" line="321" column="68" />
+        <mark key="." line="321" column="68" />
+        <mark key="^" line="321" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarAsyncTaskRunners.java" timestamp="1504513959201">
         <mark key="[" line="59" column="0" />
@@ -360,8 +360,8 @@
       <register name="a" type="4">
         <text>f(vf;y</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkvL3Rhc2sK</text>
+      <register name="&quot;" type="4">
+        <text>ing</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -388,7 +388,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getTotalAvatarPackageNumber</text>
+        <text>ing</text>
       </register>
       <register name="/" type="4">
         <text>AvatarAsyncTaskRunners</text>
@@ -400,25 +400,25 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkvL3Rhc2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKiBnZXQgcHJvY2Vzc2VkIHNlcSBuby4gaW4gdG90YWwgYXZhdGFyIHBhY2thZ2UuICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZHNxdC5nZXRUb3RhbEF2YXRhclBhY2thZ2VOdW1iZXIoKSE9MCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">CQkJCQkvL3Rhc2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvZ3Jlc3MgPSAwOwo=</text>
+        <text encoding="base64">ICAgIC8qKiBnZXQgcHJvY2Vzc2VkIHNlcSBuby4gaW4gdG90YWwgYXZhdGFyIHBhY2thZ2UuICovCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvZ3Jlc3MgPSAwOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQo=</text>
@@ -427,7 +427,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWludCBnZXRQcm9jZXNzaW5nQXZhdGFyTWFpblBhY2thZ2VOdW1iZXIoKTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
