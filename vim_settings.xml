@@ -53,10 +53,11 @@
         <mark key="." line="2" column="101" />
         <mark key="^" line="2" column="101" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceStatusDAOImpl.java" timestamp="1504598106080">
-        <mark key="[" line="405" column="0" />
-        <mark key="]" line="405" column="0" />
-        <mark key="." line="405" column="0" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceStatusDAOImpl.java" timestamp="1504598717867">
+        <mark key="[" line="452" column="48" />
+        <mark key="]" line="458" column="74" />
+        <mark key="." line="458" column="74" />
+        <mark key="^" line="458" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/concurrent/lock/synctask/ConcurrentSyncLock.java" timestamp="1498456186391">
         <mark key="[" line="31" column="0" />
@@ -360,8 +361,8 @@
       <register name="a" type="4">
         <text>f(vf;y</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAkJCXJldC5wdXQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>expect</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -388,7 +389,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nullT</text>
+        <text>expect</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzZWRBdmF0YXJNYWluUGFja2FnZUNvdW50XD4=</text>
