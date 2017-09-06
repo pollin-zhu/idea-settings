@@ -53,11 +53,11 @@
         <mark key="." line="2" column="101" />
         <mark key="^" line="2" column="101" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceStatusDAOImpl.java" timestamp="1504600706030">
-        <mark key="[" line="455" column="97" />
-        <mark key="]" line="456" column="82" />
-        <mark key="." line="456" column="82" />
-        <mark key="^" line="456" column="82" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceStatusDAOImpl.java" timestamp="1504664300053">
+        <mark key="[" line="459" column="20" />
+        <mark key="]" line="459" column="87" />
+        <mark key="." line="459" column="87" />
+        <mark key="^" line="459" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/concurrent/lock/synctask/ConcurrentSyncLock.java" timestamp="1498456186391">
         <mark key="[" line="31" column="0" />
@@ -92,12 +92,12 @@
         <mark key="." line="12" column="79" />
         <mark key="^" line="12" column="79" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncSynchronizationQueryTask.java" timestamp="1504594779843">
-        <mark key="'" line="116" column="5" />
-        <mark key="[" line="88" column="8" />
-        <mark key="]" line="88" column="10" />
-        <mark key="." line="88" column="10" />
-        <mark key="^" line="88" column="10" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncSynchronizationQueryTask.java" timestamp="1504664192860">
+        <mark key="'" line="118" column="5" />
+        <mark key="[" line="111" column="39" />
+        <mark key="]" line="112" column="39" />
+        <mark key="." line="112" column="39" />
+        <mark key="^" line="112" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" timestamp="1503967580494" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/ResourceFactory.java" timestamp="1495604948713">
@@ -183,12 +183,12 @@
         <mark key="." line="113" column="35" />
         <mark key="^" line="113" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" timestamp="1504594842376">
-        <mark key="'" line="288" column="8" />
-        <mark key="[" line="298" column="8" />
-        <mark key="]" line="298" column="8" />
-        <mark key="^" line="298" column="8" />
-        <mark key="." line="298" column="8" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" timestamp="1504664257010">
+        <mark key="'" line="293" column="8" />
+        <mark key="[" line="253" column="8" />
+        <mark key="]" line="253" column="64" />
+        <mark key="^" line="253" column="64" />
+        <mark key="." line="253" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/ConfigurationDAO.java" timestamp="1498532592244">
         <mark key="[" line="22" column="0" />
