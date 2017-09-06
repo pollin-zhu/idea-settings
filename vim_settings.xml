@@ -141,11 +141,11 @@
         <mark key="]" line="252" column="0" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarPayloadProcesser.java" timestamp="1504666446843">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="121" column="87" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarPayloadProcesser.java" timestamp="1504667397626">
+        <mark key="[" line="109" column="61" />
+        <mark key="]" line="109" column="96" />
+        <mark key="." line="109" column="96" />
+        <mark key="^" line="109" column="96" />
       </file>
       <file name="$USER_HOME$/workspace/git/api-framework/framework-core/src/main/java/com/cisco/webex/apis/common/exception/FrameworkException.java" timestamp="1502781207834">
         <mark key="[" line="200" column="9" />
