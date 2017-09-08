@@ -222,9 +222,9 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAO.java" timestamp="1504834501502">
         <mark key="'" line="291" column="17" />
         <mark key="[" line="297" column="72" />
-        <mark key="]" line="298" column="19" />
-        <mark key="." line="298" column="19" />
-        <mark key="^" line="298" column="19" />
+        <mark key="]" line="297" column="19" />
+        <mark key="." line="297" column="19" />
+        <mark key="^" line="297" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/RunnalbeAvatarTaskTest.java" timestamp="1503557321509">
         <mark key="[" line="67" column="19" />
