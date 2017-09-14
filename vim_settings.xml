@@ -11,6 +11,7 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/syncService.properties" timestamp="1505368101440" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/pom.xml" timestamp="1503364627805">
         <mark key="[" line="474" column="16" />
         <mark key="]" line="26" column="33" />
@@ -35,8 +36,8 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1504513796401">
-        <mark key="'" line="486" column="57" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1505368247659">
+        <mark key="'" line="53" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/UpdateAvatarTask.java" timestamp="1503555455536">
         <mark key="[" line="48" column="15" />
@@ -218,7 +219,7 @@
         <mark key="^" line="253" column="64" />
         <mark key="." line="280" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" timestamp="1505290992402" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" timestamp="1505368055815" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAO.java" timestamp="1504834501502">
         <mark key="'" line="291" column="17" />
         <mark key="[" line="297" column="72" />
@@ -261,12 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="437" column="4" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
-      <jump line="424" column="4" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
-      <jump line="474" column="64" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
-      <jump line="317" column="31" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
-      <jump line="595" column="105" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/notification/EmailAlerter.java" />
-      <jump line="271" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
       <jump line="546" column="46" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
       <jump line="102" column="33" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="219" column="87" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
@@ -361,6 +356,12 @@
       <jump line="117" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" />
       <jump line="288" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" />
       <jump line="983" column="23" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" />
+      <jump line="683" column="103" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="16" column="34" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="702" column="51" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="836" column="59" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="847" column="52" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="53" column="44" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -397,7 +398,7 @@
         <text>processingMainPackagenumber</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdWJtaXRUYXNrXD4=</text>
+        <text>idbroker.url</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBhbm90aGVyIGNhc2U6IHByb2dyZXNzIGNhbid0IG92ZXIgOTAgd2hlbiBhdmF0YXIgaXNuJ3QgZG9uZS4K</text>
@@ -436,13 +437,13 @@
         <text encoding="base64">CQkJCQl0YXNrLnNldEF2YXRhclByb2Nlc3NpbmdQcm9ncmVzcyhwcm9jZXNzaW5nTWFpblBhY2thZ2VudW1iZXIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set norelativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdWJtaXRUYXNrXD4=</last-search>
+      <last-search>idbroker.url</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdWJtaXRUYXNrXD4=</last-pattern>
+      <last-pattern>idbroker.url</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">XDxTdHJpbmdzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -450,9 +451,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AvatarHandler</entry>
-        <entry encoding="base64">XDxjb2RlXD4=</entry>
-        <entry encoding="base64">XDx1aWRGcm9tT0F1dGhDb2RlXD4=</entry>
         <entry encoding="base64">XDxpZEVudHJ5XD4=</entry>
         <entry encoding="base64">XDxndWlkXD4=</entry>
         <entry encoding="base64">XDxtYW5hZ2VzT3JnQmVhbkxpc3RcPg==</entry>
@@ -470,9 +468,11 @@
         <entry>AvatarAsyncTaskRunners</entry>
         <entry encoding="base64">XDxwcm9jZXNzZWRBdmF0YXJNYWluUGFja2FnZUNvdW50XD4=</entry>
         <entry encoding="base64">XDxzdWJtaXRUYXNrXD4=</entry>
+        <entry>idbroker.url.global</entry>
+        <entry>idbroker.url}</entry>
+        <entry>idbroker.url</entry>
       </history-search>
       <history-cmd>
-        <entry>reg b</entry>
         <entry>reg</entry>
         <entry>set nu</entry>
         <entry>403</entry>
@@ -482,7 +482,6 @@
         <entry encoding="base64">JzwsJz5j</entry>
         <entry>33</entry>
         <entry>set number</entry>
-        <entry>set norelativenumber</entry>
         <entry>260</entry>
         <entry>x</entry>
         <entry>jumps</entry>
@@ -492,6 +491,8 @@
         <entry encoding="base64">JzwsJz5k</entry>
         <entry>set relativenumber</entry>
         <entry>w</entry>
+        <entry>77</entry>
+        <entry>set norelativenumber</entry>
       </history-cmd>
       <history-expr />
       <history-input />
