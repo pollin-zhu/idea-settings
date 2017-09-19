@@ -449,7 +449,7 @@
         <text encoding="base64">CQkJCQl0YXNrLnNldEF2YXRhclByb2Nlc3NpbmdQcm9ncmVzcyhwcm9jZXNzaW5nTWFpblBhY2thZ2VudW1iZXIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>set norelativenumber</text>
+        <text>288</text>
       </register>
     </registers>
     <search>
@@ -485,7 +485,6 @@
         <entry encoding="base64">XDxkZWZhdWx0Q2lDbHVzdGVyUHJvdmlkZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>reg</entry>
         <entry>set nu</entry>
         <entry>403</entry>
         <entry>70</entry>
@@ -505,6 +504,7 @@
         <entry>w</entry>
         <entry>77</entry>
         <entry>set norelativenumber</entry>
+        <entry>288</entry>
       </history-cmd>
       <history-expr />
       <history-input />
