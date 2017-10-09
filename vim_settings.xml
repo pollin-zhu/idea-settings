@@ -41,7 +41,6 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1505701610845">
         <mark key="'" line="865" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/resource/scim/UserResource.java" timestamp="1506667988999" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/UpdateAvatarTask.java" timestamp="1503555455536">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="30" />
@@ -139,7 +138,6 @@
         <mark key="." line="1" column="77" />
         <mark key="^" line="1" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/ConfigurationHandler.java" timestamp="1506306149201" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/resource/scom/OrganizationResource.java" timestamp="1506580386815">
         <mark key="'" line="240" column="54" />
       </file>
@@ -161,7 +159,6 @@
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/Arrays.java" timestamp="1506566243746" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAOTest.java" timestamp="1504591197439">
         <mark key="[" line="81" column="86" />
         <mark key="]" line="81" column="86" />
@@ -174,11 +171,9 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="452" column="87" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" timestamp="1506668312814" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" timestamp="1504831099728">
         <mark key="'" line="983" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/CommonUtils.java" timestamp="1506307747446" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/datastore/DirSyncServiceSyncTest.java" timestamp="1503039200870">
         <mark key="[" line="38" column="12" />
         <mark key="]" line="38" column="24" />
@@ -202,13 +197,15 @@
         <mark key="^" line="13" column="75" />
         <mark key="." line="19" column="29" />
       </file>
+      <file name="/Dummy.txt" timestamp="1507517202023">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/InMemorySessionManager.java" timestamp="1499066098051">
         <mark key="[" line="153" column="35" />
         <mark key="]" line="153" column="42" />
         <mark key="^" line="153" column="42" />
         <mark key="." line="153" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/identity/src/main/resources/IdentityBeans.xml" timestamp="1506580585820" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/QueryResponse.java" timestamp="1504831061422">
         <mark key="[" line="180" column="81" />
         <mark key="]" line="181" column="56" />
@@ -256,7 +253,6 @@
         <mark key="^" line="86" column="40" />
         <mark key="." line="86" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/dao/OrgStore.java" timestamp="1506582228681" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/common/cache/GuavaCache.java" timestamp="1506668136193">
         <mark key="'" line="57" column="34" />
       </file>
@@ -271,6 +267,9 @@
         <mark key="]" line="126" column="31" />
         <mark key="." line="126" column="31" />
         <mark key="^" line="126" column="31" />
+      </file>
+      <file name="/fragment.java" timestamp="1507517279991">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" timestamp="1496199339757">
         <mark key="[" line="222" column="0" />
