@@ -242,6 +242,12 @@
         <mark key="." line="297" column="19" />
         <mark key="^" line="297" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/dirSyncServiceInternal.properties" timestamp="1507612282133">
+        <mark key="[" line="24" column="600" />
+        <mark key="]" line="24" column="623" />
+        <mark key="^" line="24" column="623" />
+        <mark key="." line="24" column="623" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/RunnalbeAvatarTaskTest.java" timestamp="1503557321509">
         <mark key="[" line="67" column="19" />
         <mark key="]" line="67" column="19" />
@@ -455,7 +461,7 @@
         <text encoding="base64">CXZvaWQgc2V0QXZhdGFyUHJvY2Vzc2luZ1Byb2dyZXNzKGxvbmcgYXZhdGFyUHJvY2Vzc2luZ1Byb2dyZXNzKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>288</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -507,10 +513,10 @@
         <entry>register</entry>
         <entry encoding="base64">JzwsJz5k</entry>
         <entry>set relativenumber</entry>
-        <entry>w</entry>
         <entry>77</entry>
         <entry>set norelativenumber</entry>
         <entry>288</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
