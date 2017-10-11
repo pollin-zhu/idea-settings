@@ -41,7 +41,6 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1507618183010">
         <mark key="'" line="822" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/resource/scim/UserResource.java" timestamp="1507599234835" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/UpdateAvatarTask.java" timestamp="1503555455536">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="30" />
@@ -159,12 +158,10 @@
         <mark key="." line="81" column="86" />
         <mark key="^" line="69" column="79" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/dirsync/test/CommonUtilsTest.java" timestamp="1507704012328">
-        <mark key="[" line="239" column="38" />
-        <mark key="]" line="239" column="47" />
-        <mark key="^" line="239" column="47" />
-        <mark key="." line="239" column="47" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/attrmapping/AttributeMapParserTest.java" timestamp="1507706386382">
+        <mark key="[" line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/dirsync/test/CommonUtilsTest.java" timestamp="1507706377327" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceStatusDAOImpl.java" timestamp="1505374609454">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
@@ -191,7 +188,6 @@
         <mark key="." line="38" column="24" />
         <mark key="^" line="38" column="24" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3-sources.jar!/org/hamcrest/collection/IsIterableContainingInOrder.java" timestamp="1507625434085" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/concurrent/lock/synctask/NumbConcurrentSyncLock.java" timestamp="1498459670577">
         <mark key="[" line="12" column="38" />
         <mark key="]" line="12" column="79" />
@@ -272,7 +268,7 @@
         <mark key="." line="126" column="31" />
         <mark key="^" line="126" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1507517279991">
+      <file name="/fragment.java" timestamp="1507705792719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/recyclablepool/RecyclablePoolManagerConcurrentTest.java" timestamp="1496199339757">
