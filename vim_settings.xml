@@ -49,11 +49,12 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" timestamp="1507710181494">
-        <mark key="[" line="21" column="71" />
-        <mark key="]" line="21" column="71" />
-        <mark key="." line="21" column="71" />
-        <mark key="^" line="21" column="71" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" timestamp="1507785002242">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="39" column="24" />
+        <mark key="." line="39" column="24" />
+        <mark key="^" line="39" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/UpdateAvatarTask.java" timestamp="1503555455536">
         <mark key="[" line="48" column="15" />
@@ -178,7 +179,6 @@
         <mark key="^" line="42" column="46" />
         <mark key="." line="42" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/dirsync/test/CommonUtilsTest.java" timestamp="1507706377327" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceStatusDAOImpl.java" timestamp="1505374609454">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
@@ -188,11 +188,11 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" timestamp="1504831099728">
         <mark key="'" line="983" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMapParser.java" timestamp="1507710493082">
-        <mark key="[" line="72" column="52" />
-        <mark key="]" line="72" column="47" />
-        <mark key="." line="72" column="47" />
-        <mark key="^" line="72" column="47" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMapParser.java" timestamp="1507786047051">
+        <mark key="[" line="40" column="23" />
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="40" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/CommonUtils.java" timestamp="1507705401545">
         <mark key="[" line="52" column="0" />
@@ -302,12 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="20" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" />
-      <jump line="179" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" />
-      <jump line="190" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" />
-      <jump line="226" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" />
-      <jump line="227" column="20" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" />
-      <jump line="232" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" />
       <jump line="233" column="20" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" />
       <jump line="238" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" />
       <jump line="239" column="20" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" />
@@ -402,6 +396,12 @@
       <jump line="829" column="24" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="828" column="46" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="822" column="14" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="17" column="51" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" />
+      <jump line="47" column="7" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -418,8 +418,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXA8U3RyaW5nLCBTdHJpbmc+IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -446,13 +446,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXA8U3RyaW5nLCBTdHJpbmc+IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeW5jVGFza0hhbmRsZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIkludmFsaWQgYXR0ciBtYXBwaW5nIik7Cg==</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
@@ -461,31 +461,31 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGZpbmFsIEF0dHJpYnV0ZU1hcHBpbmcgbWFwcGluZyA6IHRoaXMpIHsKICAgICAgICAgICAgLy8KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29uZmlnU3RyaW5nID09IG51bGwgfHwgY29uZmlnU3RyaW5nLmxlbmd0aCgpID09IDApIHsKICAgICAgICAgICAgcmV0dXJuIHJldE1hcDsKICAgICAgICB9CiAgICAgICAgU3RyaW5nVG9rZW5pemVyIHRva2VucyA9IG5ldyBTdHJpbmdUb2tlbml6ZXIoY29uZmlnU3RyaW5nLCAiLCIpOwogICAgICAgIHdoaWxlICh0b2tlbnMuaGFzTW9yZVRva2VucygpKSB7CiAgICAgICAgICAgIFN0cmluZyB0b2tlbiA9IHRva2Vucy5uZXh0VG9rZW4oKTsKICAgICAgICAgICAgaW50IHBvcyA9IHRva2VuLmluZGV4T2YoIj0iKTsKICAgICAgICAgICAgaWYgKHBvcyA9PSAtMSkgewogICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJTa2lwIGludmFsaWQgcHJvdmlkZXIgY29uZmlndXJhdGlvbiAiICsgdG9rZW4pOwogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3RyaW5nIGtleSA9IHRva2VuLnN1YnN0cmluZygwLCBwb3MpLnRyaW0oKTsKICAgICAgICAgICAgU3RyaW5nIHZhbHVlID0gdG9rZW4uc3Vic3RyaW5nKHBvcyArIDEpLnRyaW0oKTsKICAgICAgICAgICAgaWYgKHZhbHVlLmxlbmd0aCgpID09IDApIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiU2tpcCBpbnZhbGlkIG1hcHBpbmcgOiB2YWx1ZSBpcyBlbXB0eSAiICsgdG9rZW4pOwogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAga2V5ID0gdW5lc2NhcGVFcXVhbFNpZ24oa2V5KTsKICAgICAgICAgICAgdmFsdWUgPSB1bmVzY2FwZUVxdWFsU2lnbih2YWx1ZSk7CiAgICAgICAgICAgIGlmIChrZXkuc3RhcnRzV2l0aChSRVFVSVJFRF9QUkVGSVgpKSB7CiAgICAgICAgICAgICAgICBrZXkgPSBrZXkuc3Vic3RyaW5nKFJFUVVJUkVEX1BSRUZJWC5sZW5ndGgoKSkudHJpbSgpOwogICAgICAgICAgICAgICAgaWYgKHJlcXVpcmVkU2V0ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXF1aXJlZFNldC5hZGQodmFsdWUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChrZXkubGVuZ3RoKCkgIT0gMCkgewogICAgICAgICAgICAgICAgaWYgKHN5bmNTZXQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHN5bmNTZXQuYWRkKGtleSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAvLyB1c2UgY2xvdWQgaWRlbnRpdHkgc3RvcmUgYXR0cmlidXRlIGFzIGtleSBmb3IgdGhlIG1hcAogICAgICAgICAgICAgICAgcmV0TWFwLnB1dCh2YWx1ZSwga2V5KTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoY2lzU2V0ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGNpc1NldC5hZGQodmFsdWUpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9wdGlvbnMgPSBvcHRpb25zOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb25maWdTdHJpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgcGFyc2VBdHRyaWJ1dGVNYXBwaW5nKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSA9IHRvID0gIiI7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBSRVFVSVJFRF9QUkVGSVggPSAiKiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0TWFwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFJldHVybiBrZXkvdmFsdWUgbWFwIGZyb20gY29uZmlndXJhdGlvbiBzdHJpbmcgd2hpY2ggaXMgaW4gZm9sbG93aW5nCiAgICAgKiBmb3JtYXQ6IGtleTE9dmFsdWUxLGtleTI9dmFsdWUyLC4uLiBJZiBrZXkgb3IgdmFsdWUgY29udGFpbnMgIj0iIHNpZ24sIGl0CiAgICAgKiBuZWVkcyB0byBiZSBlc2NhcGVkIGFzICImIzYxOyIuIEFsbCAiJiIgaW4ga2V5IG9yIHZhbHVlIG5lZWRzIHRvIGJlCiAgICAgKiBlc2NhcGVkIGFzICImIzM4OyIuIGUuZy4gbmFtZT1UaGUmIzM4c2lnbiYjNjEgKHN0YW5kcyBmb3IgbmFtZT10aGUmc2lnbj0pCiAgICAgKgogICAgICogQHBhcmFtIGNvbmZpZ1N0cmluZwogICAgICogQHJldHVybiBtYXAgb2Yga2V5L3ZhbHVlIHBhaXIKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBNYXA8U3RyaW5nLCBTdHJpbmc+IGdldEF0dHJpYnV0ZU1hcChTdHJpbmcgY29uZmlnU3RyaW5nKSB7CiAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiByZXRNYXAgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4oKTsKICAgICAgICBpZiAoY29uZmlnU3RyaW5nID09IG51bGwgfHwgY29uZmlnU3RyaW5nLmxlbmd0aCgpID09IDApIHsKICAgICAgICAgICAgcmV0dXJuIHJldE1hcDsKICAgICAgICB9CiAgICAgICAgU3RyaW5nVG9rZW5pemVyIHRva2VucyA9IG5ldyBTdHJpbmdUb2tlbml6ZXIoY29uZmlnU3RyaW5nLCAiLCIpOwogICAgICAgIHdoaWxlICh0b2tlbnMuaGFzTW9yZVRva2VucygpKSB7CiAgICAgICAgICAgIFN0cmluZyB0b2tlbiA9IHRva2Vucy5uZXh0VG9rZW4oKTsKICAgICAgICAgICAgaW50IHBvcyA9IHRva2VuLmluZGV4T2YoIj0iKTsKICAgICAgICAgICAgaWYgKHBvcyA9PSAtMSB8fCBwb3MgPT0gMCkgewogICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJTa2lwIGludmFsaWQgcHJvdmlkZXIgY29uZmlndXJhdGlvbiAiICsgdG9rZW4pOwogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3RyaW5nIGtleSA9IHRva2VuLnN1YnN0cmluZygwLCBwb3MpLnRyaW0oKTsKICAgICAgICAgICAgU3RyaW5nIHZhbHVlID0gdG9rZW4uc3Vic3RyaW5nKHBvcyArIDEpLnRyaW0oKTsKICAgICAgICAgICAgcmV0TWFwLnB1dCh1bmVzY2FwZUVxdWFsU2lnbihrZXkpLCB1bmVzY2FwZUVxdWFsU2lnbih2YWx1ZSkpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcmV0TWFwOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gPSBrZXk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBTdHJpbmcgdW5lc2NhcGVFcXVhbFNpZ24oU3RyaW5nIGVzY2FwZWRTdHIpIHsKICAgICAgICBpZiAoZXNjYXBlZFN0ciA9PSBudWxsIHx8IGVzY2FwZWRTdHIubGVuZ3RoKCkgPT0gMCkgewogICAgICAgICAgICByZXR1cm4gZXNjYXBlZFN0cjsKICAgICAgICB9CiAgICAgICAgLy8gdW5lc2NhcGUgIj0iCiAgICAgICAgZXNjYXBlZFN0ciA9IGVzY2FwZWRTdHIucmVwbGFjZUFsbCgiJiM2MTsiLCAiPSIpOwogICAgICAgIC8vIHVuZXNjYXBlICImIgogICAgICAgIHJldHVybiBlc2NhcGVkU3RyLnJlcGxhY2VBbGwoIiYjMzg7IiwgIiYiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGtleS5sZW5ndGgoKSAhPSAwKSB7CiAgICAgICAgICAgICAgICBpZiAoc3luY1NldCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgc3luY1NldC5hZGQoa2V5KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC8vIHVzZSBjbG91ZCBpZGVudGl0eSBzdG9yZSBhdHRyaWJ1dGUgYXMga2V5IGZvciB0aGUgbWFwCiAgICAgICAgICAgICAgICByZXRNYXAucHV0KHZhbHVlLCBrZXkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChjaXNTZXQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgY2lzU2V0LmFkZCh2YWx1ZSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBTdHJpbmcgdW5lc2NhcGVFcXVhbFNpZ24oU3RyaW5nIGVzY2FwZWRTdHIpIHsKICAgICAgICBpZiAoZXNjYXBlZFN0ciA9PSBudWxsIHx8IGVzY2FwZWRTdHIubGVuZ3RoKCkgPT0gMCkgewogICAgICAgICAgICByZXR1cm4gZXNjYXBlZFN0cjsKICAgICAgICB9CiAgICAgICAgLy8gdW5lc2NhcGUgIj0iCiAgICAgICAgZXNjYXBlZFN0ciA9IGVzY2FwZWRTdHIucmVwbGFjZUFsbCgiJiM2MTsiLCAiPSIpOwogICAgICAgIC8vIHVuZXNjYXBlICImIgogICAgICAgIHJldHVybiBlc2NhcGVkU3RyLnJlcGxhY2VBbGwoIiYjMzg7IiwgIiYiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
