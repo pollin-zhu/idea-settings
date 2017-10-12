@@ -5,10 +5,11 @@
       <mark key="V" line="578" column="63" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMapping.java" timestamp="1507710193025">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="4" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMapping.java" timestamp="1507791997490">
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/log4j.properties" timestamp="1496294620728">
         <mark key="[" line="5" column="15" />
@@ -49,12 +50,12 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" timestamp="1507787503125">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" timestamp="1507791978412">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="36" column="35" />
-        <mark key="." line="36" column="35" />
-        <mark key="^" line="36" column="35" />
+        <mark key="[" line="68" column="60" />
+        <mark key="]" line="68" column="60" />
+        <mark key="." line="68" column="60" />
+        <mark key="^" line="68" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/UpdateAvatarTask.java" timestamp="1503555455536">
         <mark key="[" line="48" column="15" />
@@ -173,11 +174,10 @@
         <mark key="." line="81" column="86" />
         <mark key="^" line="69" column="79" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/attrmapping/AttributeMapParserTest.java" timestamp="1507789396539">
-        <mark key="[" line="45" column="29" />
-        <mark key="]" line="45" column="32" />
-        <mark key="." line="45" column="32" />
-        <mark key="^" line="45" column="32" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/attrmapping/AttributeMapParserTest.java" timestamp="1507791720640">
+        <mark key="[" line="52" column="77" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceStatusDAOImpl.java" timestamp="1505374609454">
         <mark key="[" line="124" column="0" />
@@ -188,11 +188,11 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" timestamp="1504831099728">
         <mark key="'" line="983" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMapParser.java" timestamp="1507789336676">
-        <mark key="[" line="143" column="57" />
-        <mark key="]" line="146" column="55" />
-        <mark key="." line="146" column="55" />
-        <mark key="^" line="146" column="55" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMapParser.java" timestamp="1507791792911">
+        <mark key="[" line="94" column="56" />
+        <mark key="]" line="96" column="74" />
+        <mark key="." line="96" column="74" />
+        <mark key="^" line="96" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/CommonUtils.java" timestamp="1507705401545">
         <mark key="[" line="52" column="0" />
@@ -258,11 +258,12 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" timestamp="1505369434348">
         <mark key="'" line="360" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/dirSyncServiceInternal.properties" timestamp="1507617581922">
-        <mark key="[" line="24" column="600" />
-        <mark key="]" line="24" column="623" />
-        <mark key="^" line="24" column="623" />
-        <mark key="." line="24" column="623" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/dirSyncServiceInternal.properties" timestamp="1507791642767">
+        <mark key="'" line="5" column="49" />
+        <mark key="[" line="24" column="605" />
+        <mark key="]" line="24" column="608" />
+        <mark key="^" line="24" column="608" />
+        <mark key="." line="24" column="608" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/RunnalbeAvatarTaskTest.java" timestamp="1503557321509">
         <mark key="[" line="67" column="19" />
@@ -302,7 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="20" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" />
       <jump line="238" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" />
       <jump line="239" column="20" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" />
       <jump line="244" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" />
@@ -402,6 +402,7 @@
       <jump line="29" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" />
       <jump line="47" column="7" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" />
+      <jump line="5" column="49" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/dirSyncServiceInternal.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -419,7 +420,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>realOptions</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -446,10 +447,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>realOptions</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzeW5jVGFza0hhbmRsZXJcPg==</text>
+        <text>uid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleGVjdXRlQW5kVmFsaWRQYXJzZShjb25maWdzKTsK</text>
@@ -458,43 +459,43 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmdbXSByZWFsT3B0aW9ucyA9IG9wdGlvbnMgPT0gbnVsbCB8fCBvcHRpb25zLmxlbmd0aCA9PSAwID8gbnVsbCA6IG9wdGlvbnM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRKdXN0Q29udGFpbiggbnUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgaW50IGlkeE9wdGlvbkZyb20gPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZAo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuZ2V0TWFwcGluZygidG9BIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIG9wdGlvbkV4cHIgPSB0b1dpdGhPcHRpb25zLnNpemUoKT4xID8gdG9XaXRoT3B0aW9ucy5nZXQoMSkgOiBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwaW5ncy5hZGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgZ3JvdXBDb3VudCA9IG1hdGNoZXIuZ3JvdXBDb3VudCgpOwogICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IGdyb3VwQ291bnQ7IGkrKykgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlsiICsgaSArICJdPSIgKyBtYXRjaGVyLmdyb3VwKGkpKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGlzdDxBdHRyaWJ1dGVNYXBwaW5nPiBtYXBwaW5ncyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJlc3VsdDogIiArIG1hdGNoZXIubWF0Y2hlcygpICsgIjsgZ3JvdXAgY291bnQ9IiArIG1hdGNoZXIuZ3JvdXBDb3VudCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzeW5jVGFza0hhbmRsZXJcPg==</last-search>
+      <last-search>uid</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzeW5jVGFza0hhbmRsZXJcPg==</last-pattern>
+      <last-pattern>uid</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">XDxTdHJpbmdzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -502,8 +503,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXREZXRhaWxlZFByb2dyZXNzXD4=</entry>
-        <entry>AvatarAsyncTaskRunners</entry>
         <entry encoding="base64">XDxwcm9jZXNzZWRBdmF0YXJNYWluUGFja2FnZUNvdW50XD4=</entry>
         <entry encoding="base64">XDxzdWJtaXRUYXNrXD4=</entry>
         <entry>idbroker.url}</entry>
@@ -522,6 +521,8 @@
         <entry encoding="base64">XDxhdHRyaWJ1dGVNYXBcPg==</entry>
         <entry encoding="base64">XDxlbmdpbmVDb25maWdcPg==</entry>
         <entry encoding="base64">XDxzeW5jVGFza0hhbmRsZXJcPg==</entry>
+        <entry>uid(</entry>
+        <entry>uid</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
