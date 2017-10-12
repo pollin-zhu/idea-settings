@@ -50,12 +50,12 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" timestamp="1507791978412">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" timestamp="1507793154773">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="68" column="60" />
-        <mark key="]" line="68" column="60" />
-        <mark key="." line="68" column="60" />
-        <mark key="^" line="68" column="59" />
+        <mark key="[" line="70" column="60" />
+        <mark key="]" line="70" column="60" />
+        <mark key="." line="70" column="60" />
+        <mark key="^" line="70" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/UpdateAvatarTask.java" timestamp="1503555455536">
         <mark key="[" line="48" column="15" />
