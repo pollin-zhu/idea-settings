@@ -55,13 +55,13 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" timestamp="1508134570590">
-        <mark key="c" line="77" column="36" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" timestamp="1508223414665">
+        <mark key="c" line="78" column="36" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="96" column="52" />
-        <mark key="]" line="97" column="67" />
-        <mark key="." line="97" column="67" />
-        <mark key="^" line="97" column="67" />
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="70" column="7" />
+        <mark key="." line="70" column="7" />
+        <mark key="^" line="70" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/datastore/IdentityStoreManager.java" timestamp="1507873255971">
         <mark key="[" line="98" column="53" />
@@ -263,14 +263,14 @@
         <mark key="." line="38" column="24" />
         <mark key="^" line="38" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAO.java" timestamp="1508222701439">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAO.java" timestamp="1508223224070">
         <mark key="a" line="635" column="72" />
         <mark key="b" line="390" column="62" />
-        <mark key="'" line="680" column="14" />
-        <mark key="[" line="673" column="0" />
-        <mark key="]" line="675" column="46" />
-        <mark key="^" line="675" column="46" />
-        <mark key="." line="675" column="46" />
+        <mark key="'" line="681" column="14" />
+        <mark key="[" line="678" column="8" />
+        <mark key="]" line="678" column="49" />
+        <mark key="." line="678" column="49" />
+        <mark key="^" line="678" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/concurrent/lock/synctask/NumbConcurrentSyncLock.java" timestamp="1498459670577">
         <mark key="[" line="12" column="38" />
@@ -482,8 +482,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -522,34 +522,34 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmYgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBhZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgRGlyU3luY01hcHBpbmcgbSA9IG5ldyBEaXJTeW5jTWFwcGluZygpOwogICAgICAgICAgICAgICAgICAgIG0uc2V0RnJvbShtYXBwaW5nLmdldEF0dHJpYnV0ZVN0cmluZyhGUk9NKSk7CiAgICAgICAgICAgICAgICAgICAgbS5zZXRUbyh0byk7CiAgICAgICAgICAgICAgICAgICAgbS5zZXRSZXF1aXJlZCgKICAgICAgICAgICAgICAgICAgICAgICAgbWFwcGluZy5nZXRBdHRyaWJ1dGVCb29sZWFuKFJFUVVJUkVELCBmYWxzZSkpOwogICAgICAgICAgICAgICAgICAgIG0uc2V0TGlua0F0dHJpYnV0ZSgKICAgICAgICAgICAgICAgICAgICAgICAgbWFwcGluZy5nZXRBdHRyaWJ1dGVCb29sZWFuKExJTktfQVRUUklCVVRFLCBmYWxzZSkpOwogICAgICAgICAgICAgICAgICAgIGRzbS5hZGQobSk7CiAgICAgICAgICAgICAgICAgICAgaW5Db25mQXR0cnMuYWRkKG0uZ2V0VG8oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmYgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5hbCBTdHJpbmcgdG8gPSBtYXBwaW5nLmdldEF0dHJpYnV0ZVN0cmluZyhUTyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgID0gOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL29wdGlvbnMgPSBuZXcgU3RyaW5nW10geyIifQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgRGlyU3luY01hcHBpbmcgbSA9IG5ldyBEaXJTeW5jTWFwcGluZygpOwogICAgICAgICAgICAgICAgICAgIG0uc2V0RnJvbShtYXBwaW5nLmdldEF0dHJpYnV0ZVN0cmluZyhGUk9NKSk7CiAgICAgICAgICAgICAgICAgICAgbS5zZXRUbyh0byk7CiAgICAgICAgICAgICAgICAgICAgbS5zZXRSZXF1aXJlZCgKICAgICAgICAgICAgICAgICAgICAgICAgbWFwcGluZy5nZXRBdHRyaWJ1dGVCb29sZWFuKFJFUVVJUkVELCBmYWxzZSkpOwogICAgICAgICAgICAgICAgICAgIG0uc2V0TGlua0F0dHJpYnV0ZSgKICAgICAgICAgICAgICAgICAgICAgICAgbWFwcGluZy5nZXRBdHRyaWJ1dGVCb29sZWFuKExJTktfQVRUUklCVVRFLCBmYWxzZSkpOwogICAgICAgICAgICAgICAgICAgIGRzbS5hZGQobSk7CiAgICAgICAgICAgICAgICAgICAgaW5Db25mQXR0cnMuYWRkKG0uZ2V0VG8oKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBjb3B5X29rX2Zvcl9zYW1lX2Zyb21fYW5kX25vbmVtcHR5X29wdGlvbnMoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBydW5Db3B5VGVzdChlbXB0eU9wdGlvbnMsIGZyb20pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5hbCBTdHJpbmcgdG8gPSBtYXBwaW5nLmdldEF0dHJpYnV0ZVN0cmluZyhUTyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
