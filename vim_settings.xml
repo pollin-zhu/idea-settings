@@ -29,10 +29,6 @@
         <mark key="." line="210" column="42" />
         <mark key="^" line="210" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/pom.xml" timestamp="1508496715748">
-        <mark key="'" line="57" column="24" />
-        <mark key="[" line="186" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/pom.xml" timestamp="1504160898557">
         <mark key="[" line="41" column="21" />
         <mark key="]" line="41" column="24" />
@@ -266,13 +262,13 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="452" column="87" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/dao/ConfigurationDaoTest.java" timestamp="1508501335688">
-        <mark key="a" line="633" column="55" />
-        <mark key="'" line="42" column="51" />
-        <mark key="[" line="549" column="8" />
-        <mark key="]" line="549" column="8" />
-        <mark key="." line="549" column="8" />
-        <mark key="^" line="549" column="44" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/dao/ConfigurationDaoTest.java" timestamp="1508725710168">
+        <mark key="a" line="634" column="55" />
+        <mark key="'" line="43" column="51" />
+        <mark key="[" line="483" column="9" />
+        <mark key="]" line="483" column="123" />
+        <mark key="." line="483" column="123" />
+        <mark key="^" line="483" column="123" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" timestamp="1508500963642">
         <mark key="[" line="1053" column="33" />
@@ -382,6 +378,9 @@
         <mark key="^" line="24" column="608" />
         <mark key="." line="24" column="608" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" timestamp="1508726461876">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/RunnalbeAvatarTaskTest.java" timestamp="1503557321509">
         <mark key="[" line="67" column="19" />
         <mark key="]" line="67" column="19" />
@@ -423,11 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="43" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
-      <jump line="825" column="10" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
-      <jump line="309" column="18" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
-      <jump line="824" column="43" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
-      <jump line="829" column="24" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="828" column="46" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="822" column="14" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="17" column="51" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMappings.java" />
@@ -523,6 +517,11 @@
       <jump line="199" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/aci/AciManagerTest.java" />
       <jump line="201" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/aci/AciManagerTest.java" />
       <jump line="206" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/aci/AciManagerTest.java" />
+      <jump line="6" column="32" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" />
+      <jump line="49" column="26" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -539,8 +538,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nPiBhdHRyTWFwcGluZ3MgPSBuZXcgQXJyYXlMaXN0PERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nPigpOwoKICAgICAgICBmaW5hbCBEaXJTeW5jQXR0cmlidXRlTWFwcGluZyB1c2VyQXR0ck1hcHBpbmdzID0gbmV3IERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nKCk7CiAgICAgICAgYXR0ck1hcHBpbmdzLmFkZCh1c2VyQXR0ck1hcHBpbmdzKTsKICAgICAgICB1c2VyQXR0ck1hcHBpbmdzLnNldFR5cGUoInVzZXIiKTsKICAgICAgICB1c2VyQXR0ck1hcHBpbmdzLnNldEF0dHJNYXBwaW5ncyhBdHRyaWJ1dGVNYXBwaW5nSGVscC5uZXdNYXBwaW5ncyhVU0VSX0FUVFIyLCBVU0VSX0FUVFIyKSk7CgogICAgICAgIGZpbmFsIERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nIGdyb3VwQXR0ck1hcHBpbmdzID0gbmV3IERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nKCk7CiAgICAgICAgYXR0ck1hcHBpbmdzLmFkZChncm91cEF0dHJNYXBwaW5ncyk7CiAgICAgICAgZ3JvdXBBdHRyTWFwcGluZ3Muc2V0VHlwZSgiZ3JvdXAiKTsKICAgICAgICBncm91cEF0dHJNYXBwaW5ncy5zZXRBdHRyTWFwcGluZ3MoQXR0cmlidXRlTWFwcGluZ0hlbHAubmV3TWFwcGluZ3MoR1JPVVBfQVRUUjIsIEdST1VQX0FUVFIyKSk7CgogICAgICAgIGZpbmFsIERpclN5bmNDb25maWd1cmF0aW9uSW1wbCBjb25maWcgPSBuZXcgRGlyU3luY0NvbmZpZ3VyYXRpb25JbXBsKCk7CiAgICAgICAgY29uZmlnLnNldEF0dHJpYnV0ZU1hcHBpbmcoYXR0ck1hcHBpbmdzKTsKICAgICAgICBjb25maWcuc2V0U3luY01vZGUoU3luY01vZGUuc3RhcnRlZCk7CgogICAgICAgIHJldHVybiBjb25maWc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -567,10 +566,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/opt/identity/JKS/truststore</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Y29tbW9uPg==</text>
+        <text>a9e3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAgICByZXR1cm4gbmV3RGlyU3luY0NvbmZpZ3VyYXRpb24oVVNFUl9BVFRSMSwgR1JPVVBfQVRUUjEpOwo=</text>
@@ -616,9 +615,9 @@ ciCluster.provider=defaultCiClusterProvider</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Y29tbW9uPg==</last-search>
+      <last-search>a9e3</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Y29tbW9uPg==</last-pattern>
+      <last-pattern>a9e3</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">Y29tbW9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -626,8 +625,6 @@ ciCluster.provider=defaultCiClusterProvider</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWZhdWx0Q2lDbHVzdGVyXD4=</entry>
-        <entry encoding="base64">XDxkZWZhdWx0Q2lDbHVzdGVyUHJvdmlkZXJcPg==</entry>
         <entry encoding="base64">XDxkaXJTeW5jSW5mb1w+</entry>
         <entry encoding="base64">XDxpc09yZ0VuYWJsZURpcnN5bmNcPg==</entry>
         <entry encoding="base64">XDxvcmdFbmFibGVEaXJzeW5jQ2FjaGVcPg==</entry>
@@ -646,6 +643,8 @@ ciCluster.provider=defaultCiClusterProvider</text>
         <entry>common</entry>
         <entry encoding="base64">Y29tbW9uPA==</entry>
         <entry encoding="base64">Y29tbW9uPg==</entry>
+        <entry>member</entry>
+        <entry>a9e3</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
