@@ -72,7 +72,7 @@
         <mark key="." line="612" column="53" />
         <mark key="^" line="612" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/AbstractTest.java" timestamp="1507872411618">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/AbstractTest.java" timestamp="1508732519587">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="783" column="59" />
         <mark key="]" line="783" column="87" />
@@ -202,8 +202,8 @@
         <mark key="." line="430" column="104" />
         <mark key="^" line="430" column="104" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-2nd-fullSync.ldif" timestamp="1508731997890">
-        <mark key="'" line="268" column="37" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-2nd-fullSync.ldif" timestamp="1508733071588">
+        <mark key="'" line="41" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/resources/OAuth2-test.properties" timestamp="1504488818207">
         <mark key="[" line="1" column="14" />
@@ -292,11 +292,11 @@
         <mark key="^" line="24" column="3" />
         <mark key="." line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/datastore/DirSyncServiceSyncTest.java" timestamp="1508732188878">
-        <mark key="[" line="360" column="56" />
-        <mark key="]" line="360" column="57" />
-        <mark key="^" line="360" column="57" />
-        <mark key="." line="360" column="57" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/datastore/DirSyncServiceSyncTest.java" timestamp="1508734096108">
+        <mark key="[" line="364" column="5" />
+        <mark key="]" line="365" column="3" />
+        <mark key="^" line="365" column="3" />
+        <mark key="." line="365" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/attrmapping/AttributeMappingHelp.java" timestamp="1508497396537">
         <mark key="[" line="12" column="35" />
@@ -382,8 +382,8 @@
         <mark key="^" line="24" column="608" />
         <mark key="." line="24" column="608" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" timestamp="1508727998415">
-        <mark key="'" line="298" column="16" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" timestamp="1508732837377">
+        <mark key="'" line="289" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/RunnalbeAvatarTaskTest.java" timestamp="1503557321509">
         <mark key="[" line="67" column="19" />
@@ -426,9 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="49" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/dirSyncServiceInternal.properties" />
-      <jump line="140" column="27" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
-      <jump line="89" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
       <jump line="92" column="48" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
       <jump line="134" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
       <jump line="783" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/AbstractTest.java" />
@@ -520,12 +517,15 @@
       <jump line="3" column="44" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-2nd-fullSync.ldif" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" />
-      <jump line="289" column="37" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" />
       <jump line="294" column="4" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" />
       <jump line="295" column="4" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" />
       <jump line="298" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" />
       <jump line="247" column="7" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-2nd-fullSync.ldif" />
       <jump line="268" column="37" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-2nd-fullSync.ldif" />
+      <jump line="264" column="24" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-2nd-fullSync.ldif" />
+      <jump line="289" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" />
+      <jump line="41" column="27" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-2nd-fullSync.ldif" />
+      <jump line="373" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/datastore/DirSyncServiceSyncTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -542,8 +542,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIGNoYW5nZSBtYXBwaW5ncyBiYXNlZCBvbiBsb2dpYzoKICAgICAqIDxsaT5zZWFyY2ggYnkgZnJvbTwvbGk+CiAgICAgKiA8bGk+cmVwbGFjZSBmcm9tPC9saT4KICAgICAqIEBwYXJhbSBvcmlnaW5hbE1hcHBpbmdzCiAgICAgKiBAcGFyYW0gZnJvbXMga2V5OiBmcm9tIHVzZWQgYnkgc2VhcmNoLCB2YWx1ZTogbmV3IGZyb20KICAgICAqIEByZXR1cm4KICAgICAqLwogICAgcHJpdmF0ZSBBdHRyaWJ1dGVNYXBwaW5ncyBjaGFuZ2VNYXBwaW5nc0J5RnJvbShmaW5hbCBBdHRyaWJ1dGVNYXBwaW5ncyBvcmlnaW5hbE1hcHBpbmdzLCBmaW5hbCBNYXA8PyBleHRlbmRzIFN0cmluZywgPyBleHRlbmRzIFN0cmluZz4gZnJvbXMpIHsKICAgICAgICBmaW5hbCBTZXQ8QXR0cmlidXRlTWFwcGluZz4gdG9CZVJlbW92ZWRzID0gbmV3IEhhc2hTZXQ8PigpOwogICAgICAgIGZpbmFsIFNldDxBdHRyaWJ1dGVNYXBwaW5nPiB0b0JlQWRkZWRzID0gbmV3IEhhc2hTZXQ8PigpOwogICAgICAgIGZvciAoZmluYWwgQXR0cmlidXRlTWFwcGluZyBtYXBwaW5nIDogb3JpZ2luYWxNYXBwaW5ncykgewogICAgICAgICAgICBmb3IgKGZpbmFsIE1hcC5FbnRyeTw/IGV4dGVuZHMgU3RyaW5nLCA/IGV4dGVuZHMgU3RyaW5nPiBmcm9tUGFpciA6IGZyb21zLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgICAgIGlmIChmcm9tUGFpci5nZXRLZXkoKS5lcXVhbHNJZ25vcmVDYXNlKG1hcHBpbmcuZ2V0RnJvbSgpKSkgewogICAgICAgICAgICAgICAgICAgIHRvQmVSZW1vdmVkcy5hZGQobWFwcGluZyk7CiAgICAgICAgICAgICAgICAgICAgdG9CZUFkZGVkcy5hZGQobWFwcGluZy5jb3B5KGZyb21QYWlyLmdldFZhbHVlKCksIG1hcHBpbmcuZ2V0VG8oKSkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBvcmlnaW5hbE1hcHBpbmdzLmNvcHkodG9CZVJlbW92ZWRzLCB0b0JlQWRkZWRzKTsKICAgIH0KCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -573,7 +573,7 @@
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>testuser2</text>
+        <text>sip</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAgICByZXR1cm4gbmV3RGlyU3luY0NvbmZpZ3VyYXRpb24oVVNFUl9BVFRSMSwgR1JPVVBfQVRUUjEpOwo=</text>
@@ -581,47 +581,47 @@
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIGNoYW5nZSBtYXBwaW5ncyBiYXNlZCBvbiBsb2dpYzoKICAgICAqIDxsaT5zZWFyY2ggYnkgZnJvbTwvbGk+CiAgICAgKiA8bGk+cmVwbGFjZSBmcm9tPC9saT4KICAgICAqIEBwYXJhbSBvcmlnaW5hbE1hcHBpbmdzCiAgICAgKiBAcGFyYW0gZnJvbXMga2V5OiBmcm9tIHVzZWQgYnkgc2VhcmNoLCB2YWx1ZTogbmV3IGZyb20KICAgICAqIEByZXR1cm4KICAgICAqLwogICAgcHJpdmF0ZSBBdHRyaWJ1dGVNYXBwaW5ncyBjaGFuZ2VNYXBwaW5nc0J5RnJvbShmaW5hbCBBdHRyaWJ1dGVNYXBwaW5ncyBvcmlnaW5hbE1hcHBpbmdzLCBmaW5hbCBNYXA8PyBleHRlbmRzIFN0cmluZywgPyBleHRlbmRzIFN0cmluZz4gZnJvbXMpIHsKICAgICAgICBmaW5hbCBTZXQ8QXR0cmlidXRlTWFwcGluZz4gdG9CZVJlbW92ZWRzID0gbmV3IEhhc2hTZXQ8PigpOwogICAgICAgIGZpbmFsIFNldDxBdHRyaWJ1dGVNYXBwaW5nPiB0b0JlQWRkZWRzID0gbmV3IEhhc2hTZXQ8PigpOwogICAgICAgIGZvciAoZmluYWwgQXR0cmlidXRlTWFwcGluZyBtYXBwaW5nIDogb3JpZ2luYWxNYXBwaW5ncykgewogICAgICAgICAgICBmb3IgKGZpbmFsIE1hcC5FbnRyeTw/IGV4dGVuZHMgU3RyaW5nLCA/IGV4dGVuZHMgU3RyaW5nPiBmcm9tUGFpciA6IGZyb21zLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgICAgIGlmIChmcm9tUGFpci5nZXRLZXkoKS5lcXVhbHNJZ25vcmVDYXNlKG1hcHBpbmcuZ2V0RnJvbSgpKSkgewogICAgICAgICAgICAgICAgICAgIHRvQmVSZW1vdmVkcy5hZGQobWFwcGluZyk7CiAgICAgICAgICAgICAgICAgICAgdG9CZUFkZGVkcy5hZGQobWFwcGluZy5jb3B5KGZyb21QYWlyLmdldFZhbHVlKCksIG1hcHBpbmcuZ2V0VG8oKSkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBvcmlnaW5hbE1hcHBpbmdzLmNvcHkodG9CZVJlbW92ZWRzLCB0b0JlQWRkZWRzKTsKICAgIH0KCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIGNhc2VTZW50aWFibGVNYXBwaW5ncw==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlICgpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nPiBhdHRyTWFwcGluZ3MgPSBuZXcgQXJyYXlMaXN0PERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nPigpOwoKICAgICAgICBmaW5hbCBEaXJTeW5jQXR0cmlidXRlTWFwcGluZyB1c2VyQXR0ck1hcHBpbmdzID0gbmV3IERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nKCk7CiAgICAgICAgYXR0ck1hcHBpbmdzLmFkZCh1c2VyQXR0ck1hcHBpbmdzKTsKICAgICAgICB1c2VyQXR0ck1hcHBpbmdzLnNldFR5cGUoInVzZXIiKTsKICAgICAgICB1c2VyQXR0ck1hcHBpbmdzLnNldEF0dHJNYXBwaW5ncyhBdHRyaWJ1dGVNYXBwaW5nSGVscC5uZXdNYXBwaW5ncyhVU0VSX0FUVFIyLCBVU0VSX0FUVFIyKSk7CgogICAgICAgIGZpbmFsIERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nIGdyb3VwQXR0ck1hcHBpbmdzID0gbmV3IERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nKCk7CiAgICAgICAgYXR0ck1hcHBpbmdzLmFkZChncm91cEF0dHJNYXBwaW5ncyk7CiAgICAgICAgZ3JvdXBBdHRyTWFwcGluZ3Muc2V0VHlwZSgiZ3JvdXAiKTsKICAgICAgICBncm91cEF0dHJNYXBwaW5ncy5zZXRBdHRyTWFwcGluZ3MoQXR0cmlidXRlTWFwcGluZ0hlbHAubmV3TWFwcGluZ3MoR1JPVVBfQVRUUjIsIEdST1VQX0FUVFIyKSk7CgogICAgICAgIGZpbmFsIERpclN5bmNDb25maWd1cmF0aW9uSW1wbCBjb25maWcgPSBuZXcgRGlyU3luY0NvbmZpZ3VyYXRpb25JbXBsKCk7CiAgICAgICAgY29uZmlnLnNldEF0dHJpYnV0ZU1hcHBpbmcoYXR0ck1hcHBpbmdzKTsKICAgICAgICBjb25maWcuc2V0U3luY01vZGUoU3luY01vZGUuc3RhcnRlZCk7CgogICAgICAgIHJldHVybiBjb25maWc7Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmaW5hbCBMaXN0PERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nPiBhdHRyTWFwcGluZ3MgPSBuZXcgQXJyYXlMaXN0PERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nPigpOwoKCQlmaW5hbCBEaXJTeW5jQXR0cmlidXRlTWFwcGluZyB1c2VyQXR0ck1hcHBpbmdzID0gbmV3IERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nKCk7CgkJYXR0ck1hcHBpbmdzLmFkZCh1c2VyQXR0ck1hcHBpbmdzKTsKCQl1c2VyQXR0ck1hcHBpbmdzLnNldFR5cGUoInVzZXIiKTsKCQl1c2VyQXR0ck1hcHBpbmdzLnNldEF0dHJNYXBwaW5ncyhBdHRyaWJ1dGVNYXBwaW5nSGVscC5uZXdNYXBwaW5ncyhVU0VSX0FUVFIxLCBVU0VSX0FUVFIxKSk7CgoJCWZpbmFsIERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nIGdyb3VwQXR0ck1hcHBpbmdzID0gbmV3IERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nKCk7CgkJYXR0ck1hcHBpbmdzLmFkZChncm91cEF0dHJNYXBwaW5ncyk7CgkJZ3JvdXBBdHRyTWFwcGluZ3Muc2V0VHlwZSgiZ3JvdXAiKTsKCQlncm91cEF0dHJNYXBwaW5ncy5zZXRBdHRyTWFwcGluZ3MoQXR0cmlidXRlTWFwcGluZ0hlbHAubmV3TWFwcGluZ3MoR1JPVVBfQVRUUjEsIEdST1VQX0FUVFIxKSk7CgoJCWZpbmFsIERpclN5bmNDb25maWd1cmF0aW9uSW1wbCBjb25maWcgPSBuZXcgRGlyU3luY0NvbmZpZ3VyYXRpb25JbXBsKCk7CgkJY29uZmlnLnNldEF0dHJpYnV0ZU1hcHBpbmcoYXR0ck1hcHBpbmdzKTsKICAgICAgICBjb25maWcuc2V0U3luY01vZGUoU3luY01vZGUuc3RhcnRlZCk7CgogICAgICAgIHJldHVybiBjb25maWc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nPiBhdHRyTWFwcGluZ3MgPSBuZXcgQXJyYXlMaXN0PERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nPigpOwoKICAgICAgICBmaW5hbCBEaXJTeW5jQXR0cmlidXRlTWFwcGluZyB1c2VyQXR0ck1hcHBpbmdzID0gbmV3IERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nKCk7CiAgICAgICAgYXR0ck1hcHBpbmdzLmFkZCh1c2VyQXR0ck1hcHBpbmdzKTsKICAgICAgICB1c2VyQXR0ck1hcHBpbmdzLnNldFR5cGUoInVzZXIiKTsKICAgICAgICB1c2VyQXR0ck1hcHBpbmdzLnNldEF0dHJNYXBwaW5ncyhBdHRyaWJ1dGVNYXBwaW5nSGVscC5uZXdNYXBwaW5ncyhVU0VSX0FUVFIyLCBVU0VSX0FUVFIyKSk7CgogICAgICAgIGZpbmFsIERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nIGdyb3VwQXR0ck1hcHBpbmdzID0gbmV3IERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nKCk7CiAgICAgICAgYXR0ck1hcHBpbmdzLmFkZChncm91cEF0dHJNYXBwaW5ncyk7CiAgICAgICAgZ3JvdXBBdHRyTWFwcGluZ3Muc2V0VHlwZSgiZ3JvdXAiKTsKICAgICAgICBncm91cEF0dHJNYXBwaW5ncy5zZXRBdHRyTWFwcGluZ3MoQXR0cmlidXRlTWFwcGluZ0hlbHAubmV3TWFwcGluZ3MoR1JPVVBfQVRUUjIsIEdST1VQX0FUVFIyKSk7CgogICAgICAgIGZpbmFsIERpclN5bmNDb25maWd1cmF0aW9uSW1wbCBjb25maWcgPSBuZXcgRGlyU3luY0NvbmZpZ3VyYXRpb25JbXBsKCk7CiAgICAgICAgY29uZmlnLnNldEF0dHJpYnV0ZU1hcHBpbmcoYXR0ck1hcHBpbmdzKTsKICAgICAgICBjb25maWcuc2V0U3luY01vZGUoU3luY01vZGUuc3RhcnRlZCk7CgogICAgICAgIHJldHVybiBjb25maWc7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">CQlmaW5hbCBMaXN0PERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nPiBhdHRyTWFwcGluZ3MgPSBuZXcgQXJyYXlMaXN0PERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nPigpOwoKCQlmaW5hbCBEaXJTeW5jQXR0cmlidXRlTWFwcGluZyB1c2VyQXR0ck1hcHBpbmdzID0gbmV3IERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nKCk7CgkJYXR0ck1hcHBpbmdzLmFkZCh1c2VyQXR0ck1hcHBpbmdzKTsKCQl1c2VyQXR0ck1hcHBpbmdzLnNldFR5cGUoInVzZXIiKTsKCQl1c2VyQXR0ck1hcHBpbmdzLnNldEF0dHJNYXBwaW5ncyhBdHRyaWJ1dGVNYXBwaW5nSGVscC5uZXdNYXBwaW5ncyhVU0VSX0FUVFIxLCBVU0VSX0FUVFIxKSk7CgoJCWZpbmFsIERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nIGdyb3VwQXR0ck1hcHBpbmdzID0gbmV3IERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nKCk7CgkJYXR0ck1hcHBpbmdzLmFkZChncm91cEF0dHJNYXBwaW5ncyk7CgkJZ3JvdXBBdHRyTWFwcGluZ3Muc2V0VHlwZSgiZ3JvdXAiKTsKCQlncm91cEF0dHJNYXBwaW5ncy5zZXRBdHRyTWFwcGluZ3MoQXR0cmlidXRlTWFwcGluZ0hlbHAubmV3TWFwcGluZ3MoR1JPVVBfQVRUUjEsIEdST1VQX0FUVFIxKSk7CgoJCWZpbmFsIERpclN5bmNDb25maWd1cmF0aW9uSW1wbCBjb25maWcgPSBuZXcgRGlyU3luY0NvbmZpZ3VyYXRpb25JbXBsKCk7CgkJY29uZmlnLnNldEF0dHJpYnV0ZU1hcHBpbmcoYXR0ck1hcHBpbmdzKTsKICAgICAgICBjb25maWcuc2V0U3luY01vZGUoU3luY01vZGUuc3RhcnRlZCk7CgogICAgICAgIHJldHVybiBjb25maWc7Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>ciCluster.identity.endPoint=
 ciCluster.idBroker.endPoint=
 ciCluster.dirSync.endPoint=
 ciCluster.provider=defaultCiClusterProvider</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">bGRhcERBTy51cmxzPWxkYXA6Ly9sb2NhbGhvc3Q6MTM4OQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3QgbykgewoJCWlmIChvID09IG51bGwpIHsKCQkJcmV0dXJuIGZhbHNlOwoJCX0KICAgICAgICBEaXJTeW5jQXR0cmlidXRlTWFwcGluZyBkc2FtID0gKERpclN5bmNBdHRyaWJ1dGVNYXBwaW5nKSBvOwoKICAgICAgICByZXR1cm4gKChkc2FtLnR5cGUuZXF1YWxzKHRoaXMudHlwZSkpICYmCiAgICAgICAgICAgICAgICAoZHNhbS5tYXBwaW5ncy5lcXVhbHModGhpcy5tYXBwaW5ncykpKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgaGFzaENvZGUoKSB7CiAgICAgICAgZmluYWwgaW50IFBSSU1FID0gNDc7CiAgICAgICAgaW50IHJlc3VsdCA9IHR5cGUuaGFzaENvZGUoKTsKICAgICAgICByZXN1bHQgPSBQUklNRSAqIHJlc3VsdCArIG1hcHBpbmdzLmhhc2hDb2RlKCk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgU3RyaW5nQnVpbGRlciBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgc2IuYXBwZW5kKCJEaXJTeW5jQXR0cmlidXRlTWFwcGluZzoiKTsKICAgICAgICBzYi5hcHBlbmQoIlxuICB0eXBlOiAiICsgdHlwZSArICI7Iik7CiAgICAgICAgc2IuYXBwZW5kKCJcbiAgbWFwcGluZ3M6ICIgKyBtYXBwaW5ncy50b1N0cmluZygpICsgIjsiKTsKICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKTsKICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvblByZW1MaW5rQXR0ciA9IG51bGw7CiAgICAgICAgcmVxdWlyZWRPblByZW1BdHRycyA9IG5ldyBIYXNoU2V0PFN0cmluZz4oKTsKICAgICAgICBpZiAoc3luY0F0dHJzID09IG51bGwpIHsKICAgICAgICAgICAgc3luY0F0dHJzID0gbmV3IEhhc2hTZXQ8U3RyaW5nPigpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHN5bmNBdHRycy5jbGVhcigpOwogICAgICAgIH0KICAgICAgICBpZiAoYXR0ck1hcHBpbmcgPT0gbnVsbCkgewogICAgICAgICAgICBhdHRyTWFwcGluZyA9IG5ldyBIYXNoTWFwPFN0cmluZywgU3RyaW5nPigpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGF0dHJNYXBwaW5nLmNsZWFyKCk7CiAgICAgICAgfQogICAgICAgIGlmIChtYXBwaW5ncyAhPSBudWxsICYmICFtYXBwaW5ncy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgZm9yIChEaXJTeW5jTWFwcGluZyBtIDogbWFwcGluZ3MpIHsKICAgICAgICAgICAgICAgIGlmIChtLmdldEZyb20oKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgc3luY0F0dHJzLmFkZChtLmdldEZyb20oKS50b0xvd2VyQ2FzZSgpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmIChtLmlzTGlua0F0dHJpYnV0ZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgbGlua0F0dHJpYnV0ZSA9IG0uZ2V0VG8oKTsKICAgICAgICAgICAgICAgICAgICBvblByZW1MaW5rQXR0ciA9IG0uZ2V0RnJvbSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKG0uZ2V0RnJvbSgpICE9IG51bGwgJiYgbS5nZXRUbygpICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAvLyB1c2UgY2xvdWQgaWRlbnRpdHkgc3RvcmUgYXR0cmlidXRlIGFzIGtleSBzaW5jZQogICAgICAgICAgICAgICAgICAgIC8vIG9uZSBvbi1wcmVtaXNlIGF0dHJpYnV0ZSAoZS5nIEFEKSBjYW4gYmUgbWFwcGVkIHRvCiAgICAgICAgICAgICAgICAgICAgLy8gbXVsdGlwbGUgY2xvdWQgaWRlbnRpdHkgc3RvcmUgYXR0cmlidXRlIChlLmcuIE9wZW5ESikKICAgICAgICAgICAgICAgICAgICBhdHRyTWFwcGluZy5wdXQobS5nZXRUbygpLnRvTG93ZXJDYXNlKCksCiAgICAgICAgICAgICAgICAgICAgICAgIG0uZ2V0RnJvbSgpLnRvTG93ZXJDYXNlKCkpOwogICAgICAgICAgICAgICAgICAgIC8vIGFkZCB0byB0aGUgcmVxdWlyZWQgb24tcHJlbWlzZSBhdHRyaWJ1dGUgbmFtZXMKICAgICAgICAgICAgICAgICAgICBpZiAobS5pc1JlcXVpcmVkKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWRPblByZW1BdHRycy5hZGQobS5nZXRGcm9tKCkudG9Mb3dlckNhc2UoKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvLyBhdHRyaWJ1dGUgbWFwcGluZywga2V5IGlzIG5hdGl2ZSBjbG91ZCBpZGVudGl0eSBzdG9yZSBhdHRyaWJ1dGUKICAgIC8vIChlLmcuIE9wZW5ESiBhdHRyaWJ1dGUpLCB2YWx1ZSBpcyBjbG91ZCBhdHRyaWJ1dGUgKGUuZy4gQUQgYXR0cmlidXRlKQogICAgcHJpdmF0ZSBNYXA8U3RyaW5nLCBTdHJpbmc+IGF0dHJNYXBwaW5nOwogICAgLy8gcmVxdWlyZWQgb24tcHJlbWlzZSBhdHRyaWJ1dGUgbmFtZXMgaW4gbG93ZXIgY2FzZQogICAgcHJpdmF0ZSBTZXQ8U3RyaW5nPiByZXF1aXJlZE9uUHJlbUF0dHJzOwo=</text>
+        <text encoding="base64">ICAgICAgICBvblByZW1MaW5rQXR0ciA9IG51bGw7CiAgICAgICAgcmVxdWlyZWRPblByZW1BdHRycyA9IG5ldyBIYXNoU2V0PFN0cmluZz4oKTsKICAgICAgICBpZiAoc3luY0F0dHJzID09IG51bGwpIHsKICAgICAgICAgICAgc3luY0F0dHJzID0gbmV3IEhhc2hTZXQ8U3RyaW5nPigpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHN5bmNBdHRycy5jbGVhcigpOwogICAgICAgIH0KICAgICAgICBpZiAoYXR0ck1hcHBpbmcgPT0gbnVsbCkgewogICAgICAgICAgICBhdHRyTWFwcGluZyA9IG5ldyBIYXNoTWFwPFN0cmluZywgU3RyaW5nPigpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGF0dHJNYXBwaW5nLmNsZWFyKCk7CiAgICAgICAgfQogICAgICAgIGlmIChtYXBwaW5ncyAhPSBudWxsICYmICFtYXBwaW5ncy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgZm9yIChEaXJTeW5jTWFwcGluZyBtIDogbWFwcGluZ3MpIHsKICAgICAgICAgICAgICAgIGlmIChtLmdldEZyb20oKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgc3luY0F0dHJzLmFkZChtLmdldEZyb20oKS50b0xvd2VyQ2FzZSgpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmIChtLmlzTGlua0F0dHJpYnV0ZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgbGlua0F0dHJpYnV0ZSA9IG0uZ2V0VG8oKTsKICAgICAgICAgICAgICAgICAgICBvblByZW1MaW5rQXR0ciA9IG0uZ2V0RnJvbSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKG0uZ2V0RnJvbSgpICE9IG51bGwgJiYgbS5nZXRUbygpICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAvLyB1c2UgY2xvdWQgaWRlbnRpdHkgc3RvcmUgYXR0cmlidXRlIGFzIGtleSBzaW5jZQogICAgICAgICAgICAgICAgICAgIC8vIG9uZSBvbi1wcmVtaXNlIGF0dHJpYnV0ZSAoZS5nIEFEKSBjYW4gYmUgbWFwcGVkIHRvCiAgICAgICAgICAgICAgICAgICAgLy8gbXVsdGlwbGUgY2xvdWQgaWRlbnRpdHkgc3RvcmUgYXR0cmlidXRlIChlLmcuIE9wZW5ESikKICAgICAgICAgICAgICAgICAgICBhdHRyTWFwcGluZy5wdXQobS5nZXRUbygpLnRvTG93ZXJDYXNlKCksCiAgICAgICAgICAgICAgICAgICAgICAgIG0uZ2V0RnJvbSgpLnRvTG93ZXJDYXNlKCkpOwogICAgICAgICAgICAgICAgICAgIC8vIGFkZCB0byB0aGUgcmVxdWlyZWQgb24tcHJlbWlzZSBhdHRyaWJ1dGUgbmFtZXMKICAgICAgICAgICAgICAgICAgICBpZiAobS5pc1JlcXVpcmVkKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWRPblByZW1BdHRycy5hZGQobS5nZXRGcm9tKCkudG9Mb3dlckNhc2UoKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>testuser2</last-search>
+      <last-search>sip</last-search>
       <last-offset />
-      <last-pattern>testuser2</last-pattern>
+      <last-pattern>sip</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">Y29tbW9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -629,8 +629,6 @@ ciCluster.provider=defaultCiClusterProvider</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdHRyaWJ1dGVNYXBcPg==</entry>
-        <entry encoding="base64">XDxlbmdpbmVDb25maWdcPg==</entry>
         <entry encoding="base64">XDxzeW5jVGFza0hhbmRsZXJcPg==</entry>
         <entry>uid(</entry>
         <entry>uid</entry>
@@ -649,6 +647,8 @@ ciCluster.provider=defaultCiClusterProvider</text>
         <entry>testuser1@</entry>
         <entry>testuser1</entry>
         <entry>testuser2</entry>
+        <entry>test5</entry>
+        <entry>sip</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
