@@ -4,18 +4,10 @@
     <property name="created">2017-04-11T09:10:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-06-16T23:13:07</property>
+    <property name="modified">2017-10-23T15:24:27</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
-  <attributes>
-    <option name="MARKDOWN_HEADER_LEVEL_1">
-      <value>
-        <option name="FOREGROUND" value="9876aa" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-  </attributes>
+  <option name="EDITOR_LIGATURES" value="true" />
 </scheme>
