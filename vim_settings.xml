@@ -307,6 +307,9 @@
         <mark key="." line="12" column="79" />
         <mark key="^" line="12" column="79" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/CI-Automation-Framework/src/main/java/com/cisco/codev/identity/automation/framework/cloudconnector/CloudConnector.java" timestamp="1509687471158">
+        <mark key="'" line="47" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" timestamp="1509324404628" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/ResourceFactory.java" timestamp="1495604948713">
         <mark key="[" line="19" column="29" />
@@ -335,6 +338,7 @@
         <mark key="^" line="181" column="56" />
         <mark key="." line="181" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/dirsync-tests/src/main/java/com/cisco/codev/identity/automation/test/cloudconnector/CloudConnectorAttribMap2Test.java" timestamp="1509687971539" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" timestamp="1505723900523">
         <mark key="[" line="454" column="55" />
         <mark key="]" line="454" column="69" />
@@ -425,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="19" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/attrmapping/AttributeMappingsTest.java" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/attrmapping/AttributeMappingsTest.java" />
       <jump line="169" column="5" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAO.java" />
       <jump line="556" column="58" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
@@ -525,6 +528,7 @@
       <jump line="242" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/CommonUtils.java" />
       <jump line="279" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/CommonUtils.java" />
       <jump line="472" column="85" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="47" column="42" filename="$USER_HOME$/workspace/git/ci/CI-Automation-Framework/src/main/java/com/cisco/codev/identity/automation/framework/cloudconnector/CloudConnector.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -572,7 +576,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>flsRest.</text>
+        <text encoding="base64">XDxkZWZhdWx0TWFwcGluZ0F0dHJzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihCdW5kbGVTcGVjaWZpY2F0aW9uLmdldFN5bmNTZXJ2aWNlQnVuZGxlTmFtZSgpLAogICAgICAgICAgICAgICAgUmV0dXJuQ29kZS5GQUlMVVJFLCAiaW52YWxpZEF0dHJpYnV0ZU1hcHBpbmciLCBmcm9tLCB0byk7Cg==</text>
@@ -615,9 +619,9 @@
       </register>
     </registers>
     <search>
-      <last-search>flsRest.</last-search>
+      <last-search encoding="base64">XDxkZWZhdWx0TWFwcGluZ0F0dHJzXD4=</last-search>
       <last-offset />
-      <last-pattern>flsRest.</last-pattern>
+      <last-pattern encoding="base64">XDxkZWZhdWx0TWFwcGluZ0F0dHJzXD4=</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">Y29tbW9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -625,7 +629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>uid</entry>
         <entry encoding="base64">XDxpbnRBdHRyTWFwcGluZ1w+</entry>
         <entry>com.cisco.codev.identity.dirsync.user.attribute.mapping</entry>
         <entry>serviceConfigurationDaoMap</entry>
@@ -645,6 +648,7 @@
         <entry>=uid</entry>
         <entry>DirSyncServiceMessageFactory</entry>
         <entry>flsRest.</entry>
+        <entry encoding="base64">XDxkZWZhdWx0TWFwcGluZ0F0dHJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>
