@@ -254,12 +254,13 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="452" column="87" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" timestamp="1510030850082">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTaskHandler.java" timestamp="1510035131042" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" timestamp="1510035849708">
         <mark key="'" line="1110" column="53" />
-        <mark key="[" line="1053" column="33" />
-        <mark key="]" line="1053" column="56" />
-        <mark key="^" line="1053" column="56" />
-        <mark key="." line="1053" column="56" />
+        <mark key="[" line="1168" column="45" />
+        <mark key="]" line="1169" column="26" />
+        <mark key="^" line="1169" column="26" />
+        <mark key="." line="1169" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMapParser.java" timestamp="1509440568691">
         <mark key="[" line="75" column="74" />
@@ -306,7 +307,6 @@
       <file name="$USER_HOME$/workspace/git/ci/CI-Automation-Framework/src/main/java/com/cisco/codev/identity/automation/framework/cloudconnector/CloudConnector.java" timestamp="1509687471158">
         <mark key="'" line="47" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" timestamp="1509324404628" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/ResourceFactory.java" timestamp="1495604948713">
         <mark key="[" line="19" column="29" />
         <mark key="]" line="19" column="84" />
