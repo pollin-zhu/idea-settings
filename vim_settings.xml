@@ -36,11 +36,6 @@
         <mark key="." line="41" column="24" />
         <mark key="^" line="41" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" timestamp="1508916065074">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/resources/conf/api-framework/ci-environment.properties" timestamp="1504487710446">
         <mark key="[" line="2" column="38" />
         <mark key="]" line="2" column="101" />
@@ -259,7 +254,8 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="452" column="87" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" timestamp="1508728197048">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" timestamp="1510030850082">
+        <mark key="'" line="1110" column="53" />
         <mark key="[" line="1053" column="33" />
         <mark key="]" line="1053" column="56" />
         <mark key="^" line="1053" column="56" />
@@ -270,11 +266,6 @@
         <mark key="]" line="75" column="79" />
         <mark key="." line="75" column="79" />
         <mark key="^" line="75" column="79" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/CommonUtils.java" timestamp="1508916326338">
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/AttributeMapParser.java" timestamp="1507705663548">
         <mark key="[" line="23" column="12" />
@@ -436,8 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="5" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAO.java" />
-      <jump line="556" column="58" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="285" column="52" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAO.java" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMapping.java" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMapping.java" />
@@ -536,6 +525,8 @@
       <jump line="472" column="85" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="47" column="42" filename="$USER_HOME$/workspace/git/ci/CI-Automation-Framework/src/main/java/com/cisco/codev/identity/automation/framework/cloudconnector/CloudConnector.java" />
       <jump line="842" column="82" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="1118" column="43" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" />
+      <jump line="1110" column="53" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -583,7 +574,7 @@
         <text>attrMappings.toMap();</text>
       </register>
       <register name="/" type="4">
-        <text>AciManager</text>
+        <text encoding="base64">XDxzdGF0dXNDb2RlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRlc3QuZ2V0VG9zKCksIGNvbnRhaW5zSW5BbnlPcmRlcigidG8xIiwgInRvMiIsICJ0bzMiKSk7Cg==</text>
@@ -626,9 +617,9 @@
       </register>
     </registers>
     <search>
-      <last-search>AciManager</last-search>
+      <last-search encoding="base64">XDxzdGF0dXNDb2RlXD4=</last-search>
       <last-offset />
-      <last-pattern>AciManager</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0dXNDb2RlXD4=</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">Y29tbW9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -636,7 +627,6 @@
     </search>
     <history>
       <history-search>
-        <entry>com.cisco.codev.identity.dirsync.user.attribute.mapping</entry>
         <entry>serviceConfigurationDaoMap</entry>
         <entry>engineConfig</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVNYXBwaW5nc0J5VHlwZVw+</entry>
@@ -656,6 +646,7 @@
         <entry>flsRest.</entry>
         <entry encoding="base64">XDxkZWZhdWx0TWFwcGluZ0F0dHJzXD4=</entry>
         <entry>AciManager</entry>
+        <entry encoding="base64">XDxzdGF0dXNDb2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>122</entry>
