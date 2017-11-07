@@ -242,6 +242,12 @@
         <mark key="." line="29" column="70" />
         <mark key="^" line="29" column="70" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1510037100825">
+        <mark key="[" line="534" column="45" />
+        <mark key="]" line="535" column="88" />
+        <mark key="^" line="535" column="88" />
+        <mark key="." line="535" column="88" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/pom.xml" timestamp="1507869909925">
         <mark key="[" line="127" column="13" />
         <mark key="]" line="127" column="13" />
