@@ -392,7 +392,7 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" timestamp="1508732837377">
         <mark key="'" line="289" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarAsyncTaskRunners.java" timestamp="1510292416158" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarAsyncTaskRunners.java" timestamp="1510374233359" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/RunnalbeAvatarTaskTest.java" timestamp="1503557321509">
         <mark key="[" line="67" column="19" />
         <mark key="]" line="67" column="19" />
