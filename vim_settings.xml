@@ -3,20 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1510489071538">
+      <file name="/Dummy.txt" timestamp="1511103759337">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/bitsandpizzas/app/src/main/java/vip/meetus/bitsandpizzas/OrderActivity.java" timestamp="1510489101193">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="13" />
-        <mark key="^" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/bitsandpizzas/app/src/main/res/menu/menu_main.xml" timestamp="1510477610136">
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="11" column="36" />
-        <mark key="^" line="11" column="36" />
-        <mark key="." line="11" column="36" />
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/MainActivity.java" timestamp="1511102374588">
+        <mark key="[" line="13" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/bitsandpizzas/app/src/main/res/values/styles.xml" timestamp="1510467657347">
         <mark key="[" line="3" column="57" />
@@ -32,12 +23,6 @@
       <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/bitsandpizzas/app/src/main/res/layout/activity_main.xml" timestamp="1510469232382">
         <mark key="[" line="6" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/bitsandpizzas/app/src/main/AndroidManifest.xml" timestamp="1510475638620">
-        <mark key="[" line="18" column="48" />
-        <mark key="]" line="18" column="82" />
-        <mark key="^" line="18" column="82" />
-        <mark key="." line="18" column="82" />
-      </file>
       <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/bitsandpizzas/app/src/main/res/layout/activity_order.xml" timestamp="1510470718914">
         <mark key="[" line="10" column="33" />
         <mark key="]" line="10" column="35" />
@@ -50,14 +35,37 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1510470218932">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/bitsandpizzas/app/src/main/res/values/strings.xml" timestamp="1510477279762">
         <mark key="[" line="2" column="53" />
         <mark key="]" line="3" column="36" />
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/res/layout/fragment_workout_detail.xml" timestamp="1511103364201">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/bitsandpizzas/app/src/main/java/vip/meetus/bitsandpizzas/OrderActivity.java" timestamp="1510489101193">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/bitsandpizzas/app/src/main/res/menu/menu_main.xml" timestamp="1510477610136">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/bitsandpizzas/app/src/main/AndroidManifest.xml" timestamp="1510475638620">
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="82" />
+        <mark key="^" line="18" column="82" />
+        <mark key="." line="18" column="82" />
+      </file>
+      <file name="/fragment.java" timestamp="1511101690829">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -66,7 +74,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW0pOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>final ShareActionProvider s</text>
+        <text>FrameLayout</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -81,7 +89,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>final ShareActionProvider s</text>
+        <text>FrameLayout</text>
       </register>
     </registers>
     <search>
@@ -89,9 +97,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
