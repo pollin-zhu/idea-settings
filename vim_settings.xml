@@ -212,8 +212,11 @@
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/WorkoutDetailFragment.java" timestamp="1512295669034">
-        <mark key="[" line="13" column="53" />
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/WorkoutDetailFragment.java" timestamp="1512297103670">
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="42" column="38" />
+        <mark key="^" line="43" column="52" />
+        <mark key="." line="42" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAOTest.java" timestamp="1504591197439">
         <mark key="[" line="81" column="86" />
@@ -557,8 +560,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoV29ya291dERldGFpbEZyYWdtZW50KSBnZXRTdXBwb3J0RnJhZ21lbnRNYW5hZ2VyKCkuZmluZEZyYWdtZW50QnlJZChSLmlkLmRldGFpbF9mcmFnbWVudCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(TextView)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -585,7 +588,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fragment</text>
+        <text>(TextView)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNDb2RlXD4=</text>
@@ -597,16 +600,16 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2aWV3QnlJZAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>final StringBuilder sb = new StringBuilder(&quot;Workout{&quot;);
         sb.append(&quot;name='&quot;).append(name).append('\'');
         sb.append('}');
         return sb.toString();</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -624,10 +627,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8U3RyaW5nLCBTdHJpbmc+IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQSBTdHJ1Y3QgaGF2aW5nIGlkZW50aXR5IHR5cGUgYW5kIGl0cyByZWxhdGVkIGF0dHJpYnV0ZSBtYXBwaW5ncy4gQWxsIG1hcHBpbmdzIGhhdmUgYm90aCBub24tZW1wdHkgZnJvbXMgYW5kIHRvcy4K</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8U3RyaW5nLCBTdHJpbmc+IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
