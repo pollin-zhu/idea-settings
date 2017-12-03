@@ -17,6 +17,13 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/AttributeMap.java" timestamp="1508737524070">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="47" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/syncService.properties" timestamp="1511230742895">
         <mark key="[" line="207" column="0" />
         <mark key="]" line="210" column="42" />
@@ -59,6 +66,26 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1509690798580">
+        <mark key="'" line="842" column="82" />
+        <mark key="[" line="72" column="48" />
+        <mark key="]" line="72" column="47" />
+        <mark key="^" line="72" column="47" />
+        <mark key="." line="72" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/WorkoutListListener.java" timestamp="1512301489798">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/AbstractTest.java" timestamp="1508732519587">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="783" column="59" />
+        <mark key="]" line="783" column="87" />
+        <mark key="^" line="783" column="87" />
+        <mark key="." line="783" column="87" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/UpdateAvatarTask.java" timestamp="1503555455536">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="30" />
@@ -92,11 +119,19 @@
         <mark key="^" line="17" column="40" />
         <mark key="." line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/WorkoutListFragment.java" timestamp="1512300538056">
-        <mark key="[" line="30" column="67" />
-        <mark key="]" line="30" column="66" />
-        <mark key="." line="30" column="66" />
-        <mark key="^" line="30" column="66" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAOTest.java" timestamp="1508307809373">
+        <mark key="'" line="180" column="41" />
+        <mark key="[" line="213" column="84" />
+        <mark key="]" line="213" column="84" />
+        <mark key="." line="213" column="84" />
+        <mark key="^" line="213" column="83" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/WorkoutListFragment.java" timestamp="1512301633177">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="23" />
+        <mark key="^" line="36" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RetryableLdapCaller.java" timestamp="1503994397711">
         <mark key="[" line="36" column="24" />
@@ -176,17 +211,24 @@
         <mark key="." line="195" column="62" />
         <mark key="^" line="191" column="63" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncServiceMessageFactory.java" timestamp="1509696169015">
+        <mark key="'" line="514" column="0" />
+        <mark key="[" line="525" column="29" />
+        <mark key="]" line="526" column="15" />
+        <mark key="." line="526" column="15" />
+        <mark key="^" line="526" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/bitsandpizzas/app/src/main/AndroidManifest.xml" timestamp="1510475638620">
         <mark key="[" line="18" column="48" />
         <mark key="]" line="18" column="82" />
         <mark key="^" line="18" column="82" />
         <mark key="." line="18" column="82" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/DetailActivity.java" timestamp="1512295928556">
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="12" column="15" />
-        <mark key="^" line="12" column="15" />
-        <mark key="." line="12" column="15" />
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/DetailActivity.java" timestamp="1512301990853">
+        <mark key="[" line="14" column="57" />
+        <mark key="]" line="14" column="58" />
+        <mark key="^" line="14" column="58" />
+        <mark key="." line="14" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/resources/OAuth2-test.properties" timestamp="1504488818207">
         <mark key="[" line="1" column="14" />
@@ -199,6 +241,13 @@
         <mark key="]" line="386" column="38" />
         <mark key="." line="386" column="38" />
         <mark key="^" line="386" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/datastore/IdentityStoreUtils.java" timestamp="1507873436772">
+        <mark key="'" line="36" column="8" />
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="36" column="78" />
+        <mark key="." line="36" column="78" />
+        <mark key="^" line="36" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/ReattachableResource.java" timestamp="1495594572249">
         <mark key="[" line="14" column="0" />
@@ -218,11 +267,11 @@
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/WorkoutDetailFragment.java" timestamp="1512297103670">
-        <mark key="[" line="42" column="38" />
-        <mark key="]" line="42" column="38" />
-        <mark key="^" line="43" column="52" />
-        <mark key="." line="42" column="38" />
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/WorkoutDetailFragment.java" timestamp="1512301936953">
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="30" column="37" />
+        <mark key="^" line="30" column="37" />
+        <mark key="." line="30" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAOTest.java" timestamp="1504591197439">
         <mark key="[" line="81" column="86" />
@@ -261,6 +310,13 @@
         <mark key="[" line="13" column="71" />
         <mark key="]" line="13" column="71" />
         <mark key="." line="13" column="71" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" timestamp="1510035849708">
+        <mark key="'" line="1110" column="53" />
+        <mark key="[" line="1168" column="45" />
+        <mark key="]" line="1169" column="26" />
+        <mark key="^" line="1169" column="26" />
+        <mark key="." line="1169" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/bitsandpizzas/app/src/main/java/vip/meetus/bitsandpizzas/OrderActivity.java" timestamp="1510489101193">
         <mark key="[" line="12" column="8" />
@@ -316,7 +372,7 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512300651987">
+      <file name="/Dummy.txt" timestamp="1512302100692">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -333,11 +389,11 @@
         <mark key="^" line="153" column="42" />
         <mark key="." line="153" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/MainActivity.java" timestamp="1512290881865">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="17" column="27" />
-        <mark key="^" line="17" column="27" />
-        <mark key="." line="17" column="27" />
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/MainActivity.java" timestamp="1512302077221">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="18" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/parser/csv/CSVparser.java" timestamp="1508501147616">
         <mark key="[" line="186" column="40" />
@@ -374,6 +430,13 @@
         <mark key="^" line="454" column="69" />
         <mark key="." line="454" column="69" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/attrmapping/AttributeMappingsTest.java" timestamp="1509698084988">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="35" column="87" />
+        <mark key="]" line="35" column="87" />
+        <mark key="." line="35" column="87" />
+        <mark key="^" line="35" column="92" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/attrmapping/AttributeMappingTest.java" timestamp="1508296002634">
         <mark key="[" line="44" column="38" />
         <mark key="]" line="44" column="42" />
@@ -404,6 +467,13 @@
         <mark key="." line="271" column="43" />
         <mark key="^" line="271" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/dirSyncServiceInternal.properties" timestamp="1509689802697">
+        <mark key="'" line="21" column="71" />
+        <mark key="[" line="24" column="57" />
+        <mark key="]" line="24" column="656" />
+        <mark key="^" line="24" column="608" />
+        <mark key="." line="24" column="608" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/RunnalbeAvatarTaskTest.java" timestamp="1503557321509">
         <mark key="[" line="67" column="19" />
         <mark key="]" line="67" column="19" />
@@ -427,7 +497,7 @@
         <mark key="^" line="12" column="8" />
         <mark key="." line="12" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1512298899033">
+      <file name="/fragment.java" timestamp="1512301456276">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/UnboundLdapUtils.java" timestamp="1503043119944">
@@ -450,9 +520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="381" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAO.java" />
-      <jump line="384" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAO.java" />
-      <jump line="390" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAO.java" />
       <jump line="354" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAO.java" />
       <jump line="180" column="41" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAOTest.java" />
       <jump line="133" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
@@ -550,6 +617,9 @@
       <jump line="413" column="45" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="892" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="409" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="26" column="4" filename="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/WorkoutListFragment.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/WorkoutListFragment.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/WorkoutListFragment.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -566,8 +636,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>fragment</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzaG93RGV0YWlsKGZpbmFsIFZpZXcgdmlldykgewogICAgICAgIGZpbmFsIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KHRoaXMsIERldGFpbEFjdGl2aXR5LmNsYXNzKTsKICAgICAgICBzdGFydEFjdGl2aXR5KGludGVudCk7CiAgICB9Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -594,51 +664,48 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fragment</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNDb2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoV29ya291dERldGFpbEZyYWdtZW50KSBnZXRTdXBwb3J0RnJhZ21lbnRNYW5hZ2VyKCkuZmluZEZyYWdtZW50QnlJZChSLmlkLmRldGFpbF9mcmFnbWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBJbnRlbnQgaW50ZW50ID0gbmV3IEludGVudCh0aGlzLCBEZXRhaWxBY3Rpdml0eS5jbGFzcyk7CiAgICAgICAgc3RhcnRBY3Rpdml0eShpbnRlbnQpOwo=</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
-      <register name="1" type="4">
-        <text>TextView textView = new TextView(getActivity());
-        textView.setText(R.string.hello_blank_fragment);
-        return textView;</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzaG93RGV0YWlsKGZpbmFsIFZpZXcgdmlldykgewogICAgICAgIGZpbmFsIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KHRoaXMsIERldGFpbEFjdGl2aXR5LmNsYXNzKTsKICAgICAgICBzdGFydEFjdGl2aXR5KGludGVudCk7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3QnlJZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgZmluYWwgV29ya291dExpc3RGcmFnbWVudCB3b3Jrb3V0TGlzdEZyYWdtZW50ID0gKFdvcmtvdXRMaXN0RnJhZ21lbnQpIGdldFN1cHBvcnRGcmFnbWVudE1hbmFnZXIoKQogICAgICAgICAgICAgICAgLmZpbmRGcmFnbWVudEJ5SWQoUi5pZC5saXN0X2ZyYWdtZW50KTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>final StringBuilder sb = new StringBuilder(&quot;Workout{&quot;);
-        sb.append(&quot;name='&quot;).append(name).append('\'');
-        sb.append('}');
-        return sb.toString();</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB3b3Jrb3V0TGlzdEZyYWdtZW50LnNldExpc3RBZGFwdGVyKHRoaXMpOwo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkxpc3RJdGVtQ2xpY2sobCwgdiwgcG9zaXRpb24sIGlkKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvbkxpc3RJdGVtQ2xpY2soZmluYWwgTGlzdFZpZXcgbCwgZmluYWwgVmlldyB2LCBmaW5hbCBpbnQgcG9zaXRpb24sIGZpbmFsIGxvbmcgaWQpIHsKICAgICAgICBzdXBlci5vbkxpc3RJdGVtQ2xpY2sobCwgdiwgcG9zaXRpb24sIGlkKTsKICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>TextView textView = new TextView(getActivity());
+        textView.setText(R.string.hello_blank_fragment);
+        return textView;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aWV3QnlJZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
