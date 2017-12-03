@@ -92,6 +92,12 @@
         <mark key="^" line="17" column="40" />
         <mark key="." line="17" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/WorkoutListFragment.java" timestamp="1512300538056">
+        <mark key="[" line="30" column="67" />
+        <mark key="]" line="30" column="66" />
+        <mark key="." line="30" column="66" />
+        <mark key="^" line="30" column="66" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/RetryableLdapCaller.java" timestamp="1503994397711">
         <mark key="[" line="36" column="24" />
         <mark key="]" line="36" column="25" />
@@ -310,7 +316,7 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512295572866">
+      <file name="/Dummy.txt" timestamp="1512300651987">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -421,7 +427,7 @@
         <mark key="^" line="12" column="8" />
         <mark key="." line="12" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1512295445533">
+      <file name="/fragment.java" timestamp="1512298899033">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/UnboundLdapUtils.java" timestamp="1503043119944">
@@ -561,7 +567,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>(TextView)</text>
+        <text>fragment</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -588,7 +594,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(TextView)</text>
+        <text>fragment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNDb2RlXD4=</text>
@@ -599,20 +605,22 @@
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3QnlJZAo=</text>
+      <register name="1" type="4">
+        <text>TextView textView = new TextView(getActivity());
+        textView.setText(R.string.hello_blank_fragment);
+        return textView;</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2aWV3QnlJZAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>final StringBuilder sb = new StringBuilder(&quot;Workout{&quot;);
         sb.append(&quot;name='&quot;).append(name).append('\'');
         sb.append('}');
         return sb.toString();</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
@@ -630,7 +638,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8U3RyaW5nLCBTdHJpbmc+IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
