@@ -205,7 +205,6 @@
         <mark key="." line="386" column="38" />
         <mark key="^" line="386" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncInput.java" timestamp="1511231435356" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/datastore/IdentityStoreUtils.java" timestamp="1507873436772">
         <mark key="'" line="36" column="8" />
         <mark key="[" line="31" column="19" />
@@ -332,7 +331,6 @@
         <mark key="^" line="153" column="42" />
         <mark key="." line="153" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/AbstractSyncFinder.java" timestamp="1511229071574" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/parser/csv/CSVparser.java" timestamp="1508501147616">
         <mark key="[" line="186" column="40" />
         <mark key="]" line="186" column="69" />
@@ -345,11 +343,12 @@
         <mark key="^" line="181" column="56" />
         <mark key="." line="181" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" timestamp="1505723900523">
-        <mark key="[" line="454" column="55" />
-        <mark key="]" line="454" column="69" />
-        <mark key="^" line="454" column="69" />
-        <mark key="." line="454" column="69" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" timestamp="1512447193418">
+        <mark key="'" line="116" column="61" />
+        <mark key="[" line="121" column="51" />
+        <mark key="]" line="121" column="51" />
+        <mark key="^" line="121" column="51" />
+        <mark key="." line="121" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/attrmapping/AttributeMappingsTest.java" timestamp="1509698084988">
         <mark key="'" line="24" column="0" />
@@ -370,7 +369,6 @@
         <mark key="^" line="15" column="58" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/common/util/AuthorizationUtil.java" timestamp="1511314168528" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/ldap/UnboundLdapUtils.java" timestamp="1503294322054">
         <mark key="[" line="51" column="55" />
         <mark key="]" line="51" column="55" />
@@ -434,7 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="381" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAO.java" />
       <jump line="384" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAO.java" />
       <jump line="390" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAO.java" />
       <jump line="354" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceConfigurationDAO.java" />
@@ -534,6 +531,7 @@
       <jump line="413" column="45" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="892" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="409" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="116" column="61" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/configstore/LDAPConfigStoreProvider.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -581,7 +579,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF0dXNDb2RlXD4=</text>
+        <text>REPLACE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRlc3QuZ2V0VG9zKCksIGNvbnRhaW5zSW5BbnlPcmRlcigidG8xIiwgInRvMiIsICJ0bzMiKSk7Cg==</text>
@@ -624,9 +622,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF0dXNDb2RlXD4=</last-search>
+      <last-search>REPLACE</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF0dXNDb2RlXD4=</last-pattern>
+      <last-pattern>REPLACE</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">Y29tbW9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -634,7 +632,6 @@
     </search>
     <history>
       <history-search>
-        <entry>serviceConfigurationDaoMap</entry>
         <entry>engineConfig</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVNYXBwaW5nc0J5VHlwZVw+</entry>
         <entry encoding="base64">XDxjb250cm9sc1w+</entry>
@@ -654,6 +651,7 @@
         <entry encoding="base64">XDxkZWZhdWx0TWFwcGluZ0F0dHJzXD4=</entry>
         <entry>AciManager</entry>
         <entry encoding="base64">XDxzdGF0dXNDb2RlXD4=</entry>
+        <entry>REPLACE</entry>
       </history-search>
       <history-cmd>
         <entry>122</entry>
