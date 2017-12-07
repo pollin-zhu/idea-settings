@@ -618,7 +618,7 @@
         <text encoding="base64">CiAgICAKICAgIHB1YmxpYyBTZXQ8PyBleHRlbmRzIFN0cmluZz4gZ2V0TWFwcGVkU3luY0F0dHJpYnV0ZSgpIHsKICAgICAgICByZXR1cm4gYXR0ck1hcHBpbmdzLmdldFRvc0hhdmluZ1ZhbGlkRnJvbSgpOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>664</text>
       </register>
     </registers>
     <search>
@@ -654,7 +654,6 @@
         <entry>REPLACE</entry>
       </history-search>
       <history-cmd>
-        <entry>122</entry>
         <entry>313</entry>
         <entry encoding="base64">JzwsJz5j</entry>
         <entry>33</entry>
@@ -674,6 +673,7 @@
         <entry>1084</entry>
         <entry>133</entry>
         <entry>w</entry>
+        <entry>664</entry>
       </history-cmd>
       <history-expr />
       <history-input />
