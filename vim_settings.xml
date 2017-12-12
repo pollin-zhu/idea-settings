@@ -60,6 +60,7 @@
         <mark key="." line="55" column="48" />
         <mark key="^" line="55" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/FullSyncDeletor.java" timestamp="1513058122237" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1509690798580">
         <mark key="'" line="842" column="82" />
         <mark key="[" line="72" column="48" />
@@ -244,8 +245,8 @@
         <mark key="." line="29" column="70" />
         <mark key="^" line="29" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1513055908804">
-        <mark key="a" line="621" column="104" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1513057521797">
+        <mark key="a" line="600" column="118" />
         <mark key="b" line="409" column="68" />
         <mark key="'" line="621" column="16" />
         <mark key="[" line="412" column="16" />
