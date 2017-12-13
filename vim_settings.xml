@@ -191,6 +191,7 @@
         <mark key="." line="526" column="15" />
         <mark key="^" line="526" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleUtils.java" timestamp="1513129985230" />
       <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/resources/OAuth2-test.properties" timestamp="1504488818207">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="77" />
@@ -240,10 +241,10 @@
         <mark key="." line="29" column="70" />
         <mark key="^" line="29" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1513125618988">
-        <mark key="a" line="602" column="29" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1513129906400">
+        <mark key="a" line="600" column="108" />
         <mark key="b" line="409" column="68" />
-        <mark key="'" line="622" column="36" />
+        <mark key="'" line="60" column="29" />
         <mark key="[" line="412" column="16" />
         <mark key="]" line="412" column="16" />
         <mark key="^" line="551" column="88" />
@@ -320,7 +321,7 @@
       <file name="/Dummy.txt" timestamp="1509931262936">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/DefaultModifier.java" timestamp="1513128416954" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/DefaultModifier.java" timestamp="1513129180852" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/InMemorySessionManager.java" timestamp="1499066098051">
         <mark key="[" line="153" column="35" />
         <mark key="]" line="153" column="42" />
@@ -426,9 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
-      <jump line="136" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
-      <jump line="145" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
       <jump line="148" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
       <jump line="563" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncServiceMessageFactory.java" />
       <jump line="492" column="18" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncServiceMessageFactory.java" />
@@ -526,6 +524,9 @@
       <jump line="621" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="96" column="44" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="622" column="36" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="575" column="58" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="74" column="50" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="60" column="29" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -573,7 +574,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>REPLACE</text>
+        <text encoding="base64">XDxmaW5kZXJPZk9uUHJlbU9iamVjdEdVSURcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRlc3QuZ2V0VG9zKCksIGNvbnRhaW5zSW5BbnlPcmRlcigidG8xIiwgInRvMiIsICJ0bzMiKSk7Cg==</text>
@@ -616,9 +617,9 @@
       </register>
     </registers>
     <search>
-      <last-search>REPLACE</last-search>
+      <last-search encoding="base64">XDxmaW5kZXJPZk9uUHJlbU9iamVjdEdVSURcPg==</last-search>
       <last-offset />
-      <last-pattern>REPLACE</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5kZXJPZk9uUHJlbU9iamVjdEdVSURcPg==</last-pattern>
       <last-replace>getPoolStatistic().getInUseSize</last-replace>
       <last-substitute encoding="base64">Y29tbW9uPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -626,8 +627,6 @@
     </search>
     <history>
       <history-search>
-        <entry>engineConfig</entry>
-        <entry encoding="base64">XDxhdHRyaWJ1dGVNYXBwaW5nc0J5VHlwZVw+</entry>
         <entry encoding="base64">XDxjb250cm9sc1w+</entry>
         <entry>common</entry>
         <entry encoding="base64">Y29tbW9uPA==</entry>
@@ -646,6 +645,8 @@
         <entry>AciManager</entry>
         <entry encoding="base64">XDxzdGF0dXNDb2RlXD4=</entry>
         <entry>REPLACE</entry>
+        <entry encoding="base64">XDxoYW5kbGVGdWxsU3luY0Z1bmN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxmaW5kZXJPZk9uUHJlbU9iamVjdEdVSURcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5j</entry>
