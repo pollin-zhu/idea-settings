@@ -110,6 +110,12 @@
         <mark key="." line="66" column="3" />
         <mark key="^" line="66" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/res/layout-large/activity_main.xml" timestamp="1513849676102">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/bitsandpizzas/app/src/main/res/layout/activity_main.xml" timestamp="1510469232382">
         <mark key="[" line="6" column="58" />
       </file>
@@ -372,7 +378,8 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512302100692">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" timestamp="1513849330222" />
+      <file name="/Dummy.txt" timestamp="1513849884993">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -637,7 +644,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzaG93RGV0YWlsKGZpbmFsIFZpZXcgdmlldykgewogICAgICAgIGZpbmFsIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KHRoaXMsIERldGFpbEFjdGl2aXR5LmNsYXNzKTsKICAgICAgICBzdGFydEFjdGl2aXR5KGludGVudCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -664,7 +671,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>android.support.constraint.ConstraintLayout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNDb2RlXD4=</text>
@@ -676,36 +683,34 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzaG93RGV0YWlsKGZpbmFsIFZpZXcgdmlldykgewogICAgICAgIGZpbmFsIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KHRoaXMsIERldGFpbEFjdGl2aXR5LmNsYXNzKTsKICAgICAgICBzdGFydEFjdGl2aXR5KGludGVudCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgZmluYWwgV29ya291dExpc3RGcmFnbWVudCB3b3Jrb3V0TGlzdEZyYWdtZW50ID0gKFdvcmtvdXRMaXN0RnJhZ21lbnQpIGdldFN1cHBvcnRGcmFnbWVudE1hbmFnZXIoKQogICAgICAgICAgICAgICAgLmZpbmRGcmFnbWVudEJ5SWQoUi5pZC5saXN0X2ZyYWdtZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3b3Jrb3V0TGlzdEZyYWdtZW50LnNldExpc3RBZGFwdGVyKHRoaXMpOwo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzaG93RGV0YWlsKGZpbmFsIFZpZXcgdmlldykgewogICAgICAgIGZpbmFsIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KHRoaXMsIERldGFpbEFjdGl2aXR5LmNsYXNzKTsKICAgICAgICBzdGFydEFjdGl2aXR5KGludGVudCk7CiAgICB9Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkxpc3RJdGVtQ2xpY2sobCwgdiwgcG9zaXRpb24sIGlkKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvbkxpc3RJdGVtQ2xpY2soZmluYWwgTGlzdFZpZXcgbCwgZmluYWwgVmlldyB2LCBmaW5hbCBpbnQgcG9zaXRpb24sIGZpbmFsIGxvbmcgaWQpIHsKICAgICAgICBzdXBlci5vbkxpc3RJdGVtQ2xpY2sobCwgdiwgcG9zaXRpb24sIGlkKTsKICAgIH0K</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgZmluYWwgV29ya291dExpc3RGcmFnbWVudCB3b3Jrb3V0TGlzdEZyYWdtZW50ID0gKFdvcmtvdXRMaXN0RnJhZ21lbnQpIGdldFN1cHBvcnRGcmFnbWVudE1hbmFnZXIoKQogICAgICAgICAgICAgICAgLmZpbmRGcmFnbWVudEJ5SWQoUi5pZC5saXN0X2ZyYWdtZW50KTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>TextView textView = new TextView(getActivity());
-        textView.setText(R.string.hello_blank_fragment);
-        return textView;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB3b3Jrb3V0TGlzdEZyYWdtZW50LnNldExpc3RBZGFwdGVyKHRoaXMpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkxpc3RJdGVtQ2xpY2sobCwgdiwgcG9zaXRpb24sIGlkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3QnlJZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
