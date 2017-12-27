@@ -24,7 +24,7 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="47" column="62" />
       </file>
-      <file name="/a.dummy" timestamp="1514335818580">
+      <file name="/a.dummy" timestamp="1514346389463">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/syncService.properties" timestamp="1511230742895">
@@ -62,6 +62,11 @@
         <mark key="]" line="55" column="48" />
         <mark key="." line="55" column="48" />
         <mark key="^" line="55" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/StatefulHandler.java" timestamp="1514346018492">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1509690798580">
         <mark key="'" line="842" column="82" />
@@ -228,8 +233,8 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/SyncContext.java" timestamp="1513568108142">
-        <mark key="[" line="4" column="18" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/SyncContext.java" timestamp="1514346065582">
+        <mark key="[" line="8" column="24" />
         <mark key="]" line="4" column="34" />
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
@@ -322,10 +327,11 @@
         <mark key="." line="1092" column="13" />
         <mark key="^" line="1092" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/FeatureBasedHandler.java" timestamp="1513568181709">
-        <mark key="[" line="19" column="62" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/FeatureBasedHandler.java" timestamp="1514346246994">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="29" column="1" />
+        <mark key="." line="29" column="1" />
+        <mark key="^" line="29" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/concurrent/lock/synctask/NumbConcurrentSyncLock.java" timestamp="1498459670577">
         <mark key="[" line="12" column="38" />
@@ -429,6 +435,9 @@
         <mark key="]" line="67" column="19" />
         <mark key="." line="67" column="19" />
         <mark key="^" line="27" column="109" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/SyncPreHandler.java" timestamp="1514346510629">
+        <mark key="[" line="7" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/LDAPServicePool.java" timestamp="1503294414487">
         <mark key="[" line="86" column="67" />
@@ -585,7 +594,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ExecuteResult</text>
+        <text>null</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -612,7 +621,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ExecuteResult</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
