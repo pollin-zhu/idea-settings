@@ -24,6 +24,9 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="47" column="62" />
       </file>
+      <file name="/a.dummy" timestamp="1514335818580">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/syncService.properties" timestamp="1511230742895">
         <mark key="[" line="207" column="0" />
         <mark key="]" line="210" column="42" />
@@ -243,6 +246,12 @@
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/ActionExecutor.java" timestamp="1514336413251">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/dao/DirSyncServiceInformationDAOTest.java" timestamp="1504591197439">
         <mark key="[" line="81" column="86" />
         <mark key="]" line="81" column="86" />
@@ -358,11 +367,11 @@
         <mark key="." line="186" column="40" />
         <mark key="^" line="186" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/Action.java" timestamp="1513567959161">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="4" />
-        <mark key="^" line="9" column="38" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/Action.java" timestamp="1514336269947">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/QueryResponse.java" timestamp="1504831061422">
         <mark key="[" line="180" column="81" />
@@ -432,6 +441,9 @@
         <mark key="]" line="12" column="8" />
         <mark key="^" line="12" column="8" />
         <mark key="." line="12" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/SyncCloud2.java" timestamp="1514335497957">
+        <mark key="[" line="7" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/UnboundLdapUtils.java" timestamp="1503043119944">
         <mark key="[" line="22" column="0" />
@@ -573,7 +585,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Service {</text>
+        <text>ExecuteResult</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -600,7 +612,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Service {</text>
+        <text>ExecuteResult</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
@@ -612,37 +624,40 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN5bmNDb250ZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQWN0aW9uRXgK</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">c3RhdGljIGZpbmFsIApzdGF0aWMgZmluYWwgCnN0YXRpYyBmaW5hbCA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">cHVibGljIGludGVyZmFjZSBBY3Rpb24gewp9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBBY3Rpb24gZ2V0QmFzZUFjdGlvbigpOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8U3RyaW5nLCBTdHJpbmc+IAo=</text>
+      <register name="5" type="4">
+        <text>Action UNDEFINED = new Action() {};
+    Action ADD = new Action() { };
+    Action MODIFY = new Action() { };
+    Action REMOVE = new Action() { };</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQSBTdHJ1Y3QgaGF2aW5nIGlkZW50aXR5IHR5cGUgYW5kIGl0cyByZWxhdGVkIGF0dHJpYnV0ZSBtYXBwaW5ncy4gQWxsIG1hcHBpbmdzIGhhdmUgYm90aCBub24tZW1wdHkgZnJvbXMgYW5kIHRvcy4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN5bmNDb250ZXh0KCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZW1vdmUgbWFwcGluZ3Mgd2hvc2UgZnJvbSBpcyBlbXB0eS4K</text>
+      <register name="7" type="8">
+        <text encoding="base64">c3RhdGljIGZpbmFsIApzdGF0aWMgZmluYWwgCnN0YXRpYyBmaW5hbCA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTZXQ8QXR0cmlidXRlTWFwcGluZz4gYmxhbmtGcm9tTWFwcGluZ3MgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBBY3Rpb24gZ2V0QmFzZUFjdGlvbigpOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJsYW5rRnJvbU1hcHBpbmdzLmFkZChtYXBwaW5nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>41</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -696,8 +711,8 @@
         <entry>133</entry>
         <entry>664</entry>
         <entry>registers</entry>
-        <entry>w</entry>
         <entry>41</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
