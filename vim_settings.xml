@@ -24,7 +24,7 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="47" column="62" />
       </file>
-      <file name="/a.dummy" timestamp="1514346389463">
+      <file name="/a.dummy" timestamp="1514421014740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/syncService.properties" timestamp="1511230742895">
@@ -45,6 +45,7 @@
         <mark key="." line="2" column="101" />
         <mark key="^" line="2" column="101" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/log4j.properties" timestamp="1514421139444" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/concurrent/lock/synctask/ConcurrentSyncLock.java" timestamp="1498456186391">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="33" column="19" />
@@ -348,12 +349,11 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/core/SyncService.java" timestamp="1514358178212">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/core/SyncService.java" timestamp="1514420881594">
         <mark key="[" line="34" column="5" />
         <mark key="]" line="34" column="5" />
         <mark key="." line="34" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" timestamp="1510211380625" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/recyclablepool/ResourceFactory.java" timestamp="1495604948713">
         <mark key="[" line="19" column="29" />
         <mark key="]" line="19" column="84" />
