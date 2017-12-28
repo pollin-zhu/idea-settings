@@ -52,7 +52,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1514503097488">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1514504120225">
         <mark key="[" line="29" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/source/ldap/SyncService4Ldap.java" timestamp="1514456006085">
@@ -73,10 +73,10 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/IdentityReader.java" timestamp="1514435073103">
         <mark key="[" line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncContext.java" timestamp="1514503067248">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncContext.java" timestamp="1514504306637">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/format/ldap/LdifFactory.java" timestamp="1514502621511">
         <mark key="[" line="24" column="65" />
@@ -266,8 +266,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>identityReader</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -294,7 +294,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>identityReader</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
@@ -305,40 +305,40 @@
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">CgogICAgdm9pZCBzZXRJZGVudGl0eUZvcm1hdEZhY3RvcnkoZmluYWwgSWRlbnRpdHlGb3JtYXRGYWN0b3J5IGlkZW50aXR5Rm9ybWF0RmFjdG9yeSkgewogICAgICAgIGlkZW50aXR5UmVhZGVyID0gaWRlbnRpdHlGb3JtYXRGYWN0b3J5CiAgICB9CgogICAgdm9pZCBzZXRQYXlsb2FkUmVhZGVyRmFjdG9yeShmaW5hbCBQYXlsb2FkUmVhZGVyRmFjdG9yeSBwYXlsb2FkUmVhZGVyRmFjdG9yeSkgewogICAgICAgIHRoaXMucGF5bG9hZFJlYWRlckZhY3RvcnkgPSBwYXlsb2FkUmVhZGVyRmFjdG9yeTsKICAgIH0=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmlkZW50aXR5Rm9ybWF0RmFjdG9yeSA9IGlkZW50aXR5Rm9ybWF0RmFjdG9yeTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">cHVibGljIHN0YXRpYyBjbGFzcyBMZGlmUmVhZGVyQ3JlYXRvciBpbXBsZW1lbnRzIElkZW50aXR5UmVhZGVyQ3JlYXRvcjxMREFQTWVzc2FnZT4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBJZGVudGl0eVJlYWRlcjxMREFQTWVzc2FnZT4gY3JlYXRlKCkgewogICAgICAgICAgICByZXR1cm4gbmV3IExkaWZSZWFkZXIoKTsKICAgICAgICB9CiAgICB9</text>
       </register>
-      <register name="3" type="4">
+      <register name="t" type="2">
+        <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>private IdentityReaderCreator identityReaderCreator;
 
     public IdentityReader newIdentityReader() {
         return identityReaderCreator.create();
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="t" type="2">
-        <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIFN0cmluZyBnZXRQcm90b2NvbCgpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>return null;
     }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbG9vOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
