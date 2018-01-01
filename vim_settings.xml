@@ -47,12 +47,12 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/IdentityFormatFactory.java" timestamp="1514502386316">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/StopwatchFragment.java" timestamp="1514801507753">
-        <mark key="[" line="41" column="90" />
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/StopwatchFragment.java" timestamp="1514802984167">
+        <mark key="[" line="75" column="30" />
         <mark key="m" line="68" column="0" />
-        <mark key="]" line="42" column="20" />
-        <mark key="." line="42" column="20" />
-        <mark key="^" line="42" column="20" />
+        <mark key="]" line="75" column="30" />
+        <mark key="." line="75" column="30" />
+        <mark key="^" line="67" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/impl/ldif/LdifInputFactory.java" timestamp="1514432882886">
         <mark key="[" line="13" column="58" />
@@ -115,7 +115,7 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514801712218">
+      <file name="/Dummy.txt" timestamp="1514802936185">
         <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -287,7 +287,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgdG9vbHM6Y29udGV4dD0idmlwLm1lZXR1cy53b3Jrb3V0LlRlbXBBY3Rpdml0eSI=</text>
+        <text>View view</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -314,7 +314,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>android.support.constraint.ConstraintLayout</text>
+        <text>View view</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
