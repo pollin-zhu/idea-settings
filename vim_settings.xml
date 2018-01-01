@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="V" line="578" column="63" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" />
+      <mark key="V" line="578" column="63" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" protocol="file" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/attrmapping/AttributeMapping.java" timestamp="1508833902175">
@@ -195,6 +195,7 @@
         <mark key="." line="526" column="15" />
         <mark key="^" line="526" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/DetailActivity.java" timestamp="1514777512330" />
       <file name="$USER_HOME$/workspace/git/api-framework/framework-oauth2-provider-ci/src/test/resources/OAuth2-test.properties" timestamp="1504488818207">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="77" />
@@ -207,7 +208,6 @@
         <mark key="." line="386" column="38" />
         <mark key="^" line="386" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncInput.java" timestamp="1514175799271" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/datastore/IdentityStoreUtils.java" timestamp="1507873436772">
         <mark key="'" line="36" column="8" />
         <mark key="[" line="31" column="19" />
@@ -354,6 +354,7 @@
         <mark key="." line="186" column="40" />
         <mark key="^" line="186" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/MainActivity.java" timestamp="1514777843733" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/Action.java" timestamp="1513567959161">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="4" />
