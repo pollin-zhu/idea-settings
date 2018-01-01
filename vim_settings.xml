@@ -47,7 +47,13 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/IdentityFormatFactory.java" timestamp="1514502386316">
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/StopwatchFragment.java" timestamp="1514793697585" />
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/java/vip/meetus/workout/StopwatchFragment.java" timestamp="1514801507753">
+        <mark key="[" line="41" column="90" />
+        <mark key="m" line="68" column="0" />
+        <mark key="]" line="42" column="20" />
+        <mark key="." line="42" column="20" />
+        <mark key="^" line="42" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/impl/ldif/LdifInputFactory.java" timestamp="1514432882886">
         <mark key="[" line="13" column="58" />
         <mark key="]" line="15" column="0" />
@@ -85,6 +91,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/res/layout/fragment_stopwatch.xml" timestamp="1514800730553">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/DatasourceSensible.java" timestamp="1514453005611">
         <mark key="]" line="20" column="3" />
         <mark key="." line="20" column="3" />
@@ -104,8 +115,11 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509931262936">
+      <file name="/Dummy.txt" timestamp="1514801712218">
+        <mark key="e" line="0" column="7" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/Instruction.java" timestamp="1513567638612">
         <mark key="[" line="7" column="25" />
@@ -127,6 +141,11 @@
         <mark key="[" line="11" column="30" />
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/HeadFirst-AndroidDevelopment-2nd/Workout/app/src/main/res/layout/activity_temp.xml" timestamp="1514801610728">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/SyncException.java" timestamp="1514431970163">
         <mark key="[" line="7" column="26" />
@@ -268,7 +287,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>identityReader</text>
+        <text encoding="base64">CiAgICAgICAgdG9vbHM6Y29udGV4dD0idmlwLm1lZXR1cy53b3Jrb3V0LlRlbXBBY3Rpdml0eSI=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -295,7 +314,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>identityReader</text>
+        <text>android.support.constraint.ConstraintLayout</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
@@ -307,39 +326,34 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgogICAgdm9pZCBzZXRJZGVudGl0eUZvcm1hdEZhY3RvcnkoZmluYWwgSWRlbnRpdHlGb3JtYXRGYWN0b3J5IGlkZW50aXR5Rm9ybWF0RmFjdG9yeSkgewogICAgICAgIGlkZW50aXR5UmVhZGVyID0gaWRlbnRpdHlGb3JtYXRGYWN0b3J5CiAgICB9CgogICAgdm9pZCBzZXRQYXlsb2FkUmVhZGVyRmFjdG9yeShmaW5hbCBQYXlsb2FkUmVhZGVyRmFjdG9yeSBwYXlsb2FkUmVhZGVyRmFjdG9yeSkgewogICAgICAgIHRoaXMucGF5bG9hZFJlYWRlckZhY3RvcnkgPSBwYXlsb2FkUmVhZGVyRmFjdG9yeTsKICAgIH0=</text>
+        <text encoding="base64">CiAgICAgICAgdG9vbHM6Y29udGV4dD0idmlwLm1lZXR1cy53b3Jrb3V0LlRlbXBBY3Rpdml0eSI=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlkZW50aXR5Rm9ybWF0RmFjdG9yeSA9IGlkZW50aXR5Rm9ybWF0RmFjdG9yeTsK</text>
+        <text encoding="base64">ICAgICAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBjbGFzcyBMZGlmUmVhZGVyQ3JlYXRvciBpbXBsZW1lbnRzIElkZW50aXR5UmVhZGVyQ3JlYXRvcjxMREFQTWVzc2FnZT4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBJZGVudGl0eVJlYWRlcjxMREFQTWVzc2FnZT4gY3JlYXRlKCkgewogICAgICAgICAgICByZXR1cm4gbmV3IExkaWZSZWFkZXIoKTsKICAgICAgICB9CiAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC5jb25zdHJhaW50LkNvbnN0cmFpbnRMYXlvdXQK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>private IdentityReaderCreator identityReaderCreator;
-
-    public IdentityReader newIdentityReader() {
-        return identityReaderCreator.create();
-    }</text>
+        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC5jb25zdHJhaW50LkNvbnN0cmFpbnRMYXlvdXQKICAgICAgICB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICAgICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgogICAgICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgdG9vbHM6Y29udGV4dD0idmlwLm1lZXR1cy53b3Jrb3V0LlRlbXBBY3Rpdml0eSI+Cgo8L2FuZHJvaWQuc3VwcG9ydC5jb25zdHJhaW50LkNvbnN0cmFpbnRMYXlvdXQ+</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBnZXRQcm90b2NvbCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>return null;
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uQXR0YWNoKGZpbmFsIENvbnRleHQgY29udGV4dCkgewogICAgICAgIHN1cGVyLm9uQXR0YWNoKGNvbnRleHQpOwogICAgICAgIHRoaXMuY29udGV4dCA9IGNvbnRleHQ7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
