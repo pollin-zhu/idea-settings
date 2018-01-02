@@ -13,6 +13,7 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/protocol/ldap/LdifInputFactory.java" timestamp="1514456232263">
         <mark key="[" line="11" column="52" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/AttributeMap.java" timestamp="1514876772888" />
       <file name="/a.dummy" timestamp="1514869931980">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,6 +26,12 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/IdentityTarget.java" timestamp="1514869962168">
         <mark key="[" line="7" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/InputLoader.java" timestamp="1514877082619">
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="17" column="37" />
+        <mark key="^" line="17" column="37" />
+        <mark key="." line="17" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/StatefulHandler.java" timestamp="1514346018492">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="33" />
@@ -35,11 +42,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/Input.java" timestamp="1514876336034">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="29" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/Input.java" timestamp="1514876898115">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/impl/ldif/LdifInputFactory.java" timestamp="1514432882886">
         <mark key="[" line="13" column="58" />
@@ -68,10 +75,10 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/protocol/ldap/LdifReader.java" timestamp="1514456209582">
         <mark key="[" line="27" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncContext.java" timestamp="1514874425296">
-        <mark key="[" line="76" column="5" />
-        <mark key="]" line="51" column="4" />
-        <mark key="." line="51" column="4" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncContext.java" timestamp="1514880026889">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/IdentityReaderCreator.java" timestamp="1514455724563">
         <mark key="[" line="7" column="7" />
@@ -100,19 +107,14 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/impl/source/ldap/SyncService4Ldap.java" timestamp="1514865985798">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/impl/processor/IdentityTargets.java" timestamp="1514874253366">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/IdentityTargets.java" timestamp="1514875726788">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="11" column="4" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/IdentityTargets.java" timestamp="1514877508587">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
         <mark key="^" line="11" column="8" />
-        <mark key="." line="11" column="4" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/SyncProcessor.java" timestamp="1514355145202">
         <mark key="[" line="7" column="6" />
@@ -129,17 +131,20 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/InputReader.java" timestamp="1514869823113" />
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/FeatureBasedSyncHandler.java" timestamp="1514867245510" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/FeatureBasedSyncHandler.java" timestamp="1514880345968">
+        <mark key="[" line="39" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/PayloadReaderFactory.java" timestamp="1514502734215">
         <mark key="[" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/processor/IdentityTargets.java" timestamp="1514519755428">
         <mark key="[" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/TargetLoader.java" timestamp="1514870717294">
-        <mark key="[" line="19" column="63" />
-        <mark key="]" line="19" column="63" />
-        <mark key="." line="19" column="63" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/TargetLoader.java" timestamp="1514880151045">
+        <mark key="[" line="26" column="69" />
+        <mark key="]" line="26" column="68" />
+        <mark key="." line="26" column="68" />
+        <mark key="^" line="26" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/DatasourceSensible.java" timestamp="1514865322114">
         <mark key="[" line="16" column="80" />
@@ -167,11 +172,11 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/TargetConverter.java" timestamp="1514870333354">
         <mark key="[" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1514871146300">
-        <mark key="[" line="27" column="106" />
-        <mark key="]" line="71" column="88" />
-        <mark key="^" line="71" column="88" />
-        <mark key="." line="71" column="88" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1514880013143">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="80" column="107" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncProcessor.java" timestamp="1514517707456">
         <mark key="[" line="7" column="7" />
@@ -181,15 +186,11 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/processor/FullSyncProcessor.java" timestamp="1514518010097">
         <mark key="[" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/processor/AbstractSyncProcessor.java" timestamp="1514866408400">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/AbstractSyncProcessor.java" timestamp="1514876361599">
-        <mark key="[" line="22" column="89" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/AbstractSyncProcessor.java" timestamp="1514880654223">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="30" column="62" />
+        <mark key="." line="30" column="62" />
+        <mark key="^" line="30" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1514522758767">
         <mark key="[" line="55" column="22" />
@@ -214,11 +215,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/impl/handler/multisource/LinkAction.java" timestamp="1514866959531">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/ImplDefinition.java" timestamp="1514505044301">
         <mark key="[" line="7" column="29" />
@@ -262,8 +258,8 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/SyncException.java" timestamp="1514431970163">
         <mark key="[" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/TargetReader.java" timestamp="1514870275722">
-        <mark key="[" line="13" column="16" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/TargetReader.java" timestamp="1514878073600">
+        <mark key="[" line="11" column="57" />
         <mark key="]" line="13" column="16" />
         <mark key="^" line="13" column="30" />
         <mark key="." line="13" column="16" />
@@ -407,8 +403,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -435,51 +431,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>protected</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVGFibGU8U3RyaW5nLCBJbnB1dC5UeXBlLCBDb2xsZWN0aW9uPD8gZXh0ZW5kcyBTdHJpbmc+PiBxdWVyeUF0dHJzNFF1aWNrU2VhcmNoOwo=</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICB2b2lkIHNldFF1ZXJ5QXR0cnM0UXVpY2tTZWFyY2goZmluYWwgQ29sbGVjdGlvbjw/IGV4dGVuZHMgU3RyaW5nPiBxdWVyeUF0dHJzNFF1aWNrU2VhcmNoKSB7CiAgICAgICAgdGhpcy5xdWVyeUF0dHJzNFF1aWNrU2VhcmNoID0gSW1tdXRhYmxlTGlzdC5jb3B5T2YocXVlcnlBdHRyczRRdWlja1NlYXJjaCk7CiAgICB9CgogICAgdm9pZCBzZXRRdWVyeUF0dHJzKGZpbmFsIE1hcDxJbnB1dC5UeXBlLCBDb2xsZWN0aW9uPD8gZXh0ZW5kcyBTdHJpbmc+PiBxdWVyeUF0dHJzKSB7CiAgICAgICAgdGhpcy5xdWVyeUF0dHJzID0gSW1tdXRhYmxlTWFwLmNvcHlPZihxdWVyeUF0dHJzKTsKICAgIH0KCiAgICBDb2xsZWN0aW9uPD8gZXh0ZW5kcyBTdHJpbmc+IGdldFF1ZXJ5QXR0cnM0UXVpY2tTZWFyY2goKSB7CiAgICAgICAgcmV0dXJuIHF1ZXJ5QXR0cnM0UXVpY2tTZWFyY2g7CiAgICB9CgogICAgQ29sbGVjdGlvbjw/IGV4dGVuZHMgU3RyaW5nPiBnZXRRdWVyeUF0dHJzKGZpbmFsIElucHV0LlR5cGUgdHlwZSkgewogICAgICAgIHJldHVybiBxdWVyeUF0dHJzLmdldCh0eXBlKTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29sbGVjdGlvbjw/IGV4dGVuZHMgU3RyaW5nPiBxdWVyeUF0dHJzNFF1aWNrU2VhcmNoOwogICAgcHJpdmF0ZSBNYXA8SW5wdXQuVHlwZSwgQ29sbGVjdGlvbjw/IGV4dGVuZHMgU3RyaW5nPj4gcXVlcnlBdHRyczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjYWNoZSBxdWVyeSBhdHRycwogICAgICAgIGNvbnRleHQuc2V0UXVlcnlBdHRycyhxdWVyeUF0dHJzLnJvdyhkYXRhU291cmNlKSk7CiAgICAgICAgY29udGV4dC5zZXRRdWVyeUF0dHJzNFF1aWNrU2VhcmNoKCk7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LmluaXQ0RmVhdHVyZUJhc2VkSGFuZGxlcnMoZmVhdHVyZUJhc2VkSGFuZGxlcnNCeURhdGFzb3VyY2UuZ2V0KGRhdGFTb3VyY2UpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBmZWF0dXJlIGJhc2VkIGhhbmRsZXJzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>/**
-     * get all targets in Cloud. There targets will be used to compare with input to decide which ones should be deleted.
-     * in some cases, like incremental sync, it's no need. In these cases, must return empty.
-     * @param context
-     * @return
-     */</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
