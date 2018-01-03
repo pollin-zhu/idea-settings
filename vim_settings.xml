@@ -41,11 +41,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/Input.java" timestamp="1514876898115">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="13" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="10" column="13" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/Input.java" timestamp="1514943963771">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/impl/ldif/LdifInputFactory.java" timestamp="1514432882886">
         <mark key="[" line="13" column="58" />
@@ -170,10 +170,10 @@
         <mark key="[" line="7" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1514942558461">
-        <mark key="[" line="75" column="14" />
-        <mark key="]" line="65" column="7" />
-        <mark key="." line="65" column="7" />
-        <mark key="^" line="65" column="7" />
+        <mark key="[" line="74" column="14" />
+        <mark key="]" line="64" column="7" />
+        <mark key="." line="64" column="7" />
+        <mark key="^" line="64" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncProcessor.java" timestamp="1514517707456">
         <mark key="[" line="7" column="7" />
@@ -183,10 +183,10 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/processor/FullSyncProcessor.java" timestamp="1514518010097">
         <mark key="[" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/EntryLoader.java" timestamp="1514942389913">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/EntryLoader.java" timestamp="1514943212252">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/AbstractSyncProcessor.java" timestamp="1514929990839">
         <mark key="[" line="26" column="9" />
@@ -209,14 +209,16 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/IdentityReader.java" timestamp="1514435073103">
         <mark key="[" line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/impl/persistence/ldap/LdapTargetReader.java" timestamp="1514874991572">
-        <mark key="^" line="16" column="49" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/format/ldap/LdifFactory.java" timestamp="1514506031420">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/Target.java" timestamp="1514943929555">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/ImplDefinition.java" timestamp="1514505044301">
         <mark key="[" line="7" column="29" />
@@ -232,6 +234,11 @@
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/Instruction.java" timestamp="1513567638612">
         <mark key="[" line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/Identity.java" timestamp="1514943924578">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="7" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/IdentityInput.java" timestamp="1514867081813">
         <mark key="[" line="7" column="32" />
@@ -279,7 +286,7 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/SyncCloud2.java" timestamp="1514335497957">
         <mark key="[" line="7" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1514851384422">
+      <file name="/fragment.java" timestamp="1514943779830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncService.java" timestamp="1514505417914">
@@ -405,12 +412,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>if (!streamReader.hasNext()) {
-            streamReader.reset(streamLoader.next());
-        }
-
-        return converter.convert(streamReader.next());</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -437,7 +440,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="/" type="4">
         <text>protected</text>
@@ -448,39 +451,45 @@
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIElkZW50aXR5VHlwZSBnZXRUeXBlKCk7CgogICAgU3RyaW5nIGdldElkKCk7CgogICAgU3RyaW5nIGdldEV4dGVybmFsSWQoKTsKCiAgICBTdHJpbmcgZ2V0TGlua2VkQXR0clZhbHVlKCk7Cg==</text>
+      </register>
+      <register name="t" type="2">
+        <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>IdentityType getType();
+
+    String getId();
+
+    String getExternalId();
+
+    String getLinkedAttrValue();</text>
+      </register>
+      <register name="6" type="4">
         <text>if (!streamReader.hasNext()) {
             streamReader.reset(streamLoader.next());
         }
 
         return converter.convert(streamReader.next());</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAvKioKICAgICAqIGNoZWNrIGlmIHRoZXJlIGlzIG1vcmUgcmVjb3Jkcy4KICAgICAqIEByZXR1cm4KICAgICAqLwogICAgcHVibGljIGJvb2xlYW4gaGFzTmV4dCgpIHsKICAgICAgICByZXR1cm4gc3RyZWFtTG9hZGVyLmhhc05leHQoKSB8fCBzdHJlYW1SZWFkZXIuaGFzTmV4dCgpOwogICAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzKHN0KQo=</text>
-      </register>
-      <register name="t" type="2">
-        <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbnZlcnRlciA9IGNvbnZlcnRlcjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0cmVhbVJlYWRlciA9IHN0cmVhbVJlYWRlcjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0cmVhbUxvYWRlciA9IHN0cmVhbUxvYWRlcjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyZWFtTG9hZGVyIHN0cmVhbUxvYWRlcjsKICAgIHByaXZhdGUgZmluYWwgU3RyZWFtUmVhZGVyPFQ+IHN0cmVhbVJlYWRlcjsKICAgIHByaXZhdGUgZmluYWwgQ29udmVydGVyPFQsIElucHV0PiBjb252ZXJ0ZXI7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBTdHJlYW1Mb2FkZXIgZ2V0U3RyZWFtTG9hZGVyKCkgewogICAgICAgIHJldHVybiBzdHJlYW1Mb2FkZXI7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgU3RyZWFtUmVhZGVyPFQ+IGdldFN0cmVhbVJlYWRlcigpIHsKICAgICAgICByZXR1cm4gc3RyZWFtUmVhZGVyOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIENvbnZlcnRlcjxULCBJbnB1dD4gZ2V0Q29udmVydGVyKCkgewogICAgICAgIHJldHVybiBjb252ZXJ0ZXI7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
