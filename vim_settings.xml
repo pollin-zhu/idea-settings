@@ -319,7 +319,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1516838648988" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1516840485018">
+        <mark key="a" line="614" column="61" />
+        <mark key="'" line="99" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/DeleteInput.java" timestamp="1515380604844">
         <mark key="[" line="7" column="24" />
       </file>
@@ -428,7 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="37" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
       <jump line="698" column="26" filename="$MAVEN_REPOSITORY$/com/unboundid/unboundid-ldapsdk-ce/2.3.6/unboundid-ldapsdk-ce-2.3.6.jar!/com/unboundid/ldif/LDIFReader.class" />
       <jump line="732" column="70" filename="$MAVEN_REPOSITORY$/com/unboundid/unboundid-ldapsdk-ce/2.3.6/unboundid-ldapsdk-ce-2.3.6.jar!/com/unboundid/ldif/LDIFReader.class" />
       <jump line="738" column="80" filename="$MAVEN_REPOSITORY$/com/unboundid/unboundid-ldapsdk-ce/2.3.6/unboundid-ldapsdk-ce-2.3.6.jar!/com/unboundid/ldif/LDIFReader.class" />
@@ -528,6 +530,7 @@
       <jump line="10" column="28" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/AddRequest.java" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/AddRequest.java" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/AddRequest.java" />
+      <jump line="99" column="54" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
