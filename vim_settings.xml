@@ -161,11 +161,10 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/interactiveconsole/src/main/java/vip/meetus/exer/interactiveconsole/Main.java" timestamp="1517204889114">
-        <mark key="[" line="47" column="49" />
-        <mark key="]" line="47" column="49" />
-        <mark key="." line="47" column="49" />
-        <mark key="^" line="47" column="49" />
+      <file name="$USER_HOME$/workspace/exercises/interactiveconsole/src/main/java/vip/meetus/exer/interactiveconsole/Main.java" timestamp="1517207598363">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/IdentityInput.java" timestamp="1514867081813">
         <mark key="[" line="7" column="32" />
@@ -375,11 +374,11 @@
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/interactiveconsole/pom.xml" timestamp="1517199684974">
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="16" column="31" />
-        <mark key="." line="16" column="31" />
-        <mark key="^" line="15" column="29" />
+      <file name="$USER_HOME$/workspace/exercises/interactiveconsole/pom.xml" timestamp="1517207638259">
+        <mark key="[" line="49" column="21" />
+        <mark key="]" line="57" column="20" />
+        <mark key="." line="57" column="20" />
+        <mark key="^" line="57" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/ImplDefinition.java" timestamp="1514505044301">
         <mark key="[" line="7" column="29" />
@@ -567,8 +566,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>terminalFactory.createScreen()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG8K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -595,7 +594,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>terminalFactory.createScreen()</text>
+        <text>ose = new Button(&quot;Close&quot;, new Run</text>
       </register>
       <register name="/" type="4">
         <text>T</text>
@@ -607,52 +606,34 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEZWZhdWx0VGVybWluYWxGYWN0b3J5IHRlcm1pbmFsRmFjdG9yeSA9IG5ldyBEZWZhdWx0VGVybWluYWxGYWN0b3J5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NyZWVuLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dEdVSS5zZXRBY3RpdmVXaW5kb3cod2luZG93KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xvc2VCdXR0b24uc2V0Rgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>final Terminal terminal = new DefaultTerminalFactory().createTerminal();
-        final TerminalScreen screen = new TerminalScreen(terminal);
-        final MultiWindowTextGUI gui = new MultiWindowTextGUI(screen);
-        screen.startScreen();
-
-        final MyWindow window = new MyWindow();
-        gui.addWindow(window);
-
-        gui.waitForWindowToClose(window);
-
-        screen.stopScreen();</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG8K</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>import com.googlecode.lanterna.TerminalSize;
-import com.googlecode.lanterna.gui2.*;
-import com.googlecode.lanterna.gui2.dialogs.MessageDialog;
-import com.googlecode.lanterna.gui2.dialogs.MessageDialogButton;
-import com.googlecode.lanterna.screen.Screen;
-import com.googlecode.lanterna.terminal.DefaultTerminalFactory;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgRXh0ZW5kZWRUZXJtaW5hbCB0ZXJtaW5hbCA9IChFeHRlbmRlZFRlcm1pbmFsKSB0ZXJtaW5hbEZhY3Rvcnkuc2V0Rm9yY2VUZXh0VGVybWluYWwodHJ1ZSkuY3JlYXRlVGVybWluYWwoKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>import com.googlecode.lanterna.gui2.MultiWindowTextGUI;
-import com.googlecode.lanterna.screen.TerminalScreen;
-import com.googlecode.lanterna.terminal.DefaultTerminalFactory;
-import com.googlecode.lanterna.terminal.Terminal;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGVybWluYWwuc2V0TW91c2VDYXB0dXJlTW9kZShNb3VzZUNhcHR1cmVNb2RlLkNMSUNLKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAqMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXJtaW5hbEZhY3Rvcnkuc2V0TW91c2VDYXB0dXJlTW9kZShNb3VzZUNhcHR1cmVNb2RlLkNMSUNLKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBndWkudXBkYXRlU2NyZWVuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXIuc2V0TW91c2VDYXB0dXJlTW9kZShudWxsKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByb290LmFkZENvbXBvbmVudChCb3JkZXJzLnNpbmdsZUxpbmVCZXZlbCgiUGFuZWwgVGl0bGUiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBndWkuYWRkV2luZG93QW5kV2FpdChtYWluKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
