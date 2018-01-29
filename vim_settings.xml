@@ -161,10 +161,11 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/interactiveconsole/src/main/java/vip/meetus/exer/interactiveconsole/Main.java" timestamp="1517202197357">
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
+      <file name="$USER_HOME$/workspace/exercises/interactiveconsole/src/main/java/vip/meetus/exer/interactiveconsole/Main.java" timestamp="1517204889114">
+        <mark key="[" line="47" column="49" />
+        <mark key="]" line="47" column="49" />
+        <mark key="." line="47" column="49" />
+        <mark key="^" line="47" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/IdentityInput.java" timestamp="1514867081813">
         <mark key="[" line="7" column="32" />
@@ -330,6 +331,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/googlecode/lanterna/lanterna/3.0.0/lanterna-3.0.0-sources.jar!/com/googlecode/lanterna/terminal/DefaultTerminalFactory.java" timestamp="1517204953240" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1516850554294">
         <mark key="a" line="618" column="61" />
         <mark key="b" line="600" column="118" />
@@ -565,8 +567,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0gCg==</text>
+      <register name="&quot;" type="4">
+        <text>terminalFactory.createScreen()</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -593,7 +595,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HORIZONTAL</text>
+        <text>terminalFactory.createScreen()</text>
       </register>
       <register name="/" type="4">
         <text>T</text>
@@ -605,9 +607,15 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBEZWZhdWx0VGVybWluYWxGYWN0b3J5IHRlcm1pbmFsRmFjdG9yeSA9IG5ldyBEZWZhdWx0VGVybWluYWxGYWN0b3J5KCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2NyZWVuLgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIH0gCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>final Terminal terminal = new DefaultTerminalFactory().createTerminal();
         final TerminalScreen screen = new TerminalScreen(terminal);
         final MultiWindowTextGUI gui = new MultiWindowTextGUI(screen);
@@ -620,7 +628,10 @@
 
         screen.stopScreen();</text>
       </register>
-      <register name="3" type="4">
+      <register name="t" type="2">
+        <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>import com.googlecode.lanterna.TerminalSize;
 import com.googlecode.lanterna.gui2.*;
 import com.googlecode.lanterna.gui2.dialogs.MessageDialog;
@@ -628,29 +639,20 @@ import com.googlecode.lanterna.gui2.dialogs.MessageDialogButton;
 import com.googlecode.lanterna.screen.Screen;
 import com.googlecode.lanterna.terminal.DefaultTerminalFactory;</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>import com.googlecode.lanterna.gui2.MultiWindowTextGUI;
 import com.googlecode.lanterna.screen.TerminalScreen;
 import com.googlecode.lanterna.terminal.DefaultTerminalFactory;
 import com.googlecode.lanterna.terminal.Terminal;</text>
       </register>
-      <register name="t" type="2">
-        <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAqMTAwMCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBndWkudXBkYXRlU2NyZWVuKCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByb290LmFkZENvbXBvbmVudChCb3JkZXJzLnNpbmdsZUxpbmVCZXZlbCgiUGFuZWwgVGl0bGUiKSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByb290LmFkZENvbXBvbmVudChuZXcgUGFuZWwoKSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBob3Jpem9udGFsUGFuZWwuYWRkQ29tcG9uZW50KEJvcmRlcnMuZG91YmxlTGluZUJldmVsKHJpZ2h0UGFuZWwpKTsK</text>
+        <text encoding="base64">ICAgICAgICByb290LmFkZENvbXBvbmVudChCb3JkZXJzLnNpbmdsZUxpbmVCZXZlbCgiUGFuZWwgVGl0bGUiKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
