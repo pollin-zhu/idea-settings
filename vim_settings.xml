@@ -349,6 +349,11 @@
         <mark key="." line="32" column="7" />
         <mark key="^" line="32" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" timestamp="1517370500536">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1515390871346">
         <mark key="[" line="74" column="14" />
         <mark key="]" line="64" column="7" />
@@ -430,6 +435,9 @@
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" timestamp="1517371291242">
+        <mark key="'" line="95" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncRequest.java" timestamp="1515385968609">
         <mark key="[" line="7" column="30" />
       </file>
@@ -454,7 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="24" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/pom.xml" />
       <jump line="56" column="21" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/pom.xml" />
       <jump line="57" column="24" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/pom.xml" />
       <jump line="631" column="55" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/dao/ConfigurationDaoTest.java" />
@@ -554,6 +561,7 @@
       <jump line="46" column="21" filename="$USER_HOME$/workspace/exercises/interactiveconsole/src/main/java/vip/meetus/exer/interactiveconsole/Main.java" />
       <jump line="37" column="31" filename="$USER_HOME$/workspace/exercises/interactiveconsole/src/main/java/vip/meetus/exer/interactiveconsole/Main.java" />
       <jump line="123" column="53" filename="$USER_HOME$/workspace/exercises/interactiveconsole/src/main/java/vip/meetus/exer/interactiveconsole/Main.java" />
+      <jump line="95" column="20" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -570,8 +578,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdC5zZXQK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -601,7 +609,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXJtaW5hbEZhY3RvcnlcPg==</text>
+        <text encoding="base64">XDxmdWxsU3luY1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxibFN0YXR1cy5zZXRUZXh0KCJyZXNldHRpbmcgb3JnLi4uIik7Cg==</text>
@@ -610,7 +618,7 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdC5zZXQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -619,34 +627,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYmxTdGF0dXMuc2V0VGV4dCgicmVzZXR0aW5nIG9yZy4uLiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dEdVSS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYmxTdGF0dXMuc2V0VGV4dCgicmVzZXR0aW5nIG9yZy4uLiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2luZG93Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dEdVSS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9vdENvbnRhaW5lci5hZGRDb21wb25lbnQobmV3IExhYmVsKCJzdGF0dXM6Iikuc2V0TGF5b3V0RGF0YShHcmlkTGF5b3V0LmNyZWF0ZUhvcml6b250YWxseUZpbGxlZExheW91dERhdGEoMikpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgTGFiZWwgbGJsU3RhdHVzID0gbmV3IExhYmVsKCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9vdENvbnRhaW5lci5hZGRDb21wb25lbnQobmV3IExhYmVsKCJzdGF0dXM6Iikuc2V0TGF5b3V0RGF0YShHcmlkTGF5b3V0LmNyZWF0ZUhvcml6b250YWxseUZpbGxlZExheW91dERhdGEoMikpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAgKiAxMDAwKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdhaXRpbmdEaWFsb2cuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgTGFiZWwgbGJsU3RhdHVzID0gbmV3IExhYmVsKCIiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXJtaW5hbEZhY3RvcnlcPg==</last-search>
+      <last-search encoding="base64">XDxmdWxsU3luY1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXJtaW5hbEZhY3RvcnlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmdWxsU3luY1w+</last-pattern>
       <last-replace encoding="base64">Q2FjaGVkUmVxdWVzdFw8Ulw+</last-replace>
       <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
@@ -654,7 +662,6 @@
     </search>
     <history>
       <history-search>
-        <entry>a9e3</entry>
         <entry>testuser1@</entry>
         <entry>testuser1</entry>
         <entry>testuser2</entry>
@@ -674,6 +681,7 @@
         <entry>protected</entry>
         <entry>T</entry>
         <entry encoding="base64">XDx0ZXJtaW5hbEZhY3RvcnlcPg==</entry>
+        <entry encoding="base64">XDxmdWxsU3luY1w+</entry>
       </history-search>
       <history-cmd>
         <entry>jumps</entry>
