@@ -23,7 +23,6 @@
         <mark key="^" line="27" column="36" />
         <mark key="." line="27" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/TaskImpl.java" timestamp="1517369420609" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/format/ldap/LdifReader.java" timestamp="1514502916457">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -184,7 +183,6 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/Failover.java" timestamp="1517369340076" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncProcessor.java" timestamp="1515387151770">
         <mark key="[" line="26" column="48" />
         <mark key="]" line="26" column="48" />
@@ -318,7 +316,6 @@
         <mark key="." line="11" column="58" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/syncprovider/DefaultSyncProviderImpl.java" timestamp="1517368905298" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/SyncProcessor.java" timestamp="1514355145202">
         <mark key="[" line="7" column="6" />
       </file>
@@ -354,6 +351,10 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/SyncTaskAvatarHandlerImpl.java" timestamp="1518050552303">
+        <mark key="'" line="297" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/ci/ClientFactory.java" timestamp="1518050730965" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1515390871346">
         <mark key="[" line="74" column="14" />
         <mark key="]" line="64" column="7" />
@@ -435,7 +436,7 @@
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" timestamp="1517371291242">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" timestamp="1517374671370">
         <mark key="'" line="95" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncRequest.java" timestamp="1515385968609">
@@ -462,11 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="21" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/pom.xml" />
-      <jump line="57" column="24" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/pom.xml" />
-      <jump line="631" column="55" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/dao/ConfigurationDaoTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/dao/ConfigurationDaoTest.java" />
-      <jump line="41" column="51" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/dao/ConfigurationDaoTest.java" />
       <jump line="93" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncAttributeMapping.java" />
       <jump line="100" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncAttributeMapping.java" />
       <jump line="104" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncAttributeMapping.java" />
@@ -562,6 +558,11 @@
       <jump line="37" column="31" filename="$USER_HOME$/workspace/exercises/interactiveconsole/src/main/java/vip/meetus/exer/interactiveconsole/Main.java" />
       <jump line="123" column="53" filename="$USER_HOME$/workspace/exercises/interactiveconsole/src/main/java/vip/meetus/exer/interactiveconsole/Main.java" />
       <jump line="95" column="20" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" />
+      <jump line="163" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/SyncTaskAvatarHandlerImpl.java" />
+      <jump line="177" column="44" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/SyncTaskAvatarHandlerImpl.java" />
+      <jump line="178" column="28" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/SyncTaskAvatarHandlerImpl.java" />
+      <jump line="226" column="15" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/SyncTaskAvatarHandlerImpl.java" />
+      <jump line="297" column="15" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/SyncTaskAvatarHandlerImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -609,7 +610,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdWxsU3luY1w+</text>
+        <text encoding="base64">XDxhdmF0YXJDbGllbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxibFN0YXR1cy5zZXRUZXh0KCJyZXNldHRpbmcgb3JnLi4uIik7Cg==</text>
@@ -652,9 +653,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdWxsU3luY1w+</last-search>
+      <last-search encoding="base64">XDxhdmF0YXJDbGllbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdWxsU3luY1w+</last-pattern>
+      <last-pattern encoding="base64">XDxhdmF0YXJDbGllbnRcPg==</last-pattern>
       <last-replace encoding="base64">Q2FjaGVkUmVxdWVzdFw8Ulw+</last-replace>
       <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
@@ -662,7 +663,6 @@
     </search>
     <history>
       <history-search>
-        <entry>testuser1@</entry>
         <entry>testuser1</entry>
         <entry>testuser2</entry>
         <entry>test5</entry>
@@ -682,6 +682,7 @@
         <entry>T</entry>
         <entry encoding="base64">XDx0ZXJtaW5hbEZhY3RvcnlcPg==</entry>
         <entry encoding="base64">XDxmdWxsU3luY1w+</entry>
+        <entry encoding="base64">XDxhdmF0YXJDbGllbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>jumps</entry>
