@@ -46,10 +46,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/flutter/firstapp/lib/main.dart" timestamp="1518324624210">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="72" column="64" />
-        <mark key="." line="72" column="64" />
+      <file name="$USER_HOME$/workspace/exercises/flutter/firstapp/lib/main.dart" timestamp="1518327118023">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="35" />
+        <mark key="." line="32" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/IdentityInputFactory.java" timestamp="1514432721994">
         <mark key="[" line="7" column="37" />
@@ -608,7 +608,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>products</text>
+        <text>min</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -638,7 +638,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>products</text>
+        <text>min</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdmF0YXJDbGllbnRcPg==</text>
@@ -650,34 +650,37 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYWluQXhpc1NpemU6IE1haW5BeGlzU2l6ZS5taW4sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBfU2hvcHBpbmdMaXN0U3RhdGUodGhpcy5wcm9kdWN0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcm9zc0F4aXNBbGlnbm1lbnQ6IENyb3NzQXhpc0FsaWdubWVudC5zdGFydCwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBmaW5hbCBMaXN0PFByb2R1Y3Q+IHByb2R1Y3RzOwo=</text>
+      <register name="3" type="4">
+        <text>new Scaffold(
+      appBar: new AppBar(title: new Text(&quot;Widgets Show&quot;),),
+      body: new MyWidgetShow()
+    )</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpZGdldC5wcm9kdWN0cwo=</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>product</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBidWlsZAo=</text>
       </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgY2xhc3MgTXlXaWRnZXRTaG93IA==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQ6IGNvbnN0IEZsdXR0ZXJMb2dvKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjaGlsZDogCg==</text>
       </register>
       <register name=":" type="4">
         <text>register</text>
