@@ -54,6 +54,13 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/IdentityInputFactory.java" timestamp="1514432721994">
         <mark key="[" line="7" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/AbstractSyncTaskAvatarHandlerTest.java" timestamp="1519964738092">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/concurrent/executor/ScalableThreadPoolExecutorTest.java" timestamp="1514857813603">
         <mark key="[" line="184" column="41" />
         <mark key="]" line="22" column="69" />
@@ -430,7 +437,7 @@
         <mark key="." line="34" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" timestamp="1516751182187" />
-      <file name="/Dummy.txt" timestamp="1519770131067">
+      <file name="/Dummy.txt" timestamp="1519964293237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/ModifyInput.java" timestamp="1515380590829">
@@ -484,7 +491,7 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/SyncCloud2.java" timestamp="1514335497957">
         <mark key="[" line="7" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1519770131106">
+      <file name="/fragment.java" timestamp="1519964461022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncService.java" timestamp="1514505417914">
@@ -494,7 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="24" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-2nd-fullSync.ldif" />
       <jump line="289" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-fullSync.ldif" />
       <jump line="41" column="27" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/resources/DirSyncServiceSyncTest-2nd-fullSync.ldif" />
       <jump line="373" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/datastore/DirSyncServiceSyncTest.java" />
@@ -594,6 +600,7 @@
       <jump line="28" column="0" filename="$USER_HOME$/workspace/exercises/flutter/firstapp/lib/main.dart" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/exercises/flutter/firstapp/lib/main.dart" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/exercises/flutter/firstapp/lib/main.dart" />
+      <jump line="20" column="4" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/AbstractSyncTaskAvatarHandlerTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -611,7 +618,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -641,7 +648,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdmF0YXJDbGllbnRcPg==</text>
