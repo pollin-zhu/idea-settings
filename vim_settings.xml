@@ -362,12 +362,18 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/SyncProcessor.java" timestamp="1514355145202">
         <mark key="[" line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleUtils.java" timestamp="1520318891454">
-        <mark key="'" line="304" column="30" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleUtils.java" timestamp="1520320494020">
+        <mark key="'" line="313" column="45" />
         <mark key="[" line="284" column="52" />
         <mark key="]" line="285" column="99" />
         <mark key="^" line="285" column="99" />
         <mark key="." line="285" column="99" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncResultBuilder.java" timestamp="1520320810967">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="8" />
+        <mark key="." line="53" column="8" />
+        <mark key="^" line="59" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/processor/IdentityTargets.java" timestamp="1514519755428">
         <mark key="[" line="7" column="30" />
@@ -428,6 +434,12 @@
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" timestamp="1520301237172">
         <mark key="'" line="181" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/UniqueIdFinder.java" timestamp="1520320071410">
+        <mark key="[" line="33" column="45" />
+        <mark key="]" line="33" column="99" />
+        <mark key="^" line="33" column="99" />
+        <mark key="." line="33" column="99" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/AbstractSyncProcessor.java" timestamp="1516067845129">
         <mark key="[" line="39" column="77" />
@@ -530,8 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="42" filename="$USER_HOME$/workspace/git/ci/CI-Automation-Framework/src/main/java/com/cisco/codev/identity/automation/framework/cloudconnector/CloudConnector.java" />
-      <jump line="842" column="82" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="1118" column="43" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" />
       <jump line="1110" column="53" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" />
       <jump line="614" column="61" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
@@ -630,6 +640,8 @@
       <jump line="45" column="78" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncInput.java" />
       <jump line="44" column="69" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncInput.java" />
       <jump line="60" column="10" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/AbstractSyncError.java" />
+      <jump line="313" column="45" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleUtils.java" />
+      <jump line="508" column="26" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleUtils.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -646,8 +658,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNhdGFnb3J5ID0gY2F0YWdvcnk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SyncResultImpl.class.cast(syncResult)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -677,7 +689,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+        <text>SyncResultImpl.class.cast(syncResult)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdmF0YXJDbGllbnRcPg==</text>
