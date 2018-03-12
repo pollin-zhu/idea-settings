@@ -105,6 +105,7 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/protocol/ldap/LdifReader.java" timestamp="1514456209582">
         <mark key="[" line="27" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/SyncUtils.java" timestamp="1520844362087" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/source/ldap/Constants4SourceLdap.java" timestamp="1514455327158">
         <mark key="[" line="7" column="39" />
       </file>
@@ -363,12 +364,12 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" timestamp="1520842055275">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="63" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="107" column="103" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" timestamp="1520844452636">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="165" column="24" />
+        <mark key="]" line="137" column="7" />
+        <mark key="." line="137" column="7" />
+        <mark key="^" line="137" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/impl/format/ldapwithheader/LdapWithHeaderWriter.java" timestamp="1515634379336">
         <mark key="[" line="12" column="33" />
@@ -555,7 +556,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>LogMessage</text>
+        <text>level.getLogLevel()</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -585,7 +586,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>LogMessage</text>
+        <text>level.getLogLevel()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdmF0YXJDbGllbnRcPg==</text>
