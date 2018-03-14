@@ -221,7 +221,6 @@
         <mark key="^" line="165" column="68" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTaskHandler.java" timestamp="1520909267685" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" timestamp="1520847741227">
         <mark key="[" line="1661" column="49" />
         <mark key="]" line="1661" column="49" />
@@ -398,8 +397,11 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/SyncException.java" timestamp="1514431970163">
         <mark key="[" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/SyncSummary.java" timestamp="1520909430499">
-        <mark key="[" line="7" column="26" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/SyncSummary.java" timestamp="1520989001934">
+        <mark key="[" line="74" column="41" />
+        <mark key="]" line="75" column="19" />
+        <mark key="^" line="75" column="19" />
+        <mark key="." line="75" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/SyncPreHandler.java" timestamp="1514346510629">
         <mark key="[" line="7" column="33" />
@@ -546,8 +548,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>lm.getMessage()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -577,7 +579,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>lm.getMessage()</text>
+        <text>isti</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdmF0YXJDbGllbnRcPg==</text>
@@ -589,34 +591,34 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXQuZ2V0TG9nTWVzc2FnZXMoKS5hZGQobG0uZ2V0TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAkJCQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZGVudGl0eVN0YXQuYWRkZWRTdWNjZXNzCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAJCQkJCSYmIHRhc2tTdGF0dXMuZ2V0TG9nTWVzc2FnZXMoKSAhPSBudWxsCiAgICAJCQkJCSYmIHRhc2tTdGF0dXMuZ2V0TG9nTWVzc2FnZXMoKS5nZXRMb2dNZXNzYWdlKCkuc2l6ZSgpID4gMCl7CiAgICAJCQkJZm9yKExvZ01lc3NhZ2UgbG0gOiB0YXNrU3RhdHVzLmdldExvZ01lc3NhZ2VzKCkuZ2V0TG9nTWVzc2FnZSgp</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHRvdGFsTWlzbWF0Y2hlZDsK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2V0TG9nTWVzc2FnZXMoTG9nTWVzc2FnZXMgbG9nTXNncykgewogICAgICAgIHRoaXMubG9nTWVzc2FnZXMgPSBsb2dNc2dzOwogICAgfQoK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHRvdGFsTW9kaWZpZWRJZGVudGl0eTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHRvdGFsRGVsZXRlZElkZW50aXR5Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldExvZ01lc3NhZ2VzKExvZ01lc3NhZ2VzIGxvZ01zZ3MpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHRvdGFsQWRkZWRJZGVudGl0eTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTeW5jUmVzdWx0QnVpbGRlciBhZGRMb2dNZXNzYWdlKGZpbmFsIExvZ0xldmVsIGxvZ0xldmVsLCBmaW5hbCBTdHJpbmcga2V5LCBmaW5hbCBTdHJpbmcuLi4gYXJncykgewogICAgICAgIGZpbmFsIExvZ01lc3NhZ2UgbG9nTWVzc2FnZSA9IFN5bmNNb2R1bGVVdGlscy5nZXRMb2dNZXNzYWdlKGxvZ0xldmVsLCBrZXksIGFyZ3MpOwogICAgICAgIHRoaXMubG9nTWVzc2FnZXMuYWRkKGxvZ01lc3NhZ2UpOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRMb2dNZXNzYWdlKExvZ0xldmVsLkVSUk9SLCAibWFwcGVkQ2xvdWRFbnRyeURvbnRFeGlzdHMiLCBzeW5jSW5wdXQuZ2V0T25QcmVtSWQoKSkK</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyBjbGFzcyBTdGF0aXN0aWMgewogICAgCn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
