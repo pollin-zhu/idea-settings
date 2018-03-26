@@ -379,6 +379,7 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/DeleteInput.java" timestamp="1515380604844">
         <mark key="[" line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncCloud.java" timestamp="1522047348379" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/SyncDispatcher.java" timestamp="1514452278597">
         <mark key="[" line="27" column="30" />
         <mark key="]" line="32" column="7" />
@@ -511,7 +512,7 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncRequest.java" timestamp="1515385968609">
         <mark key="[" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/FriendlyMessage.java" timestamp="1522045478872">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/FriendlyMessage.java" timestamp="1522047037062">
         <mark key="[" line="20" column="40" />
         <mark key="]" line="19" column="120" />
         <mark key="." line="19" column="120" />
