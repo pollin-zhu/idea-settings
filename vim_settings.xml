@@ -365,7 +365,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/CategoryComparator.java" timestamp="1522113168452">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/CategoryComparator.java" timestamp="1522117238035">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -446,8 +446,8 @@
         <mark key="." line="40" column="53" />
         <mark key="^" line="40" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/CategoryRender.java" timestamp="1522115440090">
-        <mark key="[" line="3" column="3" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/CategoryRender.java" timestamp="1522117145777">
+        <mark key="[" line="13" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1514522758767">
         <mark key="[" line="55" column="22" />
@@ -533,11 +533,11 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/SyncException.java" timestamp="1514431970163">
         <mark key="[" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRender.java" timestamp="1522115810381">
-        <mark key="[" line="36" column="48" />
-        <mark key="]" line="35" column="61" />
-        <mark key="^" line="35" column="61" />
-        <mark key="." line="35" column="61" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRender.java" timestamp="1522117807000">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="98" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/SyncReportRender.java" timestamp="1522112829176">
         <mark key="[" line="20" column="48" />
@@ -669,8 +669,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>category rende</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -700,7 +700,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>category rende</text>
+        <text encoding="base64">TWFwLkVudHJ5PENhdGVnb3J5LCBDYXRlZ29yeVJlbmRlcj4gZW50cnk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXNrU3RhdHVzXD4=</text>
@@ -712,34 +712,34 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jb2Rldi5pZGVudGl0eS5jb25uZWN0b3JzZXJ2aWNlLmNvbW1vbnR5cGVzLnYxXzAuTG9nTGV2ZWw7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jb2Rldi5pZGVudGl0eS5jb25uZWN0b3JzZXJ2aWNlLmNvbW1vbnR5cGVzLnYxXzAuTG9nTWVzc2FnZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jb2Rldi5pZGVudGl0eS5jb25uZWN0b3JzZXJ2aWNlLmNvbW1vbnR5cGVzLnYxXzAuTG9nTWVzc2FnZXM7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgOwo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jb2Rldi5pZGVudGl0eS5jb25uZWN0b3JzZXJ2aWNlLmNvbW1vbnR5cGVzLnYxXzAuTG9nTWVzc2FnZTsK</text>
+        <text encoding="base64">ICAgICAgICBjYXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jb2Rldi5pZGVudGl0eS5zcGkuU3BpU2Vzc2lvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jb2Rldi5pZGVudGl0eS5jb25uZWN0b3JzZXJ2aWNlLmNvbW1vbnR5cGVzLnYxXzAuTG9nTGV2ZWw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jb2Rldi5pZGVudGl0eS5jb25uZWN0b3JzZXJ2aWNlLmNvbW1vbnR5cGVzLnYxXzAuTG9nTWVzc2FnZXM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jb2Rldi5pZGVudGl0eS5jb25uZWN0b3JzZXJ2aWNlLmNvbW1vbnR5cGVzLnYxXzAuTG9nTWVzc2FnZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jb2Rldi5pZGVudGl0eS5jb25uZWN0b3JzZXJ2aWNlLmNvbW1vbnR5cGVzLnYxXzAuTG9nTWVzc2FnZXM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG87Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jb2Rldi5pZGVudGl0eS5jb25uZWN0b3JzZXJ2aWNlLmNvbW1vbnR5cGVzLnYxXzAuTG9nTWVzc2FnZXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>+10</text>
