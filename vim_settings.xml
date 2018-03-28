@@ -356,12 +356,12 @@
         <mark key="." line="297" column="53" />
         <mark key="^" line="296" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRenderTest.java" timestamp="1522214887430">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRenderTest.java" timestamp="1522221813615">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="90" column="61" />
-        <mark key="]" line="90" column="61" />
-        <mark key="." line="90" column="61" />
-        <mark key="^" line="93" column="20" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="102" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncResultBuilder.java" timestamp="1520842509907">
         <mark key="[" line="20" column="23" />
@@ -454,8 +454,10 @@
         <mark key="." line="40" column="53" />
         <mark key="^" line="40" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/CategoryRender.java" timestamp="1522214684324">
-        <mark key="[" line="13" column="49" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/CategoryRender.java" timestamp="1522219627984">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1514522758767">
         <mark key="[" line="55" column="22" />
@@ -677,8 +679,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -708,72 +710,46 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">bmV3IEFycmF5TGlzdDxDYXRlZ29yeT4oYmFzaWNTb3J0ZWRDYXRlZ29yaWVzKS50b0FycmF5KG5ldyBDYXRlZ29yeVtiYXNpY1NvcnRlZENhdGVnb3JpZXMubGVuZ3RoXSk7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXNrU3RhdHVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jb2Rldi5pZGVudGl0eS5jb21tb24uRnJpZW5kbHlNZXNzYWdlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPENhdGVnb3J5LCBDYXRlZ29yeVJlbmRlcj4gYnVpbGRDYXRlZ29yeVJlbmRlck1hcChmaW5hbCBDYXRlZ29yeVtdIHNvcnRlZENhdGVnb3JpZXMpIHsKICAgICAgICBmaW5hbCBTdHJpbmdbXSB0ZXh0TWVzc2FnZXMgPSBuZXcgU3RyaW5nW3NvcnRlZENhdGVnb3JpZXMubGVuZ3RoXTsKICAgICAgICBBcnJheXMuZmlsbCh0ZXh0TWVzc2FnZXMsICJtZXNzYWdlIik7CgogICAgICAgIGZpbmFsIExpc3Q8PyBleHRlbmRzIENhdGVnb3J5UmVuZGVyPiByZW5kZXJzID0gYnVpbGRDYXRlZ29yeVJlbmRlcnModGV4dE1lc3NhZ2VzKTsKICAgICAgICByZXR1cm4gYnVpbGRDYXRlZ29yeVJlbmRlck1hcChzb3J0ZWRDYXRlZ29yaWVzLCByZW5kZXJzLnRvQXJyYXkobmV3IENhdGVnb3J5UmVuZGVyW3JlbmRlcnMuc2l6ZSgpXSkpOwogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlbihjYXRlZ29yeVJlbmRlci5nZXRPcmRlcigpKS50aGVuUmV0dXJuKGkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgQ2F0ZWdvcnlSZW5kZXIgY2F0ZWdvcnlSZW5kZXIgPSBtb2NrKENhdGVnb3J5UmVuZGVyLmNsYXNzKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZmluYWwgTGlzdDw/IGV4dGVuZHMgQ2F0ZWdvcnlSZW5kZXI+IHJlbmRlcnMgPSBidWlsZENhdGVnb3J5UmVuZGVycyh0ZXh0TWVzc2FnZXMpOwogICAgICAgIHJldHVybiBidWlsZENhdGVnb3J5UmVuZGVyTWFwKHNvcnRlZENhdGVnb3JpZXMsIHJlbmRlcnMudG9BcnJheShuZXcgQ2F0ZWdvcnlSZW5kZXJbcmVuZGVycy5zaXplKCldKSk7</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZmluYWwgTGlzdDw/IGV4dGVuZHMgQ2F0ZWdvcnlSZW5kZXI+IHJlbmRlcnMgPSBidWlsZENhdGVnb3J5UmVuZGVycyh0ZXh0TWVzc2FnZXMpOwogICAgICAgIHJldHVybiBidWlsZENhdGVnb3J5UmVuZGVyTWFwKHNvcnRlZENhdGVnb3JpZXMsIHJlbmRlcnMudG9BcnJheShuZXcgQ2F0ZWdvcnlSZW5kZXJbcmVuZGVycy5zaXplKCldKSk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgZmluYWwgU3RyaW5nIHJlc3VsdCA9IHRlc3QucmVuZGVyKENvbGxlY3Rpb25zLkVNUFRZX0xJU1QpOwoKICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5pc0VtcHR5KCksIGlzKHRydWUpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICB0ZXN0LnNldENhdGVnb3J5UmVuZGVycyhidWlsZENhdGVnb3J5UmVuZGVycyhzb3J0ZWRDYXRlZ29yaWVzKSk7CiAgICAgICAgdGVzdC5pb2NJbml0KCk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmdbXSB0ZXh0TWVzc2FnZXMgPSBuZXcgU3RyaW5nW3NvcnRlZENhdGVnb3JpZXMubGVuZ3RoXTsKICAgICAgICBBcnJheXMuZmlsbCh0ZXh0TWVzc2FnZXMsICJtZXNzYWdlIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0LnNldENhdGVnb3J5UmVuZGVycyhidWlsZENhdGVnb3J5UmVuZGVycyhzb3J0ZWRDYXRlZ29yaWVzKSk7CiAgICAgICAgdGVzdC5pb2NJbml0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>final Category[] sortedCategories = {
-            Category.SUMMARY,
-            Category.DELETE_ALL_ADMIN
-        };
-        test.setCategoryRenders(buildCategoryRenders(sortedCategories));
-        test.iocInit();</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>,
-            Category.UNKNOWN_EXCEPTION_GLOBALLY,
-            Category.MULTIPLE_MATCH,
-            Category.MISS_REQUIRED_ATTR,
-            Category.BAD_INPUT,
-            Category.CLOUD_IDENTITY_NOT_EXIST,
-            Category.EXTERNAL_ID_NOT_MATCH,
-            Category.UNKNOWN_EXCEPTION_IDENTITY,
-            Category.AVATAR_FAIL</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>final Category[] sortedCategories = {
-            Category.SUMMARY,
-            Category.DELETE_ALL_ADMIN,
-            Category.UNKNOWN_EXCEPTION_GLOBALLY,
-            Category.MULTIPLE_MATCH,
-            Category.MISS_REQUIRED_ATTR,
-            Category.BAD_INPUT,
-            Category.CLOUD_IDENTITY_NOT_EXIST,
-            Category.EXTERNAL_ID_NOT_MATCH,
-            Category.UNKNOWN_EXCEPTION_IDENTITY,
-            Category.AVATAR_FAIL
-        };
-        test.setCategoryRenders(buildCategoryRenders(sortedCategories));
-        test.iocInit();</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPENhdGVnb3J5LCBDYXRlZ29yeVJlbmRlcj4gYnVpbGRDYXRlZ29yeVJlbmRlck1hcCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>+10</text>
