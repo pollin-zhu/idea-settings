@@ -55,7 +55,6 @@
         <mark key="^" line="113" column="9" />
         <mark key="." line="127" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1522115653544" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/TestDirSyncReportSender.java" timestamp="1521619704035">
         <mark key="[" line="246" column="20" />
         <mark key="]" line="246" column="35" />
@@ -357,11 +356,12 @@
         <mark key="." line="297" column="53" />
         <mark key="^" line="296" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRenderTest.java" timestamp="1522130927138">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRenderTest.java" timestamp="1522214887430">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="90" column="61" />
+        <mark key="]" line="90" column="61" />
+        <mark key="." line="90" column="61" />
+        <mark key="^" line="93" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncResultBuilder.java" timestamp="1520842509907">
         <mark key="[" line="20" column="23" />
@@ -454,8 +454,8 @@
         <mark key="." line="40" column="53" />
         <mark key="^" line="40" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/CategoryRender.java" timestamp="1522117145777">
-        <mark key="[" line="13" column="31" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/CategoryRender.java" timestamp="1522214684324">
+        <mark key="[" line="13" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1514522758767">
         <mark key="[" line="55" column="22" />
@@ -541,11 +541,11 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/SyncException.java" timestamp="1514431970163">
         <mark key="[" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRender.java" timestamp="1522132077688">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="62" column="52" />
-        <mark key="." line="62" column="52" />
-        <mark key="^" line="62" column="52" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRender.java" timestamp="1522213978563">
+        <mark key="[" line="70" column="94" />
+        <mark key="]" line="69" column="70" />
+        <mark key="." line="69" column="70" />
+        <mark key="^" line="69" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/SyncReportRender.java" timestamp="1522112829176">
         <mark key="[" line="20" column="48" />
@@ -678,7 +678,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getCategoryListMap</text>
+        <text>s</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -708,7 +708,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>getCategoryListMap</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXNrU3RhdHVzXD4=</text>
@@ -720,43 +720,60 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlbihjYXRlZ29yeVJlbmRlci5nZXRPcmRlcigpKS50aGVuUmV0dXJuKGkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAobWVzc2FnZXNCeUNhdGVnb3J5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgQ2F0ZWdvcnlSZW5kZXIgY2F0ZWdvcnlSZW5kZXIgPSBtb2NrKENhdGVnb3J5UmVuZGVyLmNsYXNzKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVHJlZVNldDxDYXRlZ29yeT4oKTsK</text>
+        <text encoding="base64">CiAgICAgICAgZmluYWwgU3RyaW5nIHJlc3VsdCA9IHRlc3QucmVuZGVyKENvbGxlY3Rpb25zLkVNUFRZX0xJU1QpOwoKICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5pc0VtcHR5KCksIGlzKHRydWUpKTsK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKgoJICAgICAqIHNvcnQgbWVzc2FnZXM6ICh0aGUgdG9wIG9uZSBoYXMgaGlnaCBwcmlvcml0eSB0aGFuIGJvdHRvbSkKCSAgICAgKiAgIy4gU3VtbWFyeQoJICAgICAqICAjLiBhbGwgYWRtaW5zIHRvIGJlIGRlbGV0ZWQKCSAgICAgKiAgIy4gR2xvYmFsIGVycm9ycwoJICAgICAqICAjLiBkdXBsaWNhdGVkIGlkZW50aXRpZXMKCSAgICAgKiAgIy4gYmFkIGlucHV0IChpbmNsdWRpbmcgY2FzZSBvZiByZXF1aXJlZCBhdHRyaWJ1dGUgbWlzc2VkKQoJICAgICAqICAjLiBubyBtYXRjaGVkIGlkZW50aXRpZXMKCSAgICAgKiAgIy4gbGlua2VkIGF0dHJpYnV0ZSBjb25mbGljdGVkCgkgICAgICogICMuIGZhaWxlZCBkdXJpbmcgb3BlcmF0aW9uCgkgICAgICogICMuIGZhaWxlZCBhdmF0YXIKCSAgICAgKgoJICAgICAqLwoK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICB0ZXN0LnNldENhdGVnb3J5UmVuZGVycyhidWlsZENhdGVnb3J5UmVuZGVycyhzb3J0ZWRDYXRlZ29yaWVzKSk7CiAgICAgICAgdGVzdC5pb2NJbml0KCk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaXNjby5jb2Rldi5pZGVudGl0eS5jb21tb24uRnJpZW5kbHlNZXNzYWdlOwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0LnNldENhdGVnb3J5UmVuZGVycyhidWlsZENhdGVnb3J5UmVuZGVycyhzb3J0ZWRDYXRlZ29yaWVzKSk7CiAgICAgICAgdGVzdC5pb2NJbml0KCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJlZm9yZSArICIgPCAiICsgbmV4dCk7Cg==</text>
+      <register name="7" type="4">
+        <text>final Category[] sortedCategories = {
+            Category.SUMMARY,
+            Category.DELETE_ALL_ADMIN
+        };
+        test.setCategoryRenders(buildCategoryRenders(sortedCategories));
+        test.iocInit();</text>
       </register>
-      <register name="8" type="8">
-        <text>FriendlyMessage.
-FriendlyMessage.
-FriendlyMessage.
-FriendlyMessage.
-FriendlyMessage.
-FriendlyMessage.
-FriendlyMessage.
-FriendlyMessage.
-FriendlyMessage.
-FriendlyMessage.</text>
+      <register name="8" type="4">
+        <text>,
+            Category.UNKNOWN_EXCEPTION_GLOBALLY,
+            Category.MULTIPLE_MATCH,
+            Category.MISS_REQUIRED_ATTR,
+            Category.BAD_INPUT,
+            Category.CLOUD_IDENTITY_NOT_EXIST,
+            Category.EXTERNAL_ID_NOT_MATCH,
+            Category.UNKNOWN_EXCEPTION_IDENTITY,
+            Category.AVATAR_FAIL</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>final Category[] sortedCategories = {
+            Category.SUMMARY,
+            Category.DELETE_ALL_ADMIN,
+            Category.UNKNOWN_EXCEPTION_GLOBALLY,
+            Category.MULTIPLE_MATCH,
+            Category.MISS_REQUIRED_ATTR,
+            Category.BAD_INPUT,
+            Category.CLOUD_IDENTITY_NOT_EXIST,
+            Category.EXTERNAL_ID_NOT_MATCH,
+            Category.UNKNOWN_EXCEPTION_IDENTITY,
+            Category.AVATAR_FAIL
+        };
+        test.setCategoryRenders(buildCategoryRenders(sortedCategories));
+        test.iocInit();</text>
       </register>
       <register name=":" type="4">
         <text>+10</text>
