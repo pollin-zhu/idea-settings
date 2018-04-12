@@ -269,7 +269,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="51" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/AbstractCategoryRender.java" timestamp="1522286769364">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/AbstractCategoryRender.java" timestamp="1523496449373">
         <mark key="[" line="7" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/FriendlyMessage.java" timestamp="1520387972710">
@@ -463,10 +463,10 @@
         <mark key="." line="40" column="53" />
         <mark key="^" line="40" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/CategoryRender.java" timestamp="1523494228716">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/CategoryRender.java" timestamp="1523496557065">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1514522758767">
         <mark key="[" line="55" column="22" />
@@ -511,10 +511,11 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/AbstractSyncFinder.java" timestamp="1520400280832">
         <mark key="[" line="21" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/SummaryRender.java" timestamp="1522286378385">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="25" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/SummaryRender.java" timestamp="1523497054243">
+        <mark key="[" line="20" column="112" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="8" />
+        <mark key="^" line="22" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/AddRequest.java" timestamp="1515975806286">
         <mark key="[" line="9" column="49" />
@@ -557,11 +558,10 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/SyncException.java" timestamp="1514431970163">
         <mark key="[" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRender.java" timestamp="1523495050637">
-        <mark key="[" line="64" column="28" />
-        <mark key="]" line="69" column="70" />
-        <mark key="." line="69" column="70" />
-        <mark key="^" line="69" column="70" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRender.java" timestamp="1523497110889">
+        <mark key="[" line="70" column="94" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/SyncReportRender.java" timestamp="1523493232596">
         <mark key="[" line="7" column="3" />
@@ -693,8 +693,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>com.cisco.codev.identity.common.FriendlyMessage.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VzKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -724,7 +724,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>com.cisco.codev.identity.common.FriendlyMessage.</text>
+        <text>implements CategoryRender</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXNrU3RhdHVzXD4=</text>
@@ -736,12 +736,33 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VzKQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBnZXRPcmRlcigpIHsKICAgICAgICByZXR1cm4gb3JkZXI7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0T3JkZXIoZmluYWwgaW50IG9yZGVyKSB7CiAgICAgICAgdGhpcy5vcmRlciA9IG9yZGVyOwogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUK</text>
+      </register>
+      <register name="t" type="2">
+        <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG9yZGVyOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFN1bW1hcnlSZW5kZXIgaW1wbGVtZW50cyBDYXRlZ29yeVJlbmRlciB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCBDYXRlZ29yeVtdIGNhdGVnb3JpZXMgPSBBcnJheXMuY29weU9mKGJhc2ljU29ydGVkQ2F0ZWdvcmllcywgYmFzaWNTb3J0ZWRDYXRlZ29yaWVzLmxlbmd0aCk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>for (final Category category : categories) {
             textMessages.add(&quot;rendered message for category: &quot; + category + &quot;\n&quot;);
         }
@@ -750,27 +771,6 @@
         final String result = test.render(buildMessageWrappers(categories));
 
         assertThat(result, is(Joiner.on(&quot;&quot;).join(textMessages)));</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PFN0cmluZz4gdGV4dE1lc3NhZ2VzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
-      </register>
-      <register name="t" type="2">
-        <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTZXQ8Q2F0ZWdvcnk+IGFsbENhdGVnb3JpZXMgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxDYXRlZ29yaWVzLmFkZAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBDYXRlZ29yeVtdIGNhdGVnb3JpZXMgPSBBcnJheXMuY29weU9mKGJhc2ljU29ydGVkQ2F0ZWdvcmllcywgYmFzaWNTb3J0ZWRDYXRlZ29yaWVzLmxlbmd0aCk7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IAogICAgcHJpdmF0ZSB2b2lkIHJ1blJlbmRlcihmaW5hbCBTdHJpbmcgZXhwZWN0ZWRSZXN1bHQsIGZpbmFsICk=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>+10</text>
