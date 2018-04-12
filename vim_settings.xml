@@ -552,6 +552,12 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/SyncException.java" timestamp="1514431970163">
         <mark key="[" line="7" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/section-base.html" timestamp="1523512958195">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRender.java" timestamp="1523497110889">
         <mark key="[" line="70" column="94" />
         <mark key="]" line="72" column="0" />
@@ -688,7 +694,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Summ</text>
+        <text>start</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -718,53 +724,46 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>Summ</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXNrU3RhdHVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPENhdGVnb3J5LCBDYXRlZ29yeVJlbmRlcj4gYnVpbGRDYXRlZ29yeVJlbmRlck1hcChmaW5hbCBDYXRlZ29yeVtdIHNvcnRlZENhdGVnb3JpZXMpIHsKICAgICAgICBmaW5hbCBTdHJpbmdbXSB0ZXh0TWVzc2FnZXMgPSBuZXcgU3RyaW5nW3NvcnRlZENhdGVnb3JpZXMubGVuZ3RoXTsKICAgICAgICBBcnJheXMuZmlsbCh0ZXh0TWVzc2FnZXMsICJtZXNzYWdlIik7CgogICAgICAgIGZpbmFsIExpc3Q8PyBleHRlbmRzIENhdGVnb3J5UmVuZGVyPiByZW5kZXJzID0gYnVpbGRDYXRlZ29yeVJlbmRlcnModGV4dE1lc3NhZ2VzKTsKICAgICAgICByZXR1cm4gYnVpbGRDYXRlZ29yeVJlbmRlck1hcChzb3J0ZWRDYXRlZ29yaWVzLCByZW5kZXJzLnRvQXJyYXkobmV3IENhdGVnb3J5UmVuZGVyW3JlbmRlcnMuc2l6ZSgpXSkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHslIGJsb2NrIHNlY3Rpb24tc3RhcnQgJX17JSBlbmRibG9jayAlfQo=</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VzKQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VzKQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBnZXRPcmRlcigpIHsKICAgICAgICByZXR1cm4gb3JkZXI7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0T3JkZXIoZmluYWwgaW50IG9yZGVyKSB7CiAgICAgICAgdGhpcy5vcmRlciA9IG9yZGVyOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBnZXRPcmRlcigpIHsKICAgICAgICByZXR1cm4gb3JkZXI7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0T3JkZXIoZmluYWwgaW50IG9yZGVyKSB7CiAgICAgICAgdGhpcy5vcmRlciA9IG9yZGVyOwogICAgfQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG9yZGVyOwo=</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFN1bW1hcnlSZW5kZXIgaW1wbGVtZW50cyBDYXRlZ29yeVJlbmRlciB7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG9yZGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFN1bW1hcnlSZW5kZXIgaW1wbGVtZW50cyBDYXRlZ29yeVJlbmRlciB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBDYXRlZ29yeVtdIGNhdGVnb3JpZXMgPSBBcnJheXMuY29weU9mKGJhc2ljU29ydGVkQ2F0ZWdvcmllcywgYmFzaWNTb3J0ZWRDYXRlZ29yaWVzLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>for (final Category category : categories) {
-            textMessages.add(&quot;rendered message for category: &quot; + category + &quot;\n&quot;);
-        }
-        initTest(categories, textMessages.toArray(new String[textMessages.size()]));
-
-        final String result = test.render(buildMessageWrappers(categories));
-
-        assertThat(result, is(Joiner.on(&quot;&quot;).join(textMessages)));</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBDYXRlZ29yeVtdIGNhdGVnb3JpZXMgPSBBcnJheXMuY29weU9mKGJhc2ljU29ydGVkQ2F0ZWdvcmllcywgYmFzaWNTb3J0ZWRDYXRlZ29yaWVzLmxlbmd0aCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>+10</text>
