@@ -134,6 +134,9 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/LogMessageWrapper.java" timestamp="1520388009688">
         <mark key="[" line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/CategoryBasedSyncReportRender.java" timestamp="1523494502580">
+        <mark key="[" line="7" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/PayloadReaderFactory.java" timestamp="1514502734215">
         <mark key="[" line="7" column="39" />
       </file>
@@ -460,7 +463,7 @@
         <mark key="." line="40" column="53" />
         <mark key="^" line="40" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/CategoryRender.java" timestamp="1523493303537">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/CategoryRender.java" timestamp="1523494228716">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -554,7 +557,7 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/SyncException.java" timestamp="1514431970163">
         <mark key="[" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRender.java" timestamp="1523493341958">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRender.java" timestamp="1523495050637">
         <mark key="[" line="64" column="28" />
         <mark key="]" line="69" column="70" />
         <mark key="." line="69" column="70" />
