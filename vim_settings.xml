@@ -555,7 +555,12 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" timestamp="1523576859556" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" timestamp="1523578740910">
+        <mark key="[" line="54" column="62" />
+        <mark key="]" line="54" column="59" />
+        <mark key="^" line="54" column="59" />
+        <mark key="." line="54" column="59" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/deleteAllAdmins.peb" timestamp="1523576580160">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="8" />
@@ -733,7 +738,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHRhYmxlPgogICAgICAgICAgICA8dGhlYWQ+CiAgICAgICAgPC90YWJsZT4=</text>
+        <text>user</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -763,13 +768,13 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>-base.peb</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXNrU3RhdHVzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>avatarChanged</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFRocmVhZExvY2FsPEF0dHJpYnV0ZU1hcHBpbmdzPiB1c2VyQXR0ck1hcHBpbmdzID0gbmV3IFRocmVhZExvY2FsPD4oKTsK</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
