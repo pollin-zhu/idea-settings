@@ -413,6 +413,12 @@
         <mark key="^" line="42" column="27" />
         <mark key="." line="42" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactoryTest.java" timestamp="1524446092421">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/exercises/flutter/firstdartconsole/lib/mylib.dart" timestamp="1518242124296">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -623,12 +629,11 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" timestamp="1524444649834">
-        <mark key="'" line="44" column="45" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="51" column="43" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" timestamp="1524446167804">
+        <mark key="[" line="358" column="72" />
+        <mark key="]" line="358" column="88" />
+        <mark key="^" line="358" column="88" />
+        <mark key="." line="358" column="88" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/deleteAllAdmins.peb" timestamp="1523958495740">
         <mark key="[" line="16" column="23" />
@@ -693,7 +698,7 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/SyncCloud2.java" timestamp="1514335497957">
         <mark key="[" line="7" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1524187785324">
+      <file name="/fragment.java" timestamp="1524446036015">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -814,8 +819,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getField</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -845,7 +850,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>new MessageFactory()</text>
+        <text>getField</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZCdW5kbGVcPg==</text>
@@ -887,7 +892,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFRocmVhZExvY2FsPEF0dHJpYnV0ZU1hcHBpbmdzPiB1c2VyQXR0ck1hcHBpbmdzID0gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
-        <text>378</text>
+        <text>363</text>
       </register>
     </registers>
     <search>
@@ -923,7 +928,6 @@
         <entry encoding="base64">XDxkZWZCdW5kbGVcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>set relativenumber</entry>
         <entry>493</entry>
         <entry>1084</entry>
         <entry>133</entry>
@@ -943,6 +947,7 @@
         <entry>registers</entry>
         <entry>308</entry>
         <entry>378</entry>
+        <entry>363</entry>
       </history-cmd>
       <history-expr />
       <history-input />
