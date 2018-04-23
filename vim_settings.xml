@@ -623,11 +623,12 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" timestamp="1524115971194">
-        <mark key="[" line="324" column="136" />
-        <mark key="]" line="324" column="158" />
-        <mark key="." line="324" column="158" />
-        <mark key="^" line="324" column="158" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" timestamp="1524443352958">
+        <mark key="'" line="243" column="25" />
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="52" column="43" />
+        <mark key="." line="52" column="43" />
+        <mark key="^" line="52" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/deleteAllAdmins.peb" timestamp="1523958495740">
         <mark key="[" line="16" column="23" />
@@ -697,9 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncEngineTaskStatusImpl.java" />
-      <jump line="272" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncEngineTaskStatusImpl.java" />
-      <jump line="353" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" />
       <jump line="373" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" />
       <jump line="379" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" />
       <jump line="381" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" />
@@ -797,6 +795,9 @@
       <jump line="197" column="29" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
       <jump line="99" column="90" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
       <jump line="52" column="27" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
+      <jump line="41" column="34" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" />
+      <jump line="46" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" />
+      <jump line="243" column="25" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -813,8 +814,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlodG1sU3luY1JlcG9ydFJlbmRlci5pCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -844,55 +845,55 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>attachment</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>DirSyncReportSender</text>
+        <text encoding="base64">XDxkZWZCdW5kbGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNZTkNfUkVQT1JUX0ZJTEVfTkFNRV80X0NTViA9IFNZTkNfUkVQT1JUX0ZJTEVfTkFNRSArICIuY3N2IjsK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyQXR0ck1hcHBpbmdzID0gbmV3IFRocmVhZExvY2FsPD4oKTsK</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlodG1sU3luY1JlcG9ydFJlbmRlci5pCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFRocmVhZExvY2FsPEF0dHJpYnV0ZU1hcHBpbmdzPiBncm91cEF0dHJNYXBwaW5ncyA9IG51bGw7bmV3IFRocmVhZExvY2FsPD4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFRocmVhZExvY2FsPEF0dHJpYnV0ZU1hcHBpbmdzPiBncm91cEF0dHJNYXBwaW5ncyA9IG5ldyBUaHJlYWRMb2NhbDw+KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFRocmVhZExvY2FsPEF0dHJpYnV0ZU1hcHBpbmdzPiB1c2VyQXR0ck1hcHBpbmdzID0gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVwb3J0Q29udGVudDsK</text>
+        <text encoding="base64">ICAgIG5ldyBUaHJlYWRMb2NhbDw+KCk7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVtcGxhdGUuCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlodG1sU3luY1JlcG9ydFJlbmRlci5pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBXcml0ZXIgd3JpdGVyID0gbmV3IFN0cmluZ1dyaXRlcigxMDI0ICogOCk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgdGVtcGxhdGUuZXZhbHVhdGUod3JpdGVyLCBjb250ZXh0KTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoInJlbmRlciB0ZW1wbGF0ZSBmYWlsZWQuIiwgZSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5ncy5pc051bGxPckVtcHR5KHRlbXBsYXRlRmlsZSkpIHsKICAgICAgICAgICAgbG9nZ2VyLndhcm4oIlRoZXJlIGlzIG5vIHRlbXBsYXRlIGZpbGUgc3BlY2lmaWVkLiBQbGVhc2UgYmUgZW5zdXJlIGlmIGl0J3MgaW50ZW5kZWQuIik7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHRlbXBsYXRlID0gTXlQZWJibGVFbmdpbmVVdGlsLmdldFBlYmJsZUVuZ2luZSgpLmdldFRlbXBsYXRlKHRlbXBsYXRlRmlsZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKFBlYmJsZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJDb21waWxlIHBlYmJsZSdzIHRlbXBsYXRlIGZhaWxlZC4iLCBlKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVwb3J0Q29udGVudDsK</text>
       </register>
       <register name=":" type="4">
         <text>308</text>
       </register>
     </registers>
     <search>
-      <last-search>DirSyncReportSender</last-search>
+      <last-search encoding="base64">XDxkZWZCdW5kbGVcPg==</last-search>
       <last-offset />
-      <last-pattern>DirSyncReportSender</last-pattern>
+      <last-pattern encoding="base64">XDxkZWZCdW5kbGVcPg==</last-pattern>
       <last-replace encoding="base64">Q2FjaGVkUmVxdWVzdFw8Ulw+</last-replace>
       <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
@@ -900,7 +901,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sip</entry>
         <entry>=uid</entry>
         <entry>DirSyncServiceMessageFactory</entry>
         <entry>flsRest.</entry>
@@ -920,6 +920,7 @@
         <entry encoding="base64">XDxMb2dNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDx0YXNrU3RhdHVzXD4=</entry>
         <entry>DirSyncReportSender</entry>
+        <entry encoding="base64">XDxkZWZCdW5kbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>288</entry>
