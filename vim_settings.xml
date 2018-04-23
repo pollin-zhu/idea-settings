@@ -50,8 +50,11 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/htmlSyncReport.peb" timestamp="1524189533749">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/htmlSyncReport.peb" timestamp="1524454138988">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="21" />
+        <mark key="^" line="32" column="21" />
+        <mark key="." line="32" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/SyncTaskAvatarHandlerImplTest.java" timestamp="1520500630667">
         <mark key="[" line="115" column="53" />
@@ -462,9 +465,9 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/processor/IdentityTargets.java" timestamp="1514519755428">
         <mark key="[" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" timestamp="1524440645145">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" timestamp="1524453434529">
         <mark key="a" line="200" column="29" />
-        <mark key="'" line="52" column="27" />
+        <mark key="'" line="209" column="24" />
         <mark key="[" line="214" column="54" />
         <mark key="]" line="215" column="39" />
         <mark key="^" line="215" column="39" />
@@ -635,11 +638,11 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" timestamp="1524451580738">
-        <mark key="[" line="392" column="102" />
-        <mark key="]" line="393" column="24" />
-        <mark key="^" line="393" column="24" />
-        <mark key="." line="393" column="24" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" timestamp="1524453730996">
+        <mark key="[" line="391" column="81" />
+        <mark key="]" line="391" column="81" />
+        <mark key="^" line="391" column="99" />
+        <mark key="." line="391" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/deleteAllAdmins.peb" timestamp="1523958495740">
         <mark key="[" line="16" column="23" />
@@ -709,13 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="379" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" />
-      <jump line="381" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" />
-      <jump line="408" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" />
-      <jump line="264" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncEngineTaskStatusImpl.java" />
-      <jump line="245" column="18" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
-      <jump line="250" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
-      <jump line="254" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
       <jump line="251" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
       <jump line="271" column="54" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
       <jump line="291" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
@@ -809,6 +805,13 @@
       <jump line="46" column="12" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" />
       <jump line="243" column="25" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" />
       <jump line="44" column="45" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" />
+      <jump line="211" column="25" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
+      <jump line="212" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
+      <jump line="214" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
+      <jump line="205" column="25" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
+      <jump line="206" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
+      <jump line="207" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
+      <jump line="209" column="24" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -825,8 +828,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRCYWRJbnB1dCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -856,10 +859,10 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZCdW5kbGVcPg==</text>
+        <text encoding="base64">XDxjc3ZBdHRhY2htZW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImluaXRlZCBNZXNzYWdlRmFjdG9yeS4iKTsK</text>
@@ -868,43 +871,43 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRCYWRJbnB1dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBdHRyaWJ1dGVNYXBwaW5ncyBhdHRyaWJ1dGVNYXBwaW5ncyA9IG51bGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXBvcnRCYWRJbnB1dCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZE1lc3NhZ2UoTWVzc2FnZUZhY3RvcnkuZ2V0SW5zdGFuY2UoKS5taXNzaW5nUmVxdWlyZWRBdHRyKHRoaXMsIG5hbWUpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZE1lc3NhZ2UoTWVzc2FnZUZhY3RvcnkuZ2V0SW5zdGFuY2UoKS5taXNzaW5nUmVxdWlyZWRBdHRyKHRoaXMsIG5hbWUpKTsK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRNZXNzYWdlKE1lc3NhZ2VGYWN0b3J5LmdldEluc3RhbmNlKCkuaW52YWxpZEF0dHIodGhpcywgYXR0ck5hbWUsIHZhbHVlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkTWVzc2FnZShNZXNzYWdlRmFjdG9yeS5nZXRJbnN0YW5jZSgpLmludmFsaWRBdHRyKHRoaXMsIGF0dHJOYW1lLCB2YWx1ZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRNZXNzYWdlKE1lc3NhZ2VGYWN0b3J5LmdldEluc3RhbmNlKCkuaW52YWxpZEF0dHIodGhpcywgYXR0ck5hbWUsIHZhbHVlKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWRkTWVzc2FnZShNZXNzYWdlRmFjdG9yeS5nZXRJbnN0YW5jZSgpLmludmFsaWRBdHRyKHRoaXMsIGF0dHJOYW1lLCB2YWx1ZSkpOwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkTWVzc2FnZShNZXNzYWdlRmFjdG9yeS5nZXRJbnN0YW5jZSgpLmludmFsaWRBdHRyKHRoaXMsIGF0dHJOYW1lLCB2YWx1ZSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZCdW5kbGVcPg==</last-search>
+      <last-search encoding="base64">XDxjc3ZBdHRhY2htZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZCdW5kbGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjc3ZBdHRhY2htZW50XD4=</last-pattern>
       <last-replace encoding="base64">Q2FjaGVkUmVxdWVzdFw8Ulw+</last-replace>
       <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
@@ -912,8 +915,6 @@
     </search>
     <history>
       <history-search>
-        <entry>=uid</entry>
-        <entry>DirSyncServiceMessageFactory</entry>
         <entry>flsRest.</entry>
         <entry encoding="base64">XDxkZWZhdWx0TWFwcGluZ0F0dHJzXD4=</entry>
         <entry>AciManager</entry>
@@ -932,6 +933,8 @@
         <entry encoding="base64">XDx0YXNrU3RhdHVzXD4=</entry>
         <entry>DirSyncReportSender</entry>
         <entry encoding="base64">XDxkZWZCdW5kbGVcPg==</entry>
+        <entry encoding="base64">XDxodG1sQXR0YWNobWVudFw+</entry>
+        <entry encoding="base64">XDxjc3ZBdHRhY2htZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1084</entry>
