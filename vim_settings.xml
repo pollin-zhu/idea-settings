@@ -174,10 +174,9 @@
         <mark key="^" line="46" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncInput.java" timestamp="1524713930990">
-        <mark key="[" line="58" column="5" />
-        <mark key="]" line="108" column="123" />
-        <mark key="." line="108" column="123" />
-        <mark key="^" line="108" column="123" />
+        <mark key="]" line="22" column="123" />
+        <mark key="." line="22" column="123" />
+        <mark key="^" line="22" column="123" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/BadInputsRenderTest.java" timestamp="1524707851441">
         <mark key="[" line="25" column="30" />
@@ -326,7 +325,7 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/source/ldap/LdapSyncContext.java" timestamp="1514505654105">
         <mark key="[" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/DefaultCreator.java" timestamp="1522113807853">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/DefaultCreator.java" timestamp="1524714440759">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -404,6 +403,7 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/source/ldap/Constants4SourceLdap.java" timestamp="1514455327158">
         <mark key="[" line="7" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/dirsync.properties" timestamp="1524714336922" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/ActionExecutor.java" timestamp="1515540034017">
         <mark key="[" line="11" column="58" />
         <mark key="]" line="11" column="58" />
@@ -442,13 +442,6 @@
         <mark key="]" line="297" column="53" />
         <mark key="." line="297" column="53" />
         <mark key="^" line="296" column="65" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRenderTest.java" timestamp="1524203064567">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="120" column="30" />
-        <mark key="]" line="120" column="29" />
-        <mark key="." line="120" column="29" />
-        <mark key="^" line="120" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/operateFailed.peb" timestamp="1524117187839">
         <mark key="[" line="10" column="0" />
@@ -503,13 +496,6 @@
         <mark key="." line="610" column="0" />
         <mark key="^" line="378" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/OperationFailedRenderTest.java" timestamp="1524117789458">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="26" column="57" />
-        <mark key="]" line="27" column="34" />
-        <mark key="^" line="27" column="34" />
-        <mark key="." line="27" column="34" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" timestamp="1520847741227">
         <mark key="[" line="1661" column="49" />
         <mark key="]" line="1661" column="49" />
@@ -535,13 +521,6 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" timestamp="1524713724616" />
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/AvatarFailedRenderTest.java" timestamp="1524184708556">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="48" column="84" />
-        <mark key="]" line="48" column="85" />
-        <mark key="." line="48" column="85" />
-        <mark key="^" line="48" column="92" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/UniqueIdFinder.java" timestamp="1520406511401">
         <mark key="[" line="25" column="12" />
         <mark key="]" line="32" column="0" />
@@ -633,9 +612,12 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" timestamp="1524710738592">
-        <mark key="'" line="157" column="78" />
-        <mark key="^" line="315" column="57" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" timestamp="1524715040523">
+        <mark key="'" line="158" column="78" />
+        <mark key="[" line="135" column="46" />
+        <mark key="]" line="135" column="49" />
+        <mark key="^" line="135" column="49" />
+        <mark key="." line="135" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/deleteAllAdmins.peb" timestamp="1523958495740">
         <mark key="[" line="16" column="23" />
@@ -821,8 +803,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+      <register name="&quot;" type="4">
+        <text>friendlyMessage</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -852,7 +834,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IChFUlJPUik=</text>
+        <text>friendlyMessage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDTE9VRF9JREVOVElUWV9OT1RfRVhJU1RcPg==</text>
