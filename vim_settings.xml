@@ -68,11 +68,11 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1524528555396">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1524707780275">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="814" column="94" />
-        <mark key="]" line="927" column="84" />
-        <mark key="." line="927" column="87" />
+        <mark key="[" line="951" column="53" />
+        <mark key="]" line="951" column="54" />
+        <mark key="." line="951" column="54" />
         <mark key="^" line="927" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/TestDirSyncReportSender.java" timestamp="1521619704035">
@@ -180,11 +180,11 @@
         <mark key="." line="88" column="7" />
         <mark key="^" line="88" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/BadInputsRenderTest.java" timestamp="1524113002461">
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="12" column="36" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/BadInputsRenderTest.java" timestamp="1524707851441">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="30" />
         <mark key="^" line="12" column="36" />
-        <mark key="." line="12" column="36" />
+        <mark key="." line="25" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/AvatarFailRender.java" timestamp="1524121995314">
         <mark key="[" line="7" column="14" />
@@ -276,11 +276,11 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/impl/format/ldapwithheader/LdapWithHeaderWriter.java" timestamp="1515634379336">
         <mark key="[" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/badInputs.peb" timestamp="1524113853181">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="3" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/badInputs.peb" timestamp="1524707836589">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="27" />
         <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
+        <mark key="." line="10" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" timestamp="1524442253083">
         <mark key="[" line="3" column="0" />
@@ -369,8 +369,8 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/BasicIdentityInfoListRenderTest.java" timestamp="1524106569522">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/BasicIdentityInfoListRenderTest.java" timestamp="1524707917540">
+        <mark key="[" line="8" column="6" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="29" column="55" />
         <mark key="." line="4" column="0" />
@@ -690,10 +690,10 @@
         <mark key="^" line="25" column="77" />
         <mark key="." line="25" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/basicIdentityInfoList.peb" timestamp="1524534764406">
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="31" column="15" />
-        <mark key="." line="31" column="15" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/basicIdentityInfoList.peb" timestamp="1524707879703">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
         <mark key="^" line="31" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/SyncCloud2.java" timestamp="1514335497957">
@@ -820,8 +820,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>Miss Required Attribute:</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -851,7 +851,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>EXTERNAL_ID_NOT_MATCH</text>
+        <text>Miss Required Attribute:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjc3ZBdHRhY2htZW50XD4=</text>
@@ -893,7 +893,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>registers</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -941,7 +941,6 @@
         <entry>286</entry>
         <entry encoding="base64">JzwsJz5kZWxldGU=</entry>
         <entry>+10</entry>
-        <entry>w</entry>
         <entry>d</entry>
         <entry>regs</entry>
         <entry>308</entry>
@@ -949,6 +948,7 @@
         <entry>363</entry>
         <entry>143</entry>
         <entry>registers</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
