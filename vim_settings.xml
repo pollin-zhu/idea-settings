@@ -119,6 +119,7 @@
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/Section.java" timestamp="1522290274563">
         <mark key="[" line="7" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarPayloadProcesser.java" timestamp="1525238881559" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/DeleteAllAdminsRenderTest.java" timestamp="1523958355174">
         <mark key="[" line="39" column="21" />
         <mark key="]" line="39" column="65" />
@@ -468,7 +469,7 @@
         <mark key="^" line="28" column="30" />
         <mark key="." line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1525230072189">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1525238786830">
         <mark key="'" line="1172" column="0" />
         <mark key="[" line="598" column="0" />
         <mark key="]" line="598" column="0" />
