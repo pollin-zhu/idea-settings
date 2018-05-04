@@ -175,6 +175,9 @@
         <mark key="^" line="99" column="50" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/trafficlog/TrafficLogger.java" timestamp="1525419752391">
+        <mark key="[" line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/MyPebbleEngineFactory.java" timestamp="1524188637203">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="16" column="28" />
@@ -223,7 +226,7 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/Failover.java" timestamp="1525410448527" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/Failover.java" timestamp="1525420401450" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/badInputs.peb" timestamp="1524707836589">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="27" />
@@ -345,7 +348,7 @@
         <mark key="^" line="14" column="42" />
         <mark key="." line="14" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/eventbus/listener/UnexpectedAbandonDomainSyncTaskListener.java" timestamp="1525415286951" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/eventbus/listener/UnexpectedAbandonDomainSyncTaskListener.java" timestamp="1525415924200" />
       <file name="$USER_HOME$/workspace/exercises/flutter/firstdartconsole/lib/mylib.dart" timestamp="1518242124296">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -371,6 +374,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleUtils.java" timestamp="1525420138155">
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="285" column="0" />
+        <mark key="." line="285" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/AvatarFailedRender.java" timestamp="1524183164710">
         <mark key="[" line="27" column="0" />
