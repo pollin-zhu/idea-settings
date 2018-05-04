@@ -65,8 +65,8 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1525311600893">
-        <mark key="'" line="922" column="34" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1525411386961">
+        <mark key="'" line="51" column="30" />
         <mark key="[" line="989" column="68" />
         <mark key="]" line="989" column="76" />
         <mark key="." line="989" column="68" />
@@ -227,6 +227,7 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/Failover.java" timestamp="1525410448527" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/badInputs.peb" timestamp="1524707836589">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="27" />
@@ -357,6 +358,7 @@
         <mark key="^" line="14" column="42" />
         <mark key="." line="14" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/eventbus/listener/UnexpectedAbandonDomainSyncTaskListener.java" timestamp="1525411376495" />
       <file name="$USER_HOME$/workspace/exercises/flutter/firstdartconsole/lib/mylib.dart" timestamp="1518242124296">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -376,6 +378,7 @@
         <mark key="." line="297" column="53" />
         <mark key="^" line="296" column="65" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/eventbus/listener/DomainSyncTaskListener.java" timestamp="1525411308880" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/operateFailed.peb" timestamp="1524117187839">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -522,7 +525,7 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" timestamp="1525406377136">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" timestamp="1525406436222">
         <mark key="'" line="158" column="78" />
         <mark key="[" line="135" column="46" />
         <mark key="]" line="135" column="49" />
@@ -592,7 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRenderTest.java" />
       <jump line="3" column="10" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/summary.peb" />
       <jump line="387" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" />
       <jump line="376" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" />
@@ -692,6 +694,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
       <jump line="14" column="17" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/EngineTaskStatus.java" />
       <jump line="922" column="34" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="51" column="30" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -742,7 +745,7 @@
         <text>Mismatched</text>
       </register>
       <register name="/" type="4">
-        <text>AciManager</text>
+        <text>UnexpectedAbandonDomainSyncTaskListener</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF0dHJzLmFkZChhdHRyNEF2YXRhcik7Cg==</text>
@@ -781,13 +784,13 @@
         <text encoding="base64">Pj4+Pj4+PiBmNGM5MjQzY2IyYTMyMjQ4NTAyNzE1NDI1MmQzZjlmOTg5M2YyODllCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>83</text>
       </register>
     </registers>
     <search>
-      <last-search>AciManager</last-search>
+      <last-search>UnexpectedAbandonDomainSyncTaskListener</last-search>
       <last-offset />
-      <last-pattern>AciManager</last-pattern>
+      <last-pattern>UnexpectedAbandonDomainSyncTaskListener</last-pattern>
       <last-replace encoding="base64">Q2FjaGVkUmVxdWVzdFw8Ulw+</last-replace>
       <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
@@ -795,7 +798,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGF0dXNDb2RlXD4=</entry>
         <entry>REPLACE</entry>
         <entry encoding="base64">XDxoYW5kbGVGdWxsU3luY0Z1bmN0aW9uXD4=</entry>
         <entry encoding="base64">XDxmaW5kZXJPZk9uUHJlbU9iamVjdEdVSURcPg==</entry>
@@ -815,9 +817,9 @@
         <entry encoding="base64">XDxDTE9VRF9JREVOVElUWV9OT1RfRVhJU1RcPg==</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>AciManager</entry>
+        <entry>UnexpectedAbandonDomainSyncTaskListener</entry>
       </history-search>
       <history-cmd>
-        <entry>1084</entry>
         <entry>133</entry>
         <entry>664</entry>
         <entry>41</entry>
@@ -837,6 +839,7 @@
         <entry>143</entry>
         <entry>registers</entry>
         <entry>w</entry>
+        <entry>83</entry>
       </history-cmd>
       <history-expr />
       <history-input />
