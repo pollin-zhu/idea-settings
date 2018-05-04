@@ -53,6 +53,7 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="32" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/log4j.properties" timestamp="1525412639869" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/SyncTaskAvatarHandlerImplTest.java" timestamp="1520500630667">
         <mark key="[" line="115" column="53" />
         <mark key="]" line="127" column="12" />
@@ -65,7 +66,7 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1525411386961">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1525412500413">
         <mark key="'" line="51" column="30" />
         <mark key="[" line="989" column="68" />
         <mark key="]" line="989" column="76" />
