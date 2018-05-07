@@ -29,6 +29,9 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1525658329344">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/TaskImpl.java" timestamp="1525248281192">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -53,7 +56,6 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/log4j.properties" timestamp="1525413527821" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/SyncTaskAvatarHandlerImplTest.java" timestamp="1520500630667">
         <mark key="[" line="115" column="53" />
         <mark key="]" line="127" column="12" />
@@ -226,7 +228,6 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/Failover.java" timestamp="1525420401450" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/badInputs.peb" timestamp="1524707836589">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="27" />
@@ -269,7 +270,6 @@
         <mark key="^" line="75" column="19" />
         <mark key="." line="77" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLogger.java" timestamp="1525413393125" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/DefaultCreator.java" timestamp="1525247734981">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -348,7 +348,6 @@
         <mark key="^" line="14" column="42" />
         <mark key="." line="14" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/eventbus/listener/UnexpectedAbandonDomainSyncTaskListener.java" timestamp="1525415924200" />
       <file name="$USER_HOME$/workspace/exercises/flutter/firstdartconsole/lib/mylib.dart" timestamp="1518242124296">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -368,7 +367,6 @@
         <mark key="." line="297" column="53" />
         <mark key="^" line="296" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/eventbus/listener/DomainSyncTaskListener.java" timestamp="1525411308880" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/operateFailed.peb" timestamp="1524117187839">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -379,6 +377,12 @@
         <mark key="[" line="285" column="0" />
         <mark key="]" line="285" column="0" />
         <mark key="." line="285" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" timestamp="1525660231910">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="^" line="400" column="61" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/AvatarFailedRender.java" timestamp="1524183164710">
         <mark key="[" line="27" column="0" />
@@ -701,8 +705,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Mismatched</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIGV4cG9ydEh0bWwgPSA7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -732,7 +736,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>Mismatched</text>
+        <text>exportHtml</text>
       </register>
       <register name="/" type="4">
         <text>UnexpectedAbandonDomainSyncTaskListener</text>
@@ -744,37 +748,37 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAubWVyZ2VfZmlsZV9LUkRNdFQK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIGV4cG9ydEh0bWwgPSA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAubWVyZ2VfZmlsZV9LUkRNdFQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCAubWVyZ2VfZmlsZV9pRzBLM1cK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIExvZ2dlciBsb2dnZXIgPSBMb2dnZXIKCQkJLmdldExvZ2dlcihMREFQTWVzc2FnZUl0ZXJhdG9yRnJvbVBheWxvYWRUYXNrLmNsYXNzKTsK</text>
+        <text encoding="base64">PDw8PDw8PCAubWVyZ2VfZmlsZV9pRzBLM1cK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFpc0RyeVJ1blRhc2soc3luY1Rhc2spKSB7CiAgICAgICAgICAgICAgICBmaW5hbCBPcmdhbml6YXRpb24gb3JnYW5pemF0aW9uID0gZ2V0T3JnYW5pemF0aW9uKHN5bmNUYXNrKTsKICAgICAgICAgICAgICAgIERpclN5bmNUcmFmZmljU3RhdHNMb2dnZXIubG9nKG9yZ2FuaXphdGlvbiwgdGFza1N0YXR1cyk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIExvZ2dlciBsb2dnZXIgPSBMb2dnZXIKCQkJLmdldExvZ2dlcihMREFQTWVzc2FnZUl0ZXJhdG9yRnJvbVBheWxvYWRUYXNrLmNsYXNzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFpc0RyeVJ1blRhc2soc3luY1Rhc2spKSB7CiAgICAgICAgICAgICAgICBmaW5hbCBPcmdhbml6YXRpb24gb3JnYW5pemF0aW9uID0gZ2V0T3JnYW5pemF0aW9uKHN5bmNUYXNrKTsKICAgICAgICAgICAgICAgIERpclN5bmNUcmFmZmljU3RhdHNMb2dnZXIubG9nKG9yZ2FuaXphdGlvbiwgdGFza1N0YXR1cyk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQogICAgTG9nTWVzc2FnZXMgZ2V0TG9nTWVzc2FnZXMoKTsKCiAgICB2b2lkIHNldExvZ01lc3NhZ2VzKExvZ01lc3NhZ2VzIGxvZ01zZ3MpOwo+Pj4+Pj4+IGY0YzkyNDNjYjJhMzIyNDg1MDI3MTU0MjUyZDNmOWY5ODkzZjI4OWUK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQogICAgTG9nTWVzc2FnZXMgZ2V0TG9nTWVzc2FnZXMoKTsKCiAgICB2b2lkIHNldExvZ01lc3NhZ2VzKExvZ01lc3NhZ2VzIGxvZ01zZ3MpOwo+Pj4+Pj4+IGY0YzkyNDNjYjJhMzIyNDg1MDI3MTU0MjUyZDNmOWY5ODkzZjI4OWUK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmNGM5MjQzY2IyYTMyMjQ4NTAyNzE1NDI1MmQzZjlmOTg5M2YyODllCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>83</text>
+        <text>185</text>
       </register>
     </registers>
     <search>
@@ -810,7 +814,6 @@
         <entry>UnexpectedAbandonDomainSyncTaskListener</entry>
       </history-search>
       <history-cmd>
-        <entry>133</entry>
         <entry>664</entry>
         <entry>41</entry>
         <entry>%s/protected/public/gc</entry>
@@ -830,6 +833,7 @@
         <entry>registers</entry>
         <entry>w</entry>
         <entry>83</entry>
+        <entry>185</entry>
       </history-cmd>
       <history-expr />
       <history-input />
