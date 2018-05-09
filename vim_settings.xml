@@ -68,7 +68,7 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1525412500413">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1525849512825">
         <mark key="'" line="51" column="30" />
         <mark key="[" line="989" column="68" />
         <mark key="]" line="989" column="76" />
@@ -228,6 +228,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/QueryResponse.java" timestamp="1525849016857">
+        <mark key="[" line="122" column="48" />
+        <mark key="]" line="122" column="48" />
+        <mark key="." line="122" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/impl/persistence/ldap/LdapTargetLoader.java" timestamp="1514874654112">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="23" />
@@ -276,6 +281,7 @@
         <mark key="^" line="75" column="19" />
         <mark key="." line="77" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLogger.java" timestamp="1525850058614" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/DefaultCreator.java" timestamp="1525247734981">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -399,8 +405,8 @@
         <mark key="^" line="28" column="30" />
         <mark key="." line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1525415282087">
-        <mark key="'" line="1168" column="0" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1525849560143">
+        <mark key="'" line="285" column="62" />
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="^" line="116" column="24" />
@@ -604,7 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="10" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/summary.peb" />
       <jump line="387" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" />
       <jump line="376" column="16" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" />
       <jump line="375" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" />
@@ -704,6 +709,7 @@
       <jump line="14" column="17" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/EngineTaskStatus.java" />
       <jump line="922" column="34" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="51" column="30" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
+      <jump line="285" column="62" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -720,8 +726,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIGV4cG9ydEh0bWwgPSA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -751,7 +757,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>exportHtml</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>UnexpectedAbandonDomainSyncTaskListener</text>
