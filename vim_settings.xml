@@ -235,11 +235,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/QueryResponse.java" timestamp="1525849016857">
-        <mark key="[" line="122" column="48" />
-        <mark key="]" line="122" column="48" />
-        <mark key="." line="122" column="48" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/eventbus/listener/SyncTaskAbandonedListener.java" timestamp="1525911987742">
         <mark key="[" line="10" column="28" />
       </file>
@@ -302,7 +297,7 @@
         <mark key="^" line="75" column="19" />
         <mark key="." line="77" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLogger.java" timestamp="1525931932198">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLogger.java" timestamp="1525935466928">
         <mark key="'" line="181" column="0" />
         <mark key="[" line="35" column="13" />
         <mark key="]" line="36" column="74" />
@@ -326,6 +321,12 @@
         <mark key="]" line="9" column="27" />
         <mark key="^" line="19" column="32" />
         <mark key="." line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLoggerTest.java" timestamp="1525935648307">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/InputLoader.java" timestamp="1515379342093">
         <mark key="[" line="30" column="85" />
@@ -420,11 +421,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleUtils.java" timestamp="1525420138155">
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="285" column="0" />
-        <mark key="." line="285" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" timestamp="1525667334665">
         <mark key="[" line="162" column="45" />
@@ -647,7 +643,7 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="31" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1525929564627">
+      <file name="/fragment.java" timestamp="1525935344192">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/SyncTaskAbandonedEvent.java" timestamp="1525916944845">
@@ -773,8 +769,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;com.cisco.codev.identity.dirsync.engine.handler.dirsync&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -816,34 +812,34 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgiYm91bmREb21haW4iLCBzZXNzaW9uLik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJib3VuZERvbWFpbiIsIHN0YXR1cy5nZXREb21haW4oKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgiYm91bmREb21haW4iLCBzZXNzaW9uLik7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJkdXJhdGlvbiIsIGR1cmF0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJib3VuZERvbWFpbiIsIHN0YXR1cy5nZXREb21haW4oKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJzdGFydFRpbWUiLCBEYXRlRm9ybWF0VXRpbHMuSVNPX0RBVEVUSU1FX0ZPUk1BVC5mb3JtYXQoc3RhcnRUaW1lKSk7CiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgiZW5kVGltZSIsIERhdGVGb3JtYXRVdGlscy5JU09fREFURVRJTUVfRk9STUFULmZvcm1hdChlbmRUaW1lKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8U3RyaW5nLCBPYmplY3Q+IG1haW5UaW1lU3RhdHNNYXAgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgbWFpblRpbWVTdGF0c01hcC5wdXQoInN0YXJ0VGltZSIsIERhdGVGb3JtYXRVdGlscy5JU09fREFURVRJTUVfRk9STUFULmZvcm1hdChzdGF0dXMuZ2V0TWFpblN0YXJ0VGltZSgpKSk7CiAgICAgICAgbWFpblRpbWVTdGF0c01hcC5wdXQoImVuZFRpbWUiLCBEYXRlRm9ybWF0VXRpbHMuSVNPX0RBVEVUSU1FX0ZPUk1BVC5mb3JtYXQoc3RhdHVzLmdldE1haW5FbmRUaW1lKCkpKTsKICAgICAgICBtYWluVGltZVN0YXRzTWFwLnB1dCgiZHVyYXRpb24iLCBzdGF0dXMuZ2V0TWFpbkVuZFRpbWUoKSAtIHN0YXR1cy5nZXRNYWluU3RhcnRUaW1lKCkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoInN5bmNUaW1lU3RhdCIsIG1haW5UaW1lU3RhdHNNYXApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgiZW5kVGltZSIsIERhdGVGb3JtYXRVdGlscy5JU09fREFURVRJTUVfRk9STUFULmZvcm1hdChub3cpKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJkdXJhdGlvbiIsIGR1cmF0aW9uKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgic3RhcnRUaW1lIiwgRGF0ZUZvcm1hdFV0aWxzLklTT19EQVRFVElNRV9GT1JNQVQuZm9ybWF0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJzdGFydFRpbWUiLCBEYXRlRm9ybWF0VXRpbHMuSVNPX0RBVEVUSU1FX0ZPUk1BVC5mb3JtYXQoc3RhcnRUaW1lKSk7CiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgiZW5kVGltZSIsIERhdGVGb3JtYXRVdGlscy5JU09fREFURVRJTUVfRk9STUFULmZvcm1hdChlbmRUaW1lKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>185</text>
