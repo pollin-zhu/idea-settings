@@ -56,6 +56,7 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="32" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/log4j.properties" timestamp="1525932616084" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/SyncTaskAvatarHandlerImplTest.java" timestamp="1520500630667">
         <mark key="[" line="115" column="53" />
         <mark key="]" line="127" column="12" />
@@ -301,12 +302,12 @@
         <mark key="^" line="75" column="19" />
         <mark key="." line="77" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLogger.java" timestamp="1525931257317">
-        <mark key="'" line="180" column="0" />
-        <mark key="[" line="159" column="33" />
-        <mark key="]" line="164" column="95" />
-        <mark key="." line="164" column="95" />
-        <mark key="^" line="164" column="95" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLogger.java" timestamp="1525931932198">
+        <mark key="'" line="181" column="0" />
+        <mark key="[" line="35" column="13" />
+        <mark key="]" line="36" column="74" />
+        <mark key="." line="36" column="74" />
+        <mark key="^" line="36" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/DefaultCreator.java" timestamp="1525247734981">
         <mark key="[" line="13" column="0" />
@@ -595,13 +596,13 @@
         <mark key="^" line="57" column="42" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" timestamp="1525919252211">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" timestamp="1525932224250">
         <mark key="a" line="901" column="47" />
         <mark key="'" line="901" column="47" />
-        <mark key="[" line="965" column="43" />
-        <mark key="]" line="967" column="3" />
-        <mark key="." line="967" column="3" />
-        <mark key="^" line="967" column="3" />
+        <mark key="[" line="901" column="48" />
+        <mark key="]" line="902" column="69" />
+        <mark key="." line="902" column="69" />
+        <mark key="^" line="902" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/FriendlyMessage.java" timestamp="1524790643664">
         <mark key="[" line="138" column="6" />
@@ -772,8 +773,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgiYm91bmREb21haW4iLCBzZXNzaW9uLik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;com.cisco.codev.identity.dirsync.engine.handler.dirsync&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -803,7 +804,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>status.getDomain()</text>
+        <text>&quot;com.cisco.codev.identity.dirsync.engine.handler.dirsync&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Event</text>
