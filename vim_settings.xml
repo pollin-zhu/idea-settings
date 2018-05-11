@@ -339,6 +339,12 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncCommandHandler.java" timestamp="1526004112267">
+        <mark key="[" line="170" column="112" />
+        <mark key="]" line="170" column="141" />
+        <mark key="^" line="170" column="141" />
+        <mark key="." line="170" column="141" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLoggerTest.java" timestamp="1525935648307">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -396,8 +402,11 @@
         <mark key="." line="24" column="32" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/TaskAbandonReason.java" timestamp="1526003029743">
-        <mark key="[" line="13" column="55" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/TaskAbandonReason.java" timestamp="1526004096495">
+        <mark key="[" line="18" column="76" />
+        <mark key="]" line="18" column="76" />
+        <mark key="^" line="18" column="79" />
+        <mark key="." line="18" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/ActionExecutor.java" timestamp="1515540034017">
         <mark key="[" line="11" column="58" />
@@ -787,8 +796,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgRGlyU3luY1JldHVybkNvZGUgZHNSZXR1cm5Db2RlID0gRGlyU3luY1JldHVybkNvZGUuZ2V0RGlyU3luY1JldHVybkNvZGUoc2VydmljZUNvZGUpOwogICAgICAgICAgICBpZiAoZHNSZXR1cm5Db2RlICE9IG51bGwgJiYgZHNSZXR1cm5Db2RlID09IERpclN5bmNSZXR1cm5Db2RlLmNvb2tpZVN0YXRlTWlzbWF0Y2gpIHsKICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>stop</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -818,7 +827,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>serviceCode != null</text>
+        <text>stop</text>
       </register>
       <register name="/" type="4">
         <text>Event</text>
