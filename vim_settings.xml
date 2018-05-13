@@ -29,9 +29,6 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1525658329344">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/TaskImpl.java" timestamp="1526003246925">
         <mark key="[" line="356" column="99" />
         <mark key="]" line="357" column="30" />
@@ -134,6 +131,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity-course/course/02_category_widget/task_02_category_widget/lib/main.dart" timestamp="1526176111059">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="69" />
+        <mark key="^" line="34" column="69" />
+        <mark key="." line="34" column="69" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/FeatureBasedHandler.java" timestamp="1514520194454">
         <mark key="[" line="37" column="48" />
         <mark key="]" line="33" column="47" />
@@ -182,9 +185,6 @@
         <mark key="^" line="248" column="65" />
         <mark key="." line="248" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/trafficlog/TrafficLogger.java" timestamp="1525419752391">
-        <mark key="[" line="7" column="18" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/MyPebbleEngineFactory.java" timestamp="1524188637203">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="16" column="28" />
@@ -232,9 +232,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/eventbus/listener/SyncTaskAbandonedListener.java" timestamp="1525911987742">
-        <mark key="[" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/QueryResponse.java" timestamp="1526003140363">
         <mark key="[" line="119" column="32" />
@@ -356,9 +353,6 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/python/MyFirstPython/nltk_exer.py" timestamp="1525679991001">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/eventbus/event/SyncTaskAbandonedEvent.java" timestamp="1525916208294">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="20" column="25" />
@@ -431,6 +425,7 @@
         <mark key="^" line="14" column="42" />
         <mark key="." line="14" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity-course/course/02_category_widget/task_02_category_widget/lib/category.dart" timestamp="1526176843335" />
       <file name="$USER_HOME$/workspace/exercises/flutter/firstdartconsole/lib/mylib.dart" timestamp="1518242124296">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -563,9 +558,6 @@
         <mark key="^" line="203" column="54" />
         <mark key="." line="203" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525662473398">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/SummaryRender.java" timestamp="1523923005450">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -657,9 +649,6 @@
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
         <mark key="^" line="31" column="15" />
-      </file>
-      <file name="/fragment.java" timestamp="1525935344192">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/SyncTaskAbandonedEvent.java" timestamp="1525916944845">
         <mark key="[" line="4" column="0" />
@@ -785,7 +774,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZDogLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -815,7 +804,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>final</text>
       </register>
       <register name="/" type="4">
         <text>Event</text>
@@ -827,20 +816,20 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBjaGlsZDogLAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>Container(
       color: Colors.greenAccent,
       height: 400.0,
       width: 300.0,
     )</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWQK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGhlaWQK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
@@ -855,10 +844,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gQ29udGFpbmVyKAogICAgICAgIGNvbG9yOiBDb2xvcnMuZ3JlZW5BY2NlbnQsCiAgICAgICk7QAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gQ29udGFpbmVyKAogICAgICAgIGNvbG9yOiBDb2xvcnMuZ3JlZW5BY2NlbnQsCiAgICAgICk7QAo=</text>
       </register>
       <register name=":" type="4">
         <text>185</text>
