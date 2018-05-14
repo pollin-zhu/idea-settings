@@ -84,11 +84,6 @@
         <mark key="]" line="103" column="87" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/AbandonReason.java" timestamp="1526002817519">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/concurrent/executor/ScalableThreadPoolExecutorTest.java" timestamp="1514857813603">
         <mark key="[" line="184" column="41" />
         <mark key="]" line="22" column="69" />
@@ -268,11 +263,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="257" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncPostProcessingHandler.java" timestamp="1525918969398">
-        <mark key="[" line="499" column="0" />
-        <mark key="]" line="499" column="0" />
-        <mark key="." line="499" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/io/localfs/LocalFsReaderFactory.java" timestamp="1514505912562">
         <mark key="[" line="14" column="21" />
@@ -552,6 +542,7 @@
         <mark key="." line="58" column="20" />
         <mark key="^" line="58" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/CI-Automation-Framework/src/main/java/com/cisco/codev/identity/automation/framework/cloudconnector/CloudConnector.java" timestamp="1526265694398" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" timestamp="1526007044555" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/handler/DirSyncPostProcessingHandlerTest.java" timestamp="1524563342268">
         <mark key="[" line="203" column="27" />
@@ -650,11 +641,6 @@
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
         <mark key="^" line="31" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/SyncTaskAbandonedEvent.java" timestamp="1525916944845">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -851,7 +837,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>185</text>
+        <text>290</text>
       </register>
     </registers>
     <search>
@@ -887,7 +873,6 @@
         <entry>Event</entry>
       </history-search>
       <history-cmd>
-        <entry>664</entry>
         <entry>41</entry>
         <entry>%s/protected/public/gc</entry>
         <entry>34</entry>
@@ -907,6 +892,7 @@
         <entry>w</entry>
         <entry>83</entry>
         <entry>185</entry>
+        <entry>290</entry>
       </history-cmd>
       <history-expr />
       <history-input />
