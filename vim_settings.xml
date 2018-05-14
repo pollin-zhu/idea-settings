@@ -437,6 +437,11 @@
         <mark key="^" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleUtils.java" timestamp="1526275614562" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncResultBuilder.java" timestamp="1526278562633">
+        <mark key="]" line="36" column="68" />
+        <mark key="^" line="36" column="68" />
+        <mark key="." line="36" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" timestamp="1525667334665">
         <mark key="[" line="162" column="45" />
         <mark key="]" line="162" column="45" />
