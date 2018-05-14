@@ -65,6 +65,12 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" timestamp="1526283131409">
+        <mark key="[" line="65" column="18" />
+        <mark key="]" line="65" column="19" />
+        <mark key="." line="65" column="19" />
+        <mark key="^" line="65" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/TestDirSyncReportSender.java" timestamp="1521619704035">
         <mark key="[" line="246" column="20" />
         <mark key="]" line="246" column="35" />
@@ -417,11 +423,11 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="57" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/main.dart" timestamp="1526259766164">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="10" column="27" />
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/main.dart" timestamp="1526283178314">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="12" />
+        <mark key="^" line="26" column="17" />
+        <mark key="." line="26" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/test/widget_test.dart" timestamp="1526177917650" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncServiceMessageFactory.java" timestamp="1521163736384">
@@ -582,6 +588,7 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category.dart" timestamp="1526281358748" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/deleteAllAdmins.peb" timestamp="1523958495740">
         <mark key="[" line="16" column="23" />
         <mark key="]" line="18" column="50" />
@@ -755,7 +762,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>solution_02_category_widget</text>
+        <text>Container()</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -785,7 +792,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>solution_02_category_widget</text>
+        <text>Container()</text>
       </register>
       <register name="/" type="4">
         <text>Event</text>
@@ -797,35 +804,35 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Um93KAogICAgICAgICAgY2hpbGRyZW46IDxXaWRnZXQ+WwogICAgICAgICAgICBQYWRkaW5nKAogICAgICAgICAgICAgIHBhZGRpbmc6IGNvbnN0IEVkZ2VJbnNldHMuYWxsKDE2LjApLAogICAgICAgICAgICAgIGNoaWxkOiBJY29uKAogICAgICAgICAgICAgICAgX2ljb24sCiAgICAgICAgICAgICAgICBzaXplOiA2MC4wLAogICAgICAgICAgICAgICksCiAgICAgICAgICAgICksCiAgICAgICAgICAgIFRleHQoCiAgICAgICAgICAgICAgX25hbWUsCiAgICAgICAgICAgICAgc3R5bGU6IFRleHRTdHlsZSgKICAgICAgICAgICAgICAgIGZvbnRTaXplOiA0MC4wLAogICAgICAgICAgICAgICksCiAgICAgICAgICAgICksCiAgICAgICAgICBdLAogICAgICAgICk=</text>
+        <text encoding="base64">bmV3IExpc3RWaWV3LmJ1aWxkZXIoCiAgICAgIGl0ZW1CdWlsZGVyOiAoQnVpbGRDb250ZXh0IGNvbnRleHQsIGludCBpbmRleCkgPT4gY2F0ZWdvcmllc1tpbmRleF0sCiAgICAgIGl0ZW1Db3VudDogY2F0ZWdvcmllcy5sZW5ndGgsCiAgICAp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZDogLAo=</text>
+        <text encoding="base64">ICAgICAgdmFyIG8gPSBfY2F0ZWdvcnlOYW1lc1tpXTsK</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">Um93KAogICAgICAgICAgY2hpbGRyZW46IDxXaWRnZXQ+WwogICAgICAgICAgICBQYWRkaW5nKAogICAgICAgICAgICAgIHBhZGRpbmc6IGNvbnN0IEVkZ2VJbnNldHMuYWxsKDE2LjApLAogICAgICAgICAgICAgIGNoaWxkOiBJY29uKAogICAgICAgICAgICAgICAgX2ljb24sCiAgICAgICAgICAgICAgICBzaXplOiA2MC4wLAogICAgICAgICAgICAgICksCiAgICAgICAgICAgICksCiAgICAgICAgICAgIFRleHQoCiAgICAgICAgICAgICAgX25hbWUsCiAgICAgICAgICAgICAgc3R5bGU6IFRleHRTdHlsZSgKICAgICAgICAgICAgICAgIGZvbnRTaXplOiA0MC4wLAogICAgICAgICAgICAgICksCiAgICAgICAgICAgICksCiAgICAgICAgICBdLAogICAgICAgICk=</text>
+      </register>
+      <register name="t" type="2">
+        <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjaGlsZDogLAo=</text>
+      </register>
+      <register name="7" type="4">
         <text>Container(
       color: Colors.greenAccent,
       height: 400.0,
       width: 300.0,
     )</text>
       </register>
-      <register name="t" type="2">
-        <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGhlaWQK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
