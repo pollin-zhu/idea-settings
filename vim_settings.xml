@@ -423,6 +423,12 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="57" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/main.dart" timestamp="1526467680659">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="11" />
+        <mark key="." line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncServiceMessageFactory.java" timestamp="1521163736384">
         <mark key="[" line="297" column="53" />
         <mark key="]" line="297" column="53" />
@@ -763,8 +769,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gVE9ETzogQ3JlYXRlIFN0YXRlIG9iamVjdCBmb3IgdGhlIENvbnZlcnRlclJvdXRlCg==</text>
+      <register name="&quot;" type="4">
+        <text>CategoryRoute</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -794,7 +800,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eyB9IA==</text>
+        <text>CategoryRoute</text>
       </register>
       <register name="/" type="4">
         <text>Event</text>
