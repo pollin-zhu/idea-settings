@@ -429,6 +429,12 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="57" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/main.dart" timestamp="1526558210052">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="13" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="28" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncServiceMessageFactory.java" timestamp="1521163736384">
         <mark key="[" line="297" column="53" />
         <mark key="]" line="297" column="53" />
@@ -769,8 +775,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJib3VuZERvbWFpbiIsIHN0YXR1cy5nZXREb21haW4oKSk7CiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgic3luY1R5cGUiLCBzdGF0dXMuaXNGdWxsU3luYygpID8gImZ1bGwiIDogImluY3IiKTsKICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJzdGF0dXMiLCBzdGF0dXMuZ2V0U3RhdHVzQ29kZSgpLnRvU3RyaW5nKCkudG9Mb3dlckNhc2UoKSk7CiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgic3RhcnRUaW1lIiwgRGF0ZUZvcm1hdFV0aWxzLklTT19EQVRFVElNRV9GT1JNQVQuZm9ybWF0KHN0YXR1cy5nZXRTdGFydFRpbWUoKSkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoImVuZFRpbWUiLCBEYXRlRm9ybWF0VXRpbHMuSVNPX0RBVEVUSU1FX0ZPUk1BVC5mb3JtYXQoc3RhdHVzLmdldEVuZFRpbWUoKSkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoImR1cmF0aW9uIiwgc3RhdHVzLmdldEVuZFRpbWUoKS5nZXRUaW1lKCkgLSBzdGF0dXMuZ2V0U3RhcnRUaW1lKCkuZ2V0VGltZSgpKTsKCiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgidXNlckNvdW50Iiwgc3RhdHVzLmdldFVzZXJDb3VudCgpKTsKICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJncm91cENvdW50Iiwgc3RhdHVzLmdldEdyb3VwQ291bnQoKSk7CiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgicm9vbUNvdW50Iiwgc3RhdHVzLmdldFJvb21Db3VudCgpKTsKCiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgib2JqZWN0QWRkZWQiLCBzdGF0dXMuZ2V0T2JqZWN0QWRkZWQoKSk7CiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgib2JqZWN0RGVsZXRlZCIsIHN0YXR1cy5nZXRPYmplY3REZWxldGVkKCkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoIm9iamVjdE1vZGlmaWVkIiwgc3RhdHVzLmdldE9iamVjdE1vZGlmaWVkKCkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoIm9iamVjdElzb2xhdGVkIiwgc3RhdHVzLmdldE9iamVjdElzb2xhdGVkKCkpOwoKICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJvYmplY3RXYXJuaW5nIiwgc3RhdHVzLmdldFdhcm5pbmdDb3VudCgpKTsKICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJvYmplY3RGYWlsdXJlIiwgc3RhdHVzLmdldEZhaWx1cmVDb3VudCgpKTsKCiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgiYXZhdGFyVXBkYXRlZCIsIHN0YXR1cy5nZXRBdmF0YXJVcGRhdGVkKCkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoImF2YXRhckZhaWx1cmUiLCBzdGF0dXMuZ2V0QXZhdGFyV2FybmluZygpKTsKPj4+Pj4+PiA3M2U5NDJmY2U5NjM3ODU3MTYwMTVkMWVjN2E4MGM2YzRlODA2YzQ4Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Theme.of(context)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -800,7 +806,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>cookieStateMismatch)</text>
+        <text>Theme.of(context)</text>
       </register>
       <register name="/" type="4">
         <text>Event</text>
