@@ -83,6 +83,12 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/SyncQueryTaskResultCodeHandler.java" timestamp="1526541497953">
+        <mark key="[" line="91" column="8" />
+        <mark key="]" line="91" column="8" />
+        <mark key="." line="91" column="8" />
+        <mark key="^" line="87" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/concurrent/executor/ScalableThreadPoolExecutorTest.java" timestamp="1514857813603">
         <mark key="[" line="184" column="41" />
         <mark key="]" line="22" column="69" />
@@ -296,12 +302,12 @@
         <mark key="^" line="75" column="19" />
         <mark key="." line="77" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLogger.java" timestamp="1526005553935">
-        <mark key="'" line="184" column="0" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="12" />
-        <mark key="." line="161" column="12" />
-        <mark key="^" line="160" column="71" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLogger.java" timestamp="1526541639353">
+        <mark key="'" line="160" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="136" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/State.java" timestamp="1526005150259">
         <mark key="[" line="97" column="57" />
@@ -387,11 +393,11 @@
         <mark key="." line="24" column="32" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/TaskAbandonReason.java" timestamp="1526026903184">
-        <mark key="[" line="24" column="47" />
-        <mark key="]" line="24" column="47" />
-        <mark key="^" line="21" column="108" />
-        <mark key="." line="24" column="47" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/TaskAbandonReason.java" timestamp="1526541222866">
+        <mark key="[" line="13" column="55" />
+        <mark key="]" line="27" column="47" />
+        <mark key="^" line="24" column="108" />
+        <mark key="." line="27" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/ConnectorState.java" timestamp="1526005361863">
         <mark key="[" line="45" column="80" />
@@ -769,8 +775,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>CategoryRoute</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJib3VuZERvbWFpbiIsIHN0YXR1cy5nZXREb21haW4oKSk7CiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgic3luY1R5cGUiLCBzdGF0dXMuaXNGdWxsU3luYygpID8gImZ1bGwiIDogImluY3IiKTsKICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJzdGF0dXMiLCBzdGF0dXMuZ2V0U3RhdHVzQ29kZSgpLnRvU3RyaW5nKCkudG9Mb3dlckNhc2UoKSk7CiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgic3RhcnRUaW1lIiwgRGF0ZUZvcm1hdFV0aWxzLklTT19EQVRFVElNRV9GT1JNQVQuZm9ybWF0KHN0YXR1cy5nZXRTdGFydFRpbWUoKSkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoImVuZFRpbWUiLCBEYXRlRm9ybWF0VXRpbHMuSVNPX0RBVEVUSU1FX0ZPUk1BVC5mb3JtYXQoc3RhdHVzLmdldEVuZFRpbWUoKSkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoImR1cmF0aW9uIiwgc3RhdHVzLmdldEVuZFRpbWUoKS5nZXRUaW1lKCkgLSBzdGF0dXMuZ2V0U3RhcnRUaW1lKCkuZ2V0VGltZSgpKTsKCiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgidXNlckNvdW50Iiwgc3RhdHVzLmdldFVzZXJDb3VudCgpKTsKICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJncm91cENvdW50Iiwgc3RhdHVzLmdldEdyb3VwQ291bnQoKSk7CiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgicm9vbUNvdW50Iiwgc3RhdHVzLmdldFJvb21Db3VudCgpKTsKCiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgib2JqZWN0QWRkZWQiLCBzdGF0dXMuZ2V0T2JqZWN0QWRkZWQoKSk7CiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgib2JqZWN0RGVsZXRlZCIsIHN0YXR1cy5nZXRPYmplY3REZWxldGVkKCkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoIm9iamVjdE1vZGlmaWVkIiwgc3RhdHVzLmdldE9iamVjdE1vZGlmaWVkKCkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoIm9iamVjdElzb2xhdGVkIiwgc3RhdHVzLmdldE9iamVjdElzb2xhdGVkKCkpOwoKICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJvYmplY3RXYXJuaW5nIiwgc3RhdHVzLmdldFdhcm5pbmdDb3VudCgpKTsKICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJvYmplY3RGYWlsdXJlIiwgc3RhdHVzLmdldEZhaWx1cmVDb3VudCgpKTsKCiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgiYXZhdGFyVXBkYXRlZCIsIHN0YXR1cy5nZXRBdmF0YXJVcGRhdGVkKCkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoImF2YXRhckZhaWx1cmUiLCBzdGF0dXMuZ2V0QXZhdGFyV2FybmluZygpKTsKPj4+Pj4+PiA3M2U5NDJmY2U5NjM3ODU3MTYwMTVkMWVjN2E4MGM2YzRlODA2YzQ4Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -800,7 +806,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>CategoryRoute</text>
+        <text>cookieStateMismatch)</text>
       </register>
       <register name="/" type="4">
         <text>Event</text>
@@ -812,31 +818,33 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVE9ETzogQ3JlYXRlIFN0YXRlIG9iamVjdCBmb3IgdGhlIENvbnZlcnRlclJvdXRlCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJib3VuZERvbWFpbiIsIHN0YXR1cy5nZXREb21haW4oKSk7CiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgic3luY1R5cGUiLCBzdGF0dXMuaXNGdWxsU3luYygpID8gImZ1bGwiIDogImluY3IiKTsKICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJzdGF0dXMiLCBzdGF0dXMuZ2V0U3RhdHVzQ29kZSgpLnRvU3RyaW5nKCkudG9Mb3dlckNhc2UoKSk7CiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgic3RhcnRUaW1lIiwgRGF0ZUZvcm1hdFV0aWxzLklTT19EQVRFVElNRV9GT1JNQVQuZm9ybWF0KHN0YXR1cy5nZXRTdGFydFRpbWUoKSkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoImVuZFRpbWUiLCBEYXRlRm9ybWF0VXRpbHMuSVNPX0RBVEVUSU1FX0ZPUk1BVC5mb3JtYXQoc3RhdHVzLmdldEVuZFRpbWUoKSkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoImR1cmF0aW9uIiwgc3RhdHVzLmdldEVuZFRpbWUoKS5nZXRUaW1lKCkgLSBzdGF0dXMuZ2V0U3RhcnRUaW1lKCkuZ2V0VGltZSgpKTsKCiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgidXNlckNvdW50Iiwgc3RhdHVzLmdldFVzZXJDb3VudCgpKTsKICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJncm91cENvdW50Iiwgc3RhdHVzLmdldEdyb3VwQ291bnQoKSk7CiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgicm9vbUNvdW50Iiwgc3RhdHVzLmdldFJvb21Db3VudCgpKTsKCiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgib2JqZWN0QWRkZWQiLCBzdGF0dXMuZ2V0T2JqZWN0QWRkZWQoKSk7CiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgib2JqZWN0RGVsZXRlZCIsIHN0YXR1cy5nZXRPYmplY3REZWxldGVkKCkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoIm9iamVjdE1vZGlmaWVkIiwgc3RhdHVzLmdldE9iamVjdE1vZGlmaWVkKCkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoIm9iamVjdElzb2xhdGVkIiwgc3RhdHVzLmdldE9iamVjdElzb2xhdGVkKCkpOwoKICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJvYmplY3RXYXJuaW5nIiwgc3RhdHVzLmdldFdhcm5pbmdDb3VudCgpKTsKICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJvYmplY3RGYWlsdXJlIiwgc3RhdHVzLmdldEZhaWx1cmVDb3VudCgpKTsKCiAgICAgICAgdHJhZmZpY1N0YXRzTWFwLnB1dCgiYXZhdGFyVXBkYXRlZCIsIHN0YXR1cy5nZXRBdmF0YXJVcGRhdGVkKCkpOwogICAgICAgIHRyYWZmaWNTdGF0c01hcC5wdXQoImF2YXRhckZhaWx1cmUiLCBzdGF0dXMuZ2V0QXZhdGFyV2FybmluZygpKTsKPj4+Pj4+PiA3M2U5NDJmY2U5NjM3ODU3MTYwMTVkMWVjN2E4MGM2YzRlODA2YzQ4Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhdHVzLmdldE9iamVjdE1vdmVkRnJvbSgpID4gMCkgewogICAgICAgICAgICB0cmFmZmljU3RhdHNNYXAucHV0KCJvYmplY3RNb3ZlZEZyb20iLCBzdGF0dXMuZ2V0T2JqZWN0TW92ZWRGcm9tKCkpOwogICAgICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBAb3ZlcnJpZGUKICBXaWRnZXQgYnVpbGQoQnVpbGRDb250ZXh0IGNvbnRleHQpIHsKCiAgfQo=</text>
+      <register name="3" type="4">
+        <text>if (cookieMismatched)
+            abandonReason = TaskAbandonReason.COOKIE_MISS_MATCHED;
+        if ()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIAo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYWJhbmRvblJlYXNvbiA9IFRhc2tBYmFuZG9uUmVhc29uLlVOS05PV047Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y2xhc3MgX0NhdGVnb3J5Um91dGVTdGF0ZSBleHRlbmRzIFN0YXRlPENhdGVnb3J5Um91dGU+IHsKCiAgZmluYWwgY2F0ZWdvcmllcyA9IDxDYXRlZ29yeT5bXTsKCiAgc3RhdGljIGNvbnN0IF9jYXRlZ29yeU5hbWVzID0gPFN0cmluZz5bCiAgICAnTGVuZ3RoJywKICAgICdBcmVhJywKICAgICdWb2x1bWUnLAogICAgJ01hc3MnLAogICAgJ1RpbWUnLAogICAgJ0RpZ2l0YWwgU3RvcmFnZScsCiAgICAnRW5lcmd5JywKICAgICdDdXJyZW5jeScsCiAgXTsKCiAgc3RhdGljIGNvbnN0IF9iYXNlQ29sb3JzID0gPENvbG9yPlsKICAgIENvbG9ycy50ZWFsLAogICAgQ29sb3JzLm9yYW5nZSwKICAgIENvbG9ycy5waW5rQWNjZW50LAogICAgQ29sb3JzLmJsdWVBY2NlbnQsCiAgICBDb2xvcnMueWVsbG93LAogICAgQ29sb3JzLmdyZWVuQWNjZW50LAogICAgQ29sb3JzLnB1cnBsZUFjY2VudCwKICAgIENvbG9ycy5yZWQsCiAgXTsKCiAgLy8vIE1ha2VzIHRoZSBjb3JyZWN0IG51bWJlciBvZiByb3dzIGZvciB0aGUgbGlzdCB2aWV3LgogIC8vLwogIC8vLyBGb3IgcG9ydHJhaXQsIHdlIHVzZSBhIFtMaXN0Vmlld10uCiAgV2lkZ2V0IF9idWlsZENhdGVnb3J5V2lkZ2V0cyhMaXN0PFdpZGdldD4gY2F0ZWdvcmllcykgewogICAgcmV0dXJuIExpc3RWaWV3LmJ1aWxkZXIoCiAgICAgIGl0ZW1CdWlsZGVyOiAoQnVpbGRDb250ZXh0IGNvbnRleHQsIGludCBpbmRleCkgPT4gY2F0ZWdvcmllc1tpbmRleF0sCiAgICAgIGl0ZW1Db3VudDogY2F0ZWdvcmllcy5sZW5ndGgsCiAgICApOwogIH0KCiAgLy8vIFJldHVybnMgYSBsaXN0IG9mIG1vY2sgW1VuaXRdcy4KICBMaXN0PFVuaXQ+IF9yZXRyaWV2ZVVuaXRMaXN0KFN0cmluZyBjYXRlZ29yeU5hbWUpIHsKICAgIHJldHVybiBMaXN0LmdlbmVyYXRlKDEwLCAoaW50IGkpIHsKICAgICAgaSArPSAxOwogICAgICByZXR1cm4gVW5pdCgKICAgICAgICBuYW1lOiAnJGNhdGVnb3J5TmFtZSBVbml0ICRpJywKICAgICAgICBjb252ZXJzaW9uOiBpLnRvRG91YmxlKCksCiAgICAgICk7CiAgICB9KTsKICB9CgogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgLy8gVE9ETzogSW5zdGVhZCBvZiByZS1jcmVhdGluZyBhIGxpc3Qgb2YgQ2F0ZWdvcmllcyBpbiBldmVyeSBidWlsZCgpLAogICAgLy8gc2F2ZSB0aGlzIGFzIGEgdmFyaWFibGUgaW5zaWRlIHRoZSBTdGF0ZSBvYmplY3QgYW5kIGNyZWF0ZQogICAgLy8gdGhlIGxpc3QgYXQgaW5pdGlhbGl6YXRpb24gKGluIGluaXRTdGF0ZSgpKS4KICAgIC8vIFRoaXMgd2F5LCB5b3UgYWxzbyBkb24ndCBoYXZlIHRvIHBhc3MgaW4gdGhlIGxpc3Qgb2YgY2F0ZWdvcmllcyB0bwogICAgLy8gX2J1aWxkQ2F0ZWdvcnlXaWRnZXRzKCkKCgogICAgZm9yICh2YXIgaSA9IDA7IGkgPCBfY2F0ZWdvcnlOYW1lcy5sZW5ndGg7IGkrKykgewogICAgICBjYXRlZ29yaWVzLmFkZChDYXRlZ29yeSgKICAgICAgICBuYW1lOiBfY2F0ZWdvcnlOYW1lc1tpXSwKICAgICAgICBjb2xvcjogX2Jhc2VDb2xvcnNbaV0sCiAgICAgICAgaWNvbkxvY2F0aW9uOiBJY29ucy5jYWtlLAogICAgICAgIHVuaXRzOiBfcmV0cmlldmVVbml0TGlzdChfY2F0ZWdvcnlOYW1lc1tpXSksCiAgICAgICkpOwogICAgfQoKICAgIGZpbmFsIGxpc3RWaWV3ID0gQ29udGFpbmVyKAogICAgICBjb2xvcjogX2JhY2tncm91bmRDb2xvciwKICAgICAgcGFkZGluZzogRWRnZUluc2V0cy5zeW1tZXRyaWMoaG9yaXpvbnRhbDogOC4wKSwKICAgICAgY2hpbGQ6IF9idWlsZENhdGVnb3J5V2lkZ2V0cyhjYXRlZ29yaWVzKSwKICAgICk7CgogICAgZmluYWwgYXBwQmFyID0gQXBwQmFyKAogICAgICBlbGV2YXRpb246IDAuMCwKICAgICAgdGl0bGU6IFRleHQoCiAgICAgICAgJ1VuaXQgQ29udmVydGVyJywKICAgICAgICBzdHlsZTogVGV4dFN0eWxlKAogICAgICAgICAgY29sb3I6IENvbG9ycy5ibGFjaywKICAgICAgICAgIGZvbnRTaXplOiAzMC4wLAogICAgICAgICksCiAgICAgICksCiAgICAgIGNlbnRlclRpdGxlOiB0cnVlLAogICAgICBiYWNrZ3JvdW5kQ29sb3I6IF9iYWNrZ3JvdW5kQ29sb3IsCiAgICApOwoKICAgIHJldHVybiBTY2FmZm9sZCgKICAgICAgYXBwQmFyOiBhcHBCYXIsCiAgICAgIGJvZHk6IGxpc3RWaWV3LAogICAgKTsKICB9Cn0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gVE9ETzogQ3JlYXRlIFN0YXRlIG9iamVjdCBmb3IgdGhlIENvbnZlcnRlclJvdXRlCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAb3ZlcnJpZGUKICBXaWRnZXQgYnVpbGQoQnVpbGRDb250ZXh0IGNvbnRleHQpIHsKCiAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
