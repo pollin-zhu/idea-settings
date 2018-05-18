@@ -853,7 +853,7 @@
         <text encoding="base64">Ly8gVE9ETzogQ3JlYXRlIFN0YXRlIG9iamVjdCBmb3IgdGhlIENvbnZlcnRlclJvdXRlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>127</text>
+        <text>176</text>
       </register>
     </registers>
     <search>
@@ -889,7 +889,6 @@
         <entry>Event</entry>
       </history-search>
       <history-cmd>
-        <entry>34</entry>
         <entry encoding="base64">JXMvVC9DYWNoZWRSZXF1ZXN0XDxSXD4vZ2M=</entry>
         <entry>W</entry>
         <entry>register</entry>
@@ -909,6 +908,7 @@
         <entry>290</entry>
         <entry>59</entry>
         <entry>127</entry>
+        <entry>176</entry>
       </history-cmd>
       <history-expr />
       <history-input />
