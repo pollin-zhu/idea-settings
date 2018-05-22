@@ -59,13 +59,7 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" timestamp="1526991898519">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="95" column="42" />
-        <mark key="]" line="109" column="12" />
-        <mark key="^" line="109" column="12" />
-        <mark key="." line="109" column="12" />
-      </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" timestamp="1526993477496" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" timestamp="1526955844848">
         <mark key="'" line="735" column="10" />
         <mark key="[" line="1008" column="50" />
@@ -175,6 +169,7 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/backdrop.dart" timestamp="1526992209013" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarUtil.java" timestamp="1525249781951">
         <mark key="[" line="123" column="27" />
         <mark key="]" line="123" column="30" />
@@ -338,7 +333,11 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_tile.dart" timestamp="1526991878160" />
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_tile.dart" timestamp="1526992954516">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncCommandHandler.java" timestamp="1526004112267">
         <mark key="[" line="170" column="112" />
         <mark key="]" line="170" column="141" />
@@ -393,6 +392,7 @@
         <mark key="^" line="156" column="79" />
         <mark key="." line="156" column="79" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/unit_converter.dart" timestamp="1526993203949" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/GlobalErrorsRender.java" timestamp="1523946106652">
         <mark key="[" line="24" column="32" />
         <mark key="]" line="24" column="32" />
@@ -457,11 +457,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncResultBuilder.java" timestamp="1526278562633">
-        <mark key="]" line="36" column="68" />
-        <mark key="^" line="36" column="68" />
-        <mark key="." line="36" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" timestamp="1525667334665">
         <mark key="[" line="162" column="45" />
@@ -791,8 +786,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjcm9zc0F4aXNBbGlnbm1lbnQ6IENyb3NzQXhpc0FsaWdubWVudC5zdHJldGNoLAo=</text>
+      <register name="&quot;" type="4">
+        <text>_navigateToConverter(context)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -822,7 +817,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>_navigateToConverter(context)</text>
       </register>
       <register name="/" type="4">
         <text>SummaryRender</text>
