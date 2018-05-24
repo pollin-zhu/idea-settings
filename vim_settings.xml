@@ -11,6 +11,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="63" column="63" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/bean/UserFullBean.java" timestamp="1527142456151" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/core/AddRequest.java" timestamp="1515539990608">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="4" />
