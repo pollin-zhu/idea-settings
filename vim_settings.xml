@@ -310,7 +310,7 @@
         <mark key="^" line="75" column="19" />
         <mark key="." line="77" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/LDAPAvatarStatusDao.java" timestamp="1527141305680" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/LDAPAvatarStatusDao.java" timestamp="1527143625329" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/State.java" timestamp="1526005150259">
         <mark key="[" line="97" column="57" />
         <mark key="]" line="97" column="77" />
@@ -378,6 +378,7 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/AbstractTest.java" timestamp="1527143868760" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/BasicIdentityInfoListRenderTest.java" timestamp="1527059335167">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="4" column="0" />
