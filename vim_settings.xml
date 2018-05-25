@@ -475,8 +475,10 @@
         <mark key="^" line="28" column="30" />
         <mark key="." line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1527231859610">
-        <mark key="'" line="289" column="25" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1527232192817">
+        <mark key="a" line="698" column="45" />
+        <mark key="'" line="705" column="57" />
+        <mark key="z" line="1141" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/SyncDispatcher.java" timestamp="1514452278597">
         <mark key="[" line="27" column="30" />
@@ -687,27 +689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="8" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
-      <jump line="209" column="24" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
-      <jump line="157" column="78" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactory.java" />
-      <jump line="387" column="14" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
-      <jump line="200" column="4" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" />
-      <jump line="879" column="74" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
-      <jump line="1192" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
-      <jump line="120" column="6" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
-      <jump line="121" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
-      <jump line="126" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
-      <jump line="131" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
-      <jump line="134" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
-      <jump line="142" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncDAOUtil.java" />
-      <jump line="112" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/AbstractSyncDeletor.java" />
-      <jump line="148" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/AbstractSyncDeletor.java" />
-      <jump line="50" column="13" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/syncprovider/DefaultSyncProviderImpl.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/LDAPMessageIteratorFromTask.java" />
-      <jump line="571" column="78" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SynchronizationServiceV10Impl.java" />
-      <jump line="14" column="17" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/EngineTaskStatus.java" />
-      <jump line="922" column="34" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="51" column="30" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="285" column="62" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="89" column="65" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
@@ -787,6 +768,27 @@
       <jump line="550" column="14" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/bean/UserFullBeanPatch.java" />
       <jump line="116" column="25" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="289" column="25" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="818" column="77" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="294" column="38" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="1170" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="698" column="4" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="1141" column="4" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="705" column="57" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
