@@ -881,7 +881,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+QWRkZWQ8L3RoPgogICAgICAgICAgICAgICAgICAgIDx0aD5Nb2RpZmllZDwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRoPkRlbGV0ZWQ8L3RoPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>115</text>
+        <text>161</text>
       </register>
     </registers>
     <search>
@@ -917,7 +917,6 @@
         <entry encoding="base64">XDxtZXRhXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>register</entry>
         <entry>286</entry>
         <entry encoding="base64">JzwsJz5kZWxldGU=</entry>
         <entry>+10</entry>
@@ -937,6 +936,7 @@
         <entry>w</entry>
         <entry>810</entry>
         <entry>115</entry>
+        <entry>161</entry>
       </history-cmd>
       <history-expr />
       <history-input />
