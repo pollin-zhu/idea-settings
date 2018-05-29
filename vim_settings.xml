@@ -5,11 +5,11 @@
       <mark key="V" line="578" column="63" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/SyncMapperConfigTest.java" timestamp="1527565813141">
-        <mark key="[" line="48" column="22" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="0" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/SyncMapperConfigTest.java" timestamp="1527569771092">
+        <mark key="[" line="29" column="89" />
+        <mark key="]" line="22" column="41" />
+        <mark key="." line="22" column="41" />
+        <mark key="^" line="22" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncResult.java" timestamp="1522115215835">
         <mark key="[" line="7" column="0" />
@@ -183,7 +183,7 @@
         <mark key="^" line="123" column="30" />
         <mark key="." line="123" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/dirsync-tests/src/main/java/com/cisco/codev/identity/automation/test/cloudconnector/CloudConnectorSmokeTest.java" timestamp="1527566028235" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/dirsync-tests/src/main/java/com/cisco/codev/identity/automation/test/cloudconnector/CloudConnectorSmokeTest.java" timestamp="1527569453813" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/Task.java" timestamp="1526002156658">
         <mark key="[" line="280" column="36" />
         <mark key="]" line="248" column="65" />
@@ -811,7 +811,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdCwgYXJyKTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -841,7 +841,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>cloudMap</text>
+        <text encoding="base64">ID0gY29udmVydCgidjEiLCAidjIiKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRhXD4=</text>
@@ -853,34 +853,34 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdCwgYXJyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBieXRlW11bXSB2YWx1ZXMgPSBjb252ZXJ0KCJ2MSIsICJ2MiIpOwogICAgICAgIGZpbmFsIE1hcDxTdHJpbmcsIGJ5dGVbXVtdPiBpbnB1dE1hcCA9IG5ldyBMaW5rZWRDYXNlSW5zZW5zaXRpdmVNYXA8PigpOwogICAgICAgIGlucHV0TWFwLnB1dChrZXksIHZhbHVlcyk7CiAgICAgICAgZmluYWwgTWFwPFN0cmluZywgYnl0ZVtdW10+IGNsb3VkTWFwID0gbmV3IExpbmtlZENhc2VJbnNlbnNpdGl2ZU1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29udmVydChyZXN1bHQpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBieXRlW11bXSB2YWx1ZXMgPSBjb252ZXJ0KCJ2MSIsICJ2MiIpOwo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8U3RyaW5nLCBieXRlW11bXT4gY2xvdWRNYXAgPSBuZXcgTGlua2VkQ2FzZUluc2Vuc2l0aXZlTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBieXRlW11bXSB2YWx1ZXMgPSBjb252ZXJ0KCJ2MSIsICJ2MiIpOwogICAgICAgIGZpbmFsIE1hcDxTdHJpbmcsIGJ5dGVbXVtdPiBpbnB1dE1hcCA9IG5ldyBMaW5rZWRDYXNlSW5zZW5zaXRpdmVNYXA8PigpOwogICAgICAgIGlucHV0TWFwLnB1dChrZXksIHZhbHVlcyk7CiAgICAgICAgZmluYWwgTWFwPFN0cmluZywgYnl0ZVtdW10+IGNsb3VkTWFwID0gbmV3IExpbmtlZENhc2VJbnNlbnNpdGl2ZU1hcDw+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgd3JhcHBlZEtleSA9IHdyYXBXaXRoQnJhY2UgPyB3cmFwS2V5KGtleSkgOiBrZXk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odG9TdHJpbmcocmVzdWx0KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGZpbmFsIFN0cmluZyBpdGVtIDogaXRlbXMpIHsKICAgICAgICAgICAgcmV0CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8U3RyaW5nLCBieXRlW11bXT4gY2xvdWRNYXAgPSBuZXcgTGlua2VkQ2FzZUluc2Vuc2l0aXZlTWFwPD4oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>288</text>
