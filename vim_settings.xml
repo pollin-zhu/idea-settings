@@ -70,7 +70,6 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncAttributeMapping.java" timestamp="1527472758096" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/TestDirSyncReportSender.java" timestamp="1521619704035">
         <mark key="[" line="246" column="20" />
         <mark key="]" line="246" column="35" />
@@ -143,7 +142,6 @@
         <mark key="." line="33" column="47" />
         <mark key="^" line="33" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/CI-Automation-Framework/src/main/java/com/cisco/codev/identity/automation/framework/common/CloudConnectorPropUtil.java" timestamp="1527554553806" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/TargetLoader.java" timestamp="1515390132954">
         <mark key="[" line="34" column="31" />
         <mark key="]" line="34" column="31" />
@@ -183,7 +181,6 @@
         <mark key="^" line="123" column="30" />
         <mark key="." line="123" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/dirsync-tests/src/main/java/com/cisco/codev/identity/automation/test/cloudconnector/CloudConnectorSmokeTest.java" timestamp="1527569453813" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/Task.java" timestamp="1526002156658">
         <mark key="[" line="280" column="36" />
         <mark key="]" line="248" column="65" />
@@ -303,6 +300,9 @@
         <mark key="]" line="56" column="8" />
         <mark key="." line="56" column="8" />
         <mark key="^" line="52" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/dirSyncServiceInternal.properties" timestamp="1527645593258">
+        <mark key="'" line="18" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/SyncSummary.java" timestamp="1523516176197">
         <mark key="[" line="77" column="4" />
@@ -458,7 +458,6 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleUtils.java" timestamp="1527472807653" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncReportSender.java" timestamp="1525667334665">
         <mark key="[" line="162" column="45" />
         <mark key="]" line="162" column="45" />
@@ -477,7 +476,7 @@
         <mark key="^" line="28" column="30" />
         <mark key="." line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1527641919929">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1527645417548">
         <mark key="a" line="1162" column="66" />
         <mark key="'" line="61" column="29" />
         <mark key="z" line="1141" column="18" />
@@ -694,7 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="65" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="162" column="53" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="1016" column="62" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="894" column="47" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/domain/DirSyncSynchronizationQueryTaskImpl.java" />
@@ -794,6 +792,7 @@
       <jump line="705" column="57" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="199" column="88" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncInput.java" />
       <jump line="61" column="29" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
+      <jump line="18" column="67" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/dirSyncServiceInternal.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -844,7 +843,7 @@
         <text encoding="base64">ID0gY29udmVydCgidjEiLCAidjIiKQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXRhXD4=</text>
+        <text>sipAdd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdCwgc3RyaW5nQ29udGFpbnNJbk9yZGVyKEFycmF5cy5hc0xpc3QoIjx0ciIsICI8L3RyPiIsICI8dHIiLCAiPC90cj4iLCAiPHRyIiwgIjwvdHI+IikpKTsK</text>
@@ -887,9 +886,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXRhXD4=</last-search>
+      <last-search>sipAdd</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXRhXD4=</last-pattern>
+      <last-pattern>sipAdd</last-pattern>
       <last-replace encoding="base64">Q2FjaGVkUmVxdWVzdFw8Ulw+</last-replace>
       <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
@@ -897,7 +896,6 @@
     </search>
     <history>
       <history-search>
-        <entry>{</entry>
         <entry>protected</entry>
         <entry>T</entry>
         <entry encoding="base64">XDx0ZXJtaW5hbEZhY3RvcnlcPg==</entry>
@@ -917,6 +915,7 @@
         <entry>Event</entry>
         <entry>SummaryRender</entry>
         <entry encoding="base64">XDxtZXRhXD4=</entry>
+        <entry>sipAdd</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
