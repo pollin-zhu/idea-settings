@@ -275,11 +275,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="257" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/FullSyncMapper4SipaddressCaseTest.java" timestamp="1527815646334">
-        <mark key="[" line="49" column="64" />
-        <mark key="]" line="47" column="49" />
-        <mark key="^" line="47" column="49" />
-        <mark key="." line="47" column="49" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/FullSyncMapper4SipaddressCaseTest.java" timestamp="1527818448121">
+        <mark key="[" line="48" column="91" />
+        <mark key="]" line="48" column="31" />
+        <mark key="." line="48" column="31" />
+        <mark key="^" line="48" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/io/localfs/LocalFsReaderFactory.java" timestamp="1514505912562">
         <mark key="[" line="14" column="21" />
@@ -833,8 +833,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;Display Name Value&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -876,34 +876,34 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5OiBfaW5wdXRLZXksCg==</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2hpbGQ6IGNvbnZlcnRlciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5OiBfaW5wdXRLZXksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY3Jvc3NBeGlzQWxpZ25tZW50OiBDcm9zc0F4aXNBbGlnbm1lbnQuc3RyZXRjaCwK</text>
+        <text encoding="base64">ICAgICAgY2hpbGQ6IGNvbnZlcnRlciwK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdCwgYXJyKTsK</text>
+        <text encoding="base64">ICAgICAgY3Jvc3NBeGlzQWxpZ25tZW50OiBDcm9zc0F4aXNBbGlnbm1lbnQuc3RyZXRjaCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29udmVydChyZXN1bHQpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdCwgYXJyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29udmVydChyZXN1bHQpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBieXRlW11bXSB2YWx1ZXMgPSBjb252ZXJ0KCJ2MSIsICJ2MiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBieXRlW11bXSB2YWx1ZXMgPSBjb252ZXJ0KCJ2MSIsICJ2MiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>161</text>
