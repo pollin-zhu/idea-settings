@@ -79,7 +79,7 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/IncrementalSyncMapper4SipaddressCaseTest.java" timestamp="1528161963156">
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/IncrementalSyncMapper4SipaddressCaseTest.java" timestamp="1528181846089">
         <mark key="[" line="33" column="34" />
         <mark key="]" line="33" column="35" />
         <mark key="." line="33" column="35" />
@@ -570,13 +570,13 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/IncrementalSyncMapper.java" timestamp="1528180510931">
-        <mark key="a" line="95" column="12" />
-        <mark key="'" line="95" column="124" />
-        <mark key="[" line="98" column="16" />
-        <mark key="]" line="98" column="67" />
-        <mark key="." line="98" column="67" />
-        <mark key="^" line="98" column="67" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/IncrementalSyncMapper.java" timestamp="1528181900555">
+        <mark key="a" line="94" column="12" />
+        <mark key="'" line="94" column="124" />
+        <mark key="[" line="77" column="17" />
+        <mark key="]" line="77" column="17" />
+        <mark key="." line="77" column="17" />
+        <mark key="^" line="97" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1515390871346">
         <mark key="[" line="74" column="14" />
@@ -877,7 +877,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>currCloudValues.get(LDAP_ATTR_E_SIPADDRESSES_PRIMARY)</text>
+        <text>e</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -907,7 +907,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>currCloudValues.get(LDAP_ATTR_E_SIPADDRESSES_PRIMARY)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnVzdGVkT3JnczRIdG1sUmVwb3J0XD4=</text>
