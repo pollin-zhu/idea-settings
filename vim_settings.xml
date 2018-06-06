@@ -510,6 +510,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleUtils.java" timestamp="1528263868695">
+        <mark key="'" line="425" column="38" />
+        <mark key="[" line="67" column="55" />
+        <mark key="]" line="67" column="55" />
+        <mark key="." line="67" column="55" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/FullSyncMapper.java" timestamp="1528099745508">
         <mark key="[" line="76" column="80" />
         <mark key="]" line="76" column="78" />
@@ -759,7 +765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLogger.java" />
       <jump line="112" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLogger.java" />
       <jump line="115" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLogger.java" />
       <jump line="122" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLogger.java" />
@@ -859,6 +864,7 @@
       <jump line="74" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/IncrementalSyncMapper4SipaddressCaseTest.java" />
       <jump line="84" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/IncrementalSyncMapper4SipaddressCaseTest.java" />
       <jump line="86" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/IncrementalSyncMapper4SipaddressCaseTest.java" />
+      <jump line="424" column="38" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleUtils.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -875,8 +881,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIExpc3Q8Ynl0ZVtdPiBnZXRNYXRjaGVkRGVsZXRlZFZhbHVlcyhmaW5hbCBieXRlW11bXSB0b2JlRGV0ZWxlZFZhbHVlcywgZmluYWwgYnl0ZVtdW10gY2xvdWRWYWx1ZXMpIHsKICAgICAgICBmaW5hbCBMaXN0PGJ5dGVbXT4gcmVzdWx0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgZm9yIChmaW5hbCBieXRlW10gdG9iZURldGVsZWRWYWx1ZSA6IHRvYmVEZXRlbGVkVmFsdWVzKSB7CiAgICAgICAgICAgIGlmIChjb250YWlucyhjbG91ZFZhbHVlcywgdG9iZURldGVsZWRWYWx1ZSkpIHsKICAgICAgICAgICAgICAgIHJlc3VsdC5hZGQodG9iZURldGVsZWRWYWx1ZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>&quot;sipAddresses;type-enterprise&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -906,7 +912,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>DELETE</text>
+        <text>&quot;sipAddresses;type-enterprise&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnVzdGVkT3JnczRIdG1sUmVwb3J0XD4=</text>
