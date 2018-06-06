@@ -206,6 +206,7 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/CI-Automation-Framework/src/main/java/com/cisco/codev/identity/automation/framework/cloudconnector/ManagementCSharpAPISoap.java" timestamp="1528246750885" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarUtil.java" timestamp="1525249781951">
         <mark key="[" line="123" column="27" />
         <mark key="]" line="123" column="30" />
@@ -535,11 +536,6 @@
         <mark key="^" line="28" column="30" />
         <mark key="." line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" timestamp="1527647967678">
-        <mark key="a" line="1162" column="66" />
-        <mark key="'" line="731" column="83" />
-        <mark key="z" line="1141" column="18" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/SyncDispatcher.java" timestamp="1514452278597">
         <mark key="[" line="27" column="30" />
         <mark key="]" line="32" column="7" />
@@ -680,7 +676,7 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/dirsync-tests/src/main/java/com/cisco/codev/identity/automation/test/cloudconnector/CloudConnectorAttribMap2Test.java" timestamp="1528246036487" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/dirsync-tests/src/main/java/com/cisco/codev/identity/automation/test/cloudconnector/CloudConnectorAttribMap2Test.java" timestamp="1528246484455" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/MyPebbleExtension.java" timestamp="1523957990078">
         <mark key="[" line="15" column="49" />
         <mark key="]" line="16" column="44" />
