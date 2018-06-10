@@ -531,6 +531,12 @@
         <mark key="]" line="67" column="55" />
         <mark key="." line="67" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/book-examples/Dart-Scalable-Application-Development/Module 1/B04243_Code/Chapter 1/Code/End/TextEditor/web/main.dart" timestamp="1528604304058">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="24" column="60" />
+        <mark key="^" line="24" column="60" />
+        <mark key="." line="24" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/FullSyncMapper.java" timestamp="1528099745508">
         <mark key="[" line="76" column="80" />
         <mark key="]" line="76" column="78" />
@@ -891,7 +897,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>PrimaryUserAddress</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -921,7 +927,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>PrimaryUserAddress</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaXBBZGRyZXNzZXNcPg==</text>
