@@ -44,6 +44,9 @@
         <mark key="." line="357" column="30" />
         <mark key="^" line="357" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/syncService.properties" timestamp="1528941471651">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/format/ldap/LdifReader.java" timestamp="1514502916457">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -772,7 +775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="18" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/AbstractSyncMapper.java" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category.dart" />
       <jump line="147" column="45" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/converter_route.dart" />
       <jump line="167" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/converter_route.dart" />
@@ -872,6 +874,7 @@
       <jump line="154" column="49" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/datastore/DirSyncServiceSyncTest.java" />
       <jump line="501" column="37" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/datastore/DirSyncServiceSyncTest.java" />
       <jump line="514" column="60" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/datastore/DirSyncServiceSyncTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/syncService.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -922,7 +925,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaXBBZGRyZXNzZXNcPg==</text>
+        <text>huge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICAvKioKICAgICAqIFRDLVgwMDE6IENvbXBhdGliaWxpdHk6IExvY2FsIDEgdnMuIENsb3VkIDEobWF0Y2hlZCBidXQgbm90IHByaW1hcnkgKQogICAgICovCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgcHJvY2Vzc19UQ19YMDAxKCkgewogICAgICAgIGJ1aWxkZXIKICAgICAgICAgICAgLm5ld1NBcygiYSIpCiAgICAgICAgICAgIC5jbG91ZEVTQXMobnVsbCwgImEiKQogICAgICAgIDsKICAgICAgICBpbml0RGF0YSgpOwoKICAgICAgICBleGVjdXRlQW5kQXNzZXJ0R2VuZXJhbGx5KDIpOwoKICAgICAgICBhc3NlcnRUaGF0KGdldE9wZXJhdGVkQXR0cihSRVBMQUNFLCBlU2lwQWRkcmVzc1dpdGhQcmltYXJ5KS5nZXRTdHJpbmdWYWx1ZSgpLCBpcygiYSIpKTsKICAgICAgICBhc3NlcnRUaGF0KGdldE9wZXJhdGVkQXR0cihERUxFVEUsIGVTaXBBZGRyZXNzKS5nZXRTdHJpbmdWYWx1ZSgpLCBpcygiYSIpKTsKICAgIH0K</text>
@@ -965,9 +968,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaXBBZGRyZXNzZXNcPg==</last-search>
+      <last-search>huge</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaXBBZGRyZXNzZXNcPg==</last-pattern>
+      <last-pattern>huge</last-pattern>
       <last-replace>process_</last-replace>
       <last-substitute>process_TC_</last-substitute>
       <last-dir>1</last-dir>
@@ -975,7 +978,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2dNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDx0YXNrU3RhdHVzXD4=</entry>
         <entry>DirSyncReportSender</entry>
         <entry encoding="base64">XDxkZWZCdW5kbGVcPg==</entry>
@@ -995,6 +997,7 @@
         <entry>process_TC_</entry>
         <entry encoding="base64">XDxidWlsZGVyXD4=</entry>
         <entry encoding="base64">XDxzaXBBZGRyZXNzZXNcPg==</entry>
+        <entry>huge</entry>
       </history-search>
       <history-cmd>
         <entry>registers</entry>
