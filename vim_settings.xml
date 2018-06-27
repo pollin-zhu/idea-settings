@@ -76,6 +76,12 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" timestamp="1530084707774">
+        <mark key="[" line="79" column="43" />
+        <mark key="]" line="79" column="71" />
+        <mark key="." line="79" column="71" />
+        <mark key="^" line="79" column="71" />
+      </file>
       <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" timestamp="1528285388113">
         <mark key="[" line="177" column="0" />
         <mark key="]" line="177" column="0" />
@@ -181,7 +187,6 @@
         <mark key="." line="33" column="47" />
         <mark key="^" line="33" column="47" />
       </file>
-      <file name="$USER_HOME$/apps/flutter/packages/flutter/lib/src/widgets/async.dart" timestamp="1529993820915" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/TargetLoader.java" timestamp="1515390132954">
         <mark key="[" line="34" column="31" />
         <mark key="]" line="34" column="31" />
@@ -330,6 +335,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="257" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/resources/gsseg_jaas.conf" timestamp="1530084279480">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/FullSyncMapper4SipaddressCaseTest.java" timestamp="1528331917320">
         <mark key="'" line="103" column="8" />
@@ -556,6 +566,13 @@
         <mark key="^" line="24" column="60" />
         <mark key="." line="24" column="61" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/README.md" timestamp="1530064420475">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/FullSyncMapper.java" timestamp="1528099745508">
         <mark key="[" line="76" column="80" />
         <mark key="]" line="76" column="78" />
@@ -686,8 +703,10 @@
         <mark key="^" line="203" column="54" />
         <mark key="." line="203" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529658600562">
+      <file name="/Dummy.txt" timestamp="1530084712438">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/SummaryRender.java" timestamp="1523923005450">
         <mark key="[" line="36" column="0" />
@@ -801,8 +820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category.dart" />
-      <jump line="147" column="45" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/converter_route.dart" />
       <jump line="167" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/converter_route.dart" />
       <jump line="735" column="10" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="122" column="32" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" />
@@ -901,6 +918,8 @@
       <jump line="501" column="37" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/datastore/DirSyncServiceSyncTest.java" />
       <jump line="514" column="60" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/datastore/DirSyncServiceSyncTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/syncService.properties" />
+      <jump line="4" column="2" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/README.md" />
+      <jump line="0" column="2" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -917,8 +936,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/o=JndiTutorial</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -948,10 +967,10 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>/o=JndiTutorial</text>
       </register>
       <register name="/" type="4">
-        <text>huge</text>
+        <text encoding="base64">XDxKYXZhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IEZ1dHVyZUJ1aWxkZXIoYnVpbGRlcjogX2J1aWxkRGlyZWN0b3J5LCBmdXR1cmU6IF90ZW1wRGlyLCksCg==</text>
@@ -960,51 +979,50 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgX3JlYWRTZFJvb3QoKTsK</text>
+        <text encoding="base64">LyoqCiAqIExvZ2luIENvbmZpZ3VyYXRpb24gZm9yIEpBQVMuCiAqCiAqIFNwZWNpZnkgdGhhdCBLZXJiZXJvcyB2NSBpcyBhIHJlcXVpcmVkIGxvZ2luIG1vZHVsZSBmb3IgdGhlCiAqIGV4YW1wbGUgY2xhc3NlczogR3NzRXhhbXBsZSBhbmQgTXV0dWFsLgogKi8K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ck11dHVhbCB7CiAgY29tLnN1bi5zZWN1cml0eS5hdXRoLm1vZHVsZS5LcmI1TG9naW5Nb2R1bGUgcmVxdWlyZWQgY2xpZW50PVRSVUU7Cn07</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgX2FwcGRhdGFEaXIgPSBnZXRBcHBsaWNhdGlvbkRvY3VtZW50c0RpcmVjdG9yeSgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLmxhbmcuU3lzdGVtLm91dDsK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRGlyZWN0b3J5Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZmlsZS4K</text>
+        <text encoding="base64">ICAgICAgX3JlYWRTZFJvb3QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZmlsZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBmaWxlID0gbmV3IEZpbGUoJy9tbnQnKTsK</text>
+        <text encoding="base64">ICAgICAgX2FwcGRhdGFEaXIgPSBnZXRBcHBsaWNhdGlvbkRvY3VtZW50c0RpcmVjdG9yeSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBGdXR1cmU8RGljdGlvbmFyeT4K</text>
+        <text encoding="base64">ICAgICAgRGlyZWN0b3J5Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>242</text>
       </register>
     </registers>
     <search>
-      <last-search>huge</last-search>
+      <last-search encoding="base64">XDxKYXZhXD4=</last-search>
       <last-offset />
-      <last-pattern>huge</last-pattern>
+      <last-pattern encoding="base64">XDxKYXZhXD4=</last-pattern>
       <last-replace>process_</last-replace>
       <last-substitute>process_TC_</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YXNrU3RhdHVzXD4=</entry>
         <entry>DirSyncReportSender</entry>
         <entry encoding="base64">XDxkZWZCdW5kbGVcPg==</entry>
         <entry encoding="base64">XDxodG1sQXR0YWNobWVudFw+</entry>
@@ -1024,6 +1042,7 @@
         <entry encoding="base64">XDxidWlsZGVyXD4=</entry>
         <entry encoding="base64">XDxzaXBBZGRyZXNzZXNcPg==</entry>
         <entry>huge</entry>
+        <entry encoding="base64">XDxKYXZhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>185</entry>
