@@ -566,12 +566,11 @@
         <mark key="^" line="24" column="60" />
         <mark key="." line="24" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/README.md" timestamp="1530064420475">
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/README.md" timestamp="1530152530345">
         <mark key="'" line="0" column="2" />
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/FullSyncMapper.java" timestamp="1528099745508">
         <mark key="[" line="76" column="80" />
@@ -936,8 +935,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/o=JndiTutorial</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBgYGBqYXZhIC1jcCAuL3Jlc2VhcmNoLW50bG0tMS4wLVNOQVBTSE9ULmphciAtRGphdmEuc2VjdXJpdHkuYXV0aC5sb2dpbi5jb25maWc9Z3NzZWdfamFhcy5jb25mIEdzc0V4YW1wbGVgYGAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -979,34 +978,34 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKTsK</text>
+        <text encoding="base64">LSBgYGBqYXZhIC1jcCAuL3Jlc2VhcmNoLW50bG0tMS4wLVNOQVBTSE9ULmphciAtRGphdmEuc2VjdXJpdHkuYXV0aC5sb2dpbi5jb25maWc9Z3NzZWdfamFhcy5jb25mIEdzc0V4YW1wbGVgYGAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">LyoqCiAqIExvZ2luIENvbmZpZ3VyYXRpb24gZm9yIEpBQVMuCiAqCiAqIFNwZWNpZnkgdGhhdCBLZXJiZXJvcyB2NSBpcyBhIHJlcXVpcmVkIGxvZ2luIG1vZHVsZSBmb3IgdGhlCiAqIGV4YW1wbGUgY2xhc3NlczogR3NzRXhhbXBsZSBhbmQgTXV0dWFsLgogKi8K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ck11dHVhbCB7CiAgY29tLnN1bi5zZWN1cml0eS5hdXRoLm1vZHVsZS5LcmI1TG9naW5Nb2R1bGUgcmVxdWlyZWQgY2xpZW50PVRSVUU7Cn07</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLmxhbmcuU3lzdGVtLm91dDsK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLmxhbmcuU3lzdGVtLm91dDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgX3JlYWRTZFJvb3QoKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgX3JlYWRTZFJvb3QoKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgX2FwcGRhdGFEaXIgPSBnZXRBcHBsaWNhdGlvbkRvY3VtZW50c0RpcmVjdG9yeSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgRGlyZWN0b3J5Lgo=</text>
+        <text encoding="base64">ICAgICAgX2FwcGRhdGFEaXIgPSBnZXRBcHBsaWNhdGlvbkRvY3VtZW50c0RpcmVjdG9yeSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>242</text>
