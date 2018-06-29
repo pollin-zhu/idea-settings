@@ -47,9 +47,6 @@
         <mark key="." line="357" column="30" />
         <mark key="^" line="357" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/syncService.properties" timestamp="1528941471651">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/format/ldap/LdifReader.java" timestamp="1514502916457">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -440,6 +437,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/resources/open-sources/kotlin-dsl/samples/hello-world/build.gradle.kts" timestamp="1530270605899">
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="49" />
+        <mark key="." line="10" column="49" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/eventbus/event/SyncTaskAbandonedEvent.java" timestamp="1525916208294">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="20" column="25" />
@@ -704,6 +706,7 @@
         <mark key="." line="58" column="20" />
         <mark key="^" line="58" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" timestamp="1530268457120" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/handler/DirSyncPostProcessingHandlerTest.java" timestamp="1524563342268">
         <mark key="[" line="203" column="27" />
         <mark key="]" line="203" column="54" />
