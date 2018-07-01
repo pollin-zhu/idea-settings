@@ -143,11 +143,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/refactoring/Rental.kt" timestamp="1530441019507">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="7" column="54" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/refactoring/Rental.kt" timestamp="1530445867254">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="54" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/personal/mobileApps/photokit/pubspec.yaml" timestamp="1529992534150">
         <mark key="[" line="18" column="2" />
@@ -495,6 +495,13 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/refactoring/Customer.kt" timestamp="1530445873611">
+        <mark key="'" line="0" column="18" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="47" column="77" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/AbstractSyncMapper4SipaddressCaseTest.java" timestamp="1528183998766">
         <mark key="[" line="78" column="27" />
         <mark key="]" line="78" column="26" />
@@ -594,9 +601,6 @@
         <mark key="]" line="76" column="78" />
         <mark key="." line="76" column="78" />
         <mark key="^" line="76" column="78" />
-      </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/datastore/LdapProviderUtilsTest.java" timestamp="1529563705374">
-        <mark key="a" line="73" column="88" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/AbandonMessageHandler.java" timestamp="1526005991766">
         <mark key="[" line="73" column="28" />
@@ -724,11 +728,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/refactoring/Movie.kt" timestamp="1530441000858">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="53" />
-        <mark key="." line="0" column="41" />
-        <mark key="^" line="0" column="41" />
+      <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/refactoring/Movie.kt" timestamp="1530445879076">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/SummaryRender.java" timestamp="1523923005450">
         <mark key="[" line="36" column="0" />
@@ -831,7 +835,7 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1529540717687">
+      <file name="/fragment.java" timestamp="1530443573656">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/GlobalErrorsRenderTest.java" timestamp="1527040341212">
@@ -847,8 +851,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/converter_route.dart" />
-      <jump line="735" column="10" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/applicationBeans.xml" />
       <jump line="122" column="32" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" />
       <jump line="119" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" />
       <jump line="108" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" />
@@ -947,6 +949,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/properties/syncService.properties" />
       <jump line="4" column="2" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/README.md" />
       <jump line="0" column="2" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/README.md" />
+      <jump line="31" column="83" filename="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/refactoring/Customer.kt" />
+      <jump line="0" column="18" filename="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/refactoring/Customer.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -964,7 +968,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSByZWZhY3RvcmluZwo=</text>
+        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSAxLzcvMjAxOAogKiBAYXV0aG9yIDxhIGhyZWY9Im1haWx0bzplcmljLnpodUBsaXZlLmNuIj5FcmljIFpodTwvYT4KICovCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1000,40 +1004,40 @@
         <text encoding="base64">XDxKYXZhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSB2aXAubWVldHVzLnBvc3QuZm9udG1ha2VleGNlbGxlbnQucmVmYWN0b3JpbmcK</text>
+        <text encoding="base64">ICogQGF1dGhvciA8YSBocmVmPSJtYWlsdG86ZXJpYy56aHVAbGl2ZS5jbiI+RXJpYyBaaHU8L2E+Cg==</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSByZWZhY3RvcmluZwo=</text>
+        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSAxLzcvMjAxOAogKiBAYXV0aG9yIDxhIGhyZWY9Im1haWx0bzplcmljLnpodUBsaXZlLmNuIj5FcmljIFpodTwvYT4KICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSAxLzcvMjAxOAogKiBAYXV0aG9yIDxhIGhyZWY9Im1haWx0bzplcmljLnpodUBsaXZlLmNuIj5FcmljIFpodTwvYT4KICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSAxLzcvMjAxOAogKiBAYXV0aG9yIDxhIGhyZWY9Im1haWx0bzplcmljLnpodUBsaXZlLmNuIj5FcmljIFpodTwvYT4KICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSAxLzcvMjAxOAogKiBAYXV0aG9yIDxhIGhyZWY9Im1haWx0bzpxaXVqemh1QGNpc2NvLmNvbSI+UG9sbGluIFpodTwvYT4gRnJvbSBDQ1RHLgogKi8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1vdmllVHlwZSA9IHJlbnRhbC5tb3ZpZS50eXBlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqYWNrTwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGphY2sK</text>
+        <text encoding="base64">aW1wb3J0IE1vdmllLioK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGVuZCgiZ2V0RXh0ZXJuYWxGaWxlc0RpcnM6ICIpLgoK</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBNb3ZpZSh2YWwgdGl0bGU6IFN0cmluZywgdmFyIHR5cGU6IE1vdmllVHlwZSkK</text>
       </register>
       <register name=":" type="4">
         <text>242</text>
