@@ -20,6 +20,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="63" column="63" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/JndiLdapExample.java" timestamp="1530509106572">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/core/AddRequest.java" timestamp="1515539990608">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="4" />
@@ -76,11 +81,11 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" timestamp="1530506904846">
-        <mark key="[" line="86" column="53" />
-        <mark key="]" line="86" column="53" />
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" timestamp="1530508821466">
+        <mark key="[" line="59" column="25" />
+        <mark key="]" line="59" column="25" />
         <mark key="^" line="127" column="50" />
-        <mark key="." line="86" column="53" />
+        <mark key="." line="59" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" timestamp="1528285388113">
         <mark key="[" line="177" column="0" />
@@ -597,8 +602,11 @@
         <mark key="." line="73" column="113" />
         <mark key="^" line="73" column="113" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/JndiLdapOperation.java" timestamp="1530506785350">
-        <mark key="[" line="6" column="32" />
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/JndiLdapOperation.java" timestamp="1530509013581">
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="34" column="55" />
+        <mark key="." line="34" column="55" />
+        <mark key="^" line="34" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/AvatarFailedRender.java" timestamp="1524183164710">
         <mark key="[" line="27" column="0" />
@@ -833,7 +841,7 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1530506387682">
+      <file name="/fragment.java" timestamp="1530509262866">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/GlobalErrorsRenderTest.java" timestamp="1527040341212">
@@ -966,7 +974,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>args</text>
+        <text>anonymous ? &quot;none&quot; : &quot;GSSAPI&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -996,7 +1004,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>args</text>
+        <text>anonymous ? &quot;none&quot; : &quot;GSSAPI&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKYXZhXD4=</text>
@@ -1008,13 +1016,13 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nW10gYXJnczsKCiAgICBwdWJsaWMgSm5kaUFjdGlvbihTdHJpbmdbXSBvcmlnQXJncykgewogICAgICAgIHRoaXMuYXJncyA9IChTdHJpbmdbXSlvcmlnQXJncy5jbG9uZSgpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBPcHRpb25hbCBmaXJzdCBhcmd1bWVudCBpcyBjb21tYS1zZXBhcmF0ZWQgbGlzdCBvZiBhdXRoLCBhdXRoLWludCwKICAgICAgICAvLyBhdXRoLWNvbmYKICAgICAgICBpZiAoYXJncy5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgIGVudi5wdXQoImphdmF4LnNlY3VyaXR5LnNhc2wucW9wIiwgYXJnc1swXSk7CiAgICAgICAgICAgIGRuID0gYXJnc1sxXTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBkbiA9ICIiOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItYXV0aGVudGljYXRpb24iLCBhbGlhc2VzID0gIi0tYXV0aGVudGljYXRpb24iLAogICAgICAgICAgICB1c2FnZSA9ICJTZXQgYXV0aGVudGljYXRpb24sIG9wdGlvbmFsIHZhbHVlczogJ0dTU0FQSScsICdLRVIiCiAgICApCiAgICBwdWJsaWMgU3RyaW5nIGF1dGhlbnRpY2F0aW9uID0gIkdTU0FQSSI7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1023,19 +1031,19 @@
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAxLiBMb2cgaW4gKHRvIEtlcmJlcm9zKQogICAgICAgIExvZ2luQ29udGV4dCBsYyA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgbGMgPSBuZXcgTG9naW5Db250ZXh0KEdzc0V4YW1wbGUuY2xhc3MuZ2V0TmFtZSgpLAogICAgICAgICAgICAgICAgICAgIG5ldyBTYW1wbGVDYWxsYmFja0hhbmRsZXIoKSk7CgogICAgICAgICAgICAvLyBBdHRlbXB0IGF1dGhlbnRpY2F0aW9uCiAgICAgICAgICAgIC8vIFlvdSBtaWdodCB3YW50IHRvIGRvIHRoaXMgaW4gYSAiZm9yIiBsb29wIHRvIGdpdmUKICAgICAgICAgICAgLy8gdXNlciBtb3JlIHRoYW4gb25lIGNoYW5jZSB0byBlbnRlciBjb3JyZWN0IHVzZXJuYW1lL3Bhc3N3b3JkCiAgICAgICAgICAgIGxjLmxvZ2luKCk7CgogICAgICAgIH0gY2F0Y2ggKExvZ2luRXhjZXB0aW9uIGxlKSB7CiAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRsbigiQXV0aGVudGljYXRpb24gYXR0ZW1wdCBmYWlsZWQiICsgbGUpOwogICAgICAgICAgICBTeXN0ZW0uZXhpdCgtMSk7CiAgICAgICAgfQoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkF1dGggc3VjY2VlZGVkISBzdWJqZWN0OiAiICsgbGMuZ2V0U3ViamVjdCgpKTsKCiAgICAgICAgLy8gMi4gUGVyZm9ybSBKTkRJIHdvcmsgYXMgbG9nZ2VkIGluIHN1YmplY3QKICAgICAgICBTdWJqZWN0LmRvQXMobGMuZ2V0U3ViamVjdCgpLCBuZXcgSm5kaUFjdGlvbihhcmdzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBDbWRMaW5lUGFyc2VyIHBhcnNlciA9IG5ldyBDbWRMaW5lUGFyc2VyKHRlc3QpOwoKICAgICAgICB0cnkgewogICAgICAgICAgICBwYXJzZXIucGFyc2VBcmd1bWVudChhcmdzKTsKICAgICAgICAgICAgaWYgKHRlc3QuaXNIZWxwKSB7CiAgICAgICAgICAgICAgICBwcmludFVzYWdlKHBhcnNlcik7CiAgICAgICAgICAgICAgICBTeXN0ZW0uZXhpdCgwKTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKENtZExpbmVFeGNlcHRpb24gZSkgewogICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oZS5nZXRMb2NhbGl6ZWRNZXNzYWdlKCkpOwogICAgICAgICAgICBwcmludFVzYWdlKHBhcnNlcik7CiAgICAgICAgICAgIFN5c3RlbS5leGl0KC0xKTsKICAgICAgICB9CgogICAgICAgIHRlc3QucnVuKCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nW10gYXJnczsKCiAgICBwdWJsaWMgSm5kaUFjdGlvbihTdHJpbmdbXSBvcmlnQXJncykgewogICAgICAgIHRoaXMuYXJncyA9IChTdHJpbmdbXSlvcmlnQXJncy5jbG9uZSgpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyB2b2lkIHByaW50VXNhZ2UoZmluYWwgQ21kTGluZVBhcnNlciBwYXJzZXIpIHsKICAgICAgICBwYXJzZXIucHJpbnRVc2FnZShTeXN0ZW0uZXJyKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBPcHRpb25hbCBmaXJzdCBhcmd1bWVudCBpcyBjb21tYS1zZXBhcmF0ZWQgbGlzdCBvZiBhdXRoLCBhdXRoLWludCwKICAgICAgICAvLyBhdXRoLWNvbmYKICAgICAgICBpZiAoYXJncy5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgIGVudi5wdXQoImphdmF4LnNlY3VyaXR5LnNhc2wucW9wIiwgYXJnc1swXSk7CiAgICAgICAgICAgIGRuID0gYXJnc1sxXTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBkbiA9ICIiOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>242</text>
