@@ -20,10 +20,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="63" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/JndiLdapExample.java" timestamp="1530509106572">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/JndiLdapExample.java" timestamp="1530509466014">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="16" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/core/AddRequest.java" timestamp="1515539990608">
         <mark key="[" line="12" column="4" />
@@ -45,6 +46,11 @@
       </file>
       <file name="/a.dummy" timestamp="1528330705099">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/BaseLdapExample.java" timestamp="1530517781316">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/TaskImpl.java" timestamp="1526003246925">
         <mark key="[" line="356" column="99" />
@@ -81,11 +87,11 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" timestamp="1530508821466">
-        <mark key="[" line="59" column="25" />
-        <mark key="]" line="59" column="25" />
-        <mark key="^" line="127" column="50" />
-        <mark key="." line="59" column="25" />
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" timestamp="1530509690264">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="100" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" timestamp="1528285388113">
         <mark key="[" line="177" column="0" />
@@ -171,7 +177,6 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="13" column="45" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/javax/naming/Context.java" timestamp="1530506919562" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/DeleteAllAdminsRenderTest.java" timestamp="1523958355174">
         <mark key="[" line="39" column="21" />
         <mark key="]" line="39" column="65" />
@@ -237,10 +242,10 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/pom.xml" timestamp="1530503927965">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/pom.xml" timestamp="1530510950984">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarUtil.java" timestamp="1525249781951">
         <mark key="[" line="123" column="27" />
@@ -266,6 +271,12 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="16" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/BaseExample.java" timestamp="1530517242211">
+        <mark key="[" line="55" column="75" />
+        <mark key="]" line="55" column="96" />
+        <mark key="." line="55" column="96" />
+        <mark key="^" line="55" column="96" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/format/ldap/LdifFactory.java" timestamp="1514506031420">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="26" column="0" />
@@ -277,6 +288,9 @@
         <mark key="]" line="16" column="53" />
         <mark key="." line="16" column="53" />
         <mark key="^" line="16" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/BaseLdapExample.java" timestamp="1530509395376">
+        <mark key="[" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/core/AddAction.java" timestamp="1515541707191">
         <mark key="[" line="10" column="22" />
@@ -349,6 +363,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/JndiLdapExample.java" timestamp="1530518201590">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="8" />
+        <mark key="^" line="30" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/io/localfs/LocalFsReaderFactory.java" timestamp="1514505912562">
         <mark key="[" line="14" column="21" />
         <mark key="]" line="14" column="21" />
@@ -420,6 +440,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/NtlmExample.java" timestamp="1530517772396">
+        <mark key="[" line="30" column="34" />
+        <mark key="]" line="30" column="52" />
+        <mark key="." line="30" column="52" />
+        <mark key="^" line="30" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncCommandHandler.java" timestamp="1526004112267">
         <mark key="[" line="170" column="112" />
         <mark key="]" line="170" column="141" />
@@ -454,6 +480,7 @@
         <mark key="^" line="20" column="25" />
         <mark key="." line="20" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/resources/login.conf" timestamp="1530517082597" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/CachedRequest.java" timestamp="1515487206152">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
@@ -494,6 +521,12 @@
         <mark key="[" line="101" column="5" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/Main.java" timestamp="1530515359903">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="9" column="128" />
       </file>
       <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/refactoring/Customer.kt" timestamp="1530453548112">
         <mark key="'" line="0" column="18" />
@@ -578,6 +611,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/pom.xml" timestamp="1530514822184">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/operateFailed.peb" timestamp="1524117187839">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -602,10 +640,10 @@
         <mark key="." line="73" column="113" />
         <mark key="^" line="73" column="113" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/JndiLdapOperation.java" timestamp="1530509013581">
-        <mark key="[" line="30" column="49" />
-        <mark key="]" line="34" column="55" />
-        <mark key="." line="34" column="55" />
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/JndiLdapOperation.java" timestamp="1530509636267">
+        <mark key="[" line="15" column="71" />
+        <mark key="]" line="15" column="71" />
+        <mark key="." line="15" column="71" />
         <mark key="^" line="34" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/AvatarFailedRender.java" timestamp="1524183164710">
@@ -698,6 +736,12 @@
         <mark key="." line="40" column="53" />
         <mark key="^" line="40" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/GssExample.java" timestamp="1530517301963">
+        <mark key="[" line="67" column="61" />
+        <mark key="]" line="67" column="54" />
+        <mark key="^" line="67" column="54" />
+        <mark key="." line="67" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1514522758767">
         <mark key="[" line="55" column="22" />
         <mark key="]" line="60" column="48" />
@@ -722,14 +766,13 @@
         <mark key="." line="58" column="20" />
         <mark key="^" line="58" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" timestamp="1530268457120" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/handler/DirSyncPostProcessingHandlerTest.java" timestamp="1524563342268">
         <mark key="[" line="203" column="27" />
         <mark key="]" line="203" column="54" />
         <mark key="^" line="203" column="54" />
         <mark key="." line="203" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530441268201">
+      <file name="/Dummy.txt" timestamp="1530518298493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -835,13 +878,13 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="31" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/Main.java" timestamp="1530503959604">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="22" column="37" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="22" column="37" />
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/Main.java" timestamp="1530509790593">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="27" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1530509262866">
+      <file name="/fragment.java" timestamp="1530517305621">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/GlobalErrorsRenderTest.java" timestamp="1527040341212">
@@ -857,19 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="32" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" />
-      <jump line="119" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" />
-      <jump line="108" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" />
-      <jump line="93" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" />
-      <jump line="89" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" />
-      <jump line="75" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" />
-      <jump line="152" column="12" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/backdrop.dart" />
-      <jump line="155" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/backdrop.dart" />
-      <jump line="171" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/backdrop.dart" />
-      <jump line="177" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/backdrop.dart" />
-      <jump line="183" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/backdrop.dart" />
-      <jump line="188" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/backdrop.dart" />
-      <jump line="193" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/backdrop.dart" />
       <jump line="196" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/backdrop.dart" />
       <jump line="200" column="0" filename="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/backdrop.dart" />
       <jump line="153" column="21" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/rest/src/main/java/com/cisco/codev/identity/rest/bean/UserFullBeanPatch.java" />
@@ -957,6 +987,19 @@
       <jump line="0" column="2" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/README.md" />
       <jump line="31" column="83" filename="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/refactoring/Customer.kt" />
       <jump line="0" column="18" filename="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/refactoring/Customer.kt" />
+      <jump line="108" column="47" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" />
+      <jump line="116" column="0" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" />
+      <jump line="124" column="0" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" />
+      <jump line="128" column="0" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" />
+      <jump line="132" column="0" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" />
+      <jump line="134" column="0" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" />
+      <jump line="143" column="0" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" />
+      <jump line="136" column="0" filename="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/workspace/exercises/java-native/src/main/java/GssExample.java" />
+      <jump line="100" column="0" filename="$USER_HOME$/workspace/exercises/java-native/src/main/java/GssExample.java" />
+      <jump line="104" column="0" filename="$USER_HOME$/workspace/exercises/java-native/src/main/java/GssExample.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -974,7 +1017,8 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>anonymous ? &quot;none&quot; : &quot;GSSAPI&quot;</text>
+        <text>;
+        return ret;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1004,25 +1048,26 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>anonymous ? &quot;none&quot; : &quot;GSSAPI&quot;</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKYXZhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBwYXJzZXIucGFyc2VBcmd1bWVudChhcmdzKTsKICAgICAgICAgICAgaWYgKHRlc3QuaXNIZWxwKSB7CiAgICAgICAgICAgICAgICBwcmludFVzYWdlKHBhcnNlcik7CiAgICAgICAgICAgICAgICBTeXN0ZW0uZXhpdCgwKTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKENtZExpbmVFeGNlcHRpb24gZSkgewogICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oZS5nZXRMb2NhbGl6ZWRNZXNzYWdlKCkpOwogICAgICAgICAgICBwcmludFVzYWdlKHBhcnNlcik7CiAgICAgICAgICAgIFN5c3RlbS5leGl0KC0xKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIENvbGxlY3Rpb248PyBleHRlbmRzIFN0cmluZz4gZ2V0RXhhbXBsZXMoKSB7CiAgICAgICAgcmV0dXJuIEFycmF5cy5hc0xpc3QoIi11ICdsZGFwOi8vV0lOLVAzUUdITzFRRzMwLnJrdGVzdDIwMDgtMi5vcmc6Mzg5JyIpOwogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>;
+        return ret;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PFN0cmluZz4gcmV0ID0gbmV3IEFycmF5TGlzdDw+KGV4YW1wbGVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItYXV0aGVudGljYXRpb24iLCBhbGlhc2VzID0gIi0tYXV0aGVudGljYXRpb24iLAogICAgICAgICAgICB1c2FnZSA9ICJTZXQgYXV0aGVudGljYXRpb24sIG9wdGlvbmFsIHZhbHVlczogJ0dTU0FQSScsICdLRVIiCiAgICApCiAgICBwdWJsaWMgU3RyaW5nIGF1dGhlbnRpY2F0aW9uID0gIkdTU0FQSSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0Vk1PcHRpb25zKCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1031,19 +1076,19 @@
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIENvbGxlY3Rpb248PyBleHRlbmRzIFN0cmluZz4gZ2V0RXhhbXBsZXMoKSB7CiAgICAgICAgZmluYWwgQ29sbGVjdGlvbjw/IGV4dGVuZHMgU3RyaW5nPiBleGFtcGxlcyA9IHN1cGVyLmdldEV4YW1wbGVzKCk7CiAgICAgICAgZmluYWwgU3RyaW5nIGV4YW1wbGUgPSBleGFtcGxlcy5pdGVyYXRvcigpLm5leHQoKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZXhhbXBsZXM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nW10gYXJnczsKCiAgICBwdWJsaWMgSm5kaUFjdGlvbihTdHJpbmdbXSBvcmlnQXJncykgewogICAgICAgIHRoaXMuYXJncyA9IChTdHJpbmdbXSlvcmlnQXJncy5jbG9uZSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0RXhhbXBsZXMoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIi11ICdsZGFwOi8vV0lOLVAzUUdITzFRRzMwLnJrdGVzdDIwMDgtMi5vcmc6Mzg5JyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBPcHRpb25hbCBmaXJzdCBhcmd1bWVudCBpcyBjb21tYS1zZXBhcmF0ZWQgbGlzdCBvZiBhdXRoLCBhdXRoLWludCwKICAgICAgICAvLyBhdXRoLWNvbmYKICAgICAgICBpZiAoYXJncy5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgIGVudi5wdXQoImphdmF4LnNlY3VyaXR5LnNhc2wucW9wIiwgYXJnc1swXSk7CiAgICAgICAgICAgIGRuID0gYXJnc1sxXTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBkbiA9ICIiOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIENvbGxlY3Rpb248PyBleHRlbmRzIFN0cmluZz4gZ2V0RXhhbXBsZXMoKSB7CiAgICAgICAgcmV0dXJuIEFycmF5cy5hc0xpc3QoIi11ICdsZGFwOi8vV0lOLVAzUUdITzFRRzMwLnJrdGVzdDIwMDgtMi5vcmc6Mzg5JyIpOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>242</text>
