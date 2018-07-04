@@ -260,6 +260,7 @@
         <mark key="^" line="248" column="65" />
         <mark key="." line="248" column="65" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/JndiLdapOperation.java" timestamp="1530673909347" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/SipaddressDataBuilder.java" timestamp="1528330720049">
         <mark key="[" line="72" column="25" />
         <mark key="]" line="72" column="25" />
@@ -527,13 +528,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="18" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/refactoring/Customer.kt" timestamp="1530453548112">
-        <mark key="'" line="0" column="18" />
-        <mark key="[" line="39" column="63" />
-        <mark key="]" line="39" column="63" />
-        <mark key="^" line="18" column="52" />
-        <mark key="." line="39" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/AbstractSyncMapper4SipaddressCaseTest.java" timestamp="1528183998766">
         <mark key="[" line="78" column="27" />
