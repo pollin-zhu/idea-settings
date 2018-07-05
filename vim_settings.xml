@@ -260,7 +260,6 @@
         <mark key="^" line="248" column="65" />
         <mark key="." line="248" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/JndiLdapOperation.java" timestamp="1530673909347" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/SipaddressDataBuilder.java" timestamp="1528330720049">
         <mark key="[" line="72" column="25" />
         <mark key="]" line="72" column="25" />
@@ -330,6 +329,9 @@
         <mark key="^" line="119" column="62" />
         <mark key="." line="119" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/InlineSample.kt" timestamp="1530749426986">
+        <mark key="[" line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/eventbus/DomainSyncTaskEventBus.java" timestamp="1525854162732">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="32" />
@@ -347,6 +349,12 @@
         <mark key="]" line="147" column="119" />
         <mark key="^" line="147" column="119" />
         <mark key="." line="147" column="119" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/inlinesample/InlineSample.kt" timestamp="1530751896456">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/badInputs.peb" timestamp="1524707836589">
         <mark key="[" line="10" column="26" />
@@ -676,6 +684,7 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
       </file>
+      <file name="kotlinDecompiled/InlineSample.decompiled.java" timestamp="1530751565954" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1515390871346">
         <mark key="[" line="74" column="14" />
         <mark key="]" line="64" column="7" />
@@ -741,6 +750,12 @@
         <mark key="]" line="60" column="48" />
         <mark key="." line="60" column="48" />
         <mark key="^" line="60" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/inlinesample/ClassWithInlineFun.kt" timestamp="1530751489906">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="8" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/FeatureBasedHandler.java" timestamp="1514346246994">
         <mark key="[" line="29" column="15" />
@@ -1011,8 +1026,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImZpbGUgc2VwYXJhdG9yOiAiICsgRklMRV9TRVBBUkFUT1IgKyAiXG4iICsgU3lzdGVtLmdldFByb3BlcnR5KCJqYXZhLmNsYXNzLnBhdGgiKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1042,7 +1057,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKYXZhXD4=</text>
@@ -1054,34 +1069,34 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImZpbGUgc2VwYXJhdG9yOiAiICsgRklMRV9TRVBBUkFUT1IgKyAiXG4iICsgU3lzdGVtLmdldFByb3BlcnR5KCJqYXZhLmNsYXNzLnBhdGgiKSk7Cg==</text>
+        <text encoding="base64">CmlubGluZSBmdW4gc2FtcGxlRnVuKGdyZWV0aW5nOiBTdHJpbmcsIHNheTogKFN0cmluZykgLT4gVW5pdCkgewogICAgcHJpbnRsbihncmVldGluZykKICAgIHNheSgic29tZXRoaW5nIGVsc2UgdG8gc2F5IikKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImZpbGUgc2VwYXJhdG9yOiAiICsgRklMRV9TRVBBUkFUT1IgKyAiXG4iICsgU3lzdGVtLmdldFByb3BlcnR5KCJqYXZhLmNsYXNzLnBhdGgiKSk7Cg==</text>
+        <text encoding="base64">ICAgIHNhbXBsZUZ1bigiSGkiLCA6OnByaW50bG4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBzdGF0aWMgewogICAgICAgIGZpbmFsIFN0cmluZ1tdIGNsYXNzcGF0aHMgPSA7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImZpbGUgc2VwYXJhdG9yOiAiICsgRklMRV9TRVBBUkFUT1IgKyAiXG4iICsgU3lzdGVtLmdldFByb3BlcnR5KCJqYXZhLmNsYXNzLnBhdGgiKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDTEFkZFNTUEFUSAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImZpbGUgc2VwYXJhdG9yOiAiICsgRklMRV9TRVBBUkFUT1IgKyAiXG4iICsgU3lzdGVtLmdldFByb3BlcnR5KCJqYXZhLmNsYXNzLnBhdGgiKSk7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">CiAgICBzdGF0aWMgewogICAgICAgIGZpbmFsIFN0cmluZ1tdIGNsYXNzcGF0aHMgPSA7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiAgR3NzRXhhbXBsZVx0OiB0ZXN0IEphdmEgdGFsayB0byBBRCB3aXRoIGtlcmJlcm9zIik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDTEFkZFNTUEFUSAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiAgSm5kaUxkYXBFeGFtcGxlOiB0ZXN0IEphdmEgdGFsayB0byBBRCB3aXRoIGFub251bW91cyBhY2NvdW50Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiAgTnRsbUV4YW1wbGVcdDogdGVzdCBudGxtL2tlcmJlcm9zIHByb3RvY29sIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiAgR3NzRXhhbXBsZVx0OiB0ZXN0IEphdmEgdGFsayB0byBBRCB3aXRoIGtlcmJlcm9zIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiAgSm5kaUxkYXBFeGFtcGxlOiB0ZXN0IEphdmEgdGFsayB0byBBRCB3aXRoIGFub251bW91cyBhY2NvdW50Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>242</text>
