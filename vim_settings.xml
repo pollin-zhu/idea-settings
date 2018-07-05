@@ -8,10 +8,28 @@
       <file name="/start_script.py" timestamp="1530189902053">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/SyncMapperConfigTest.java" timestamp="1527569771092">
+        <mark key="[" line="29" column="89" />
+        <mark key="]" line="22" column="41" />
+        <mark key="." line="22" column="41" />
+        <mark key="^" line="22" column="41" />
+      </file>
       <file name="/File Header.txt.ft" timestamp="1530753576162">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/DirSyncResult.java" timestamp="1522115215835">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="63" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/JndiLdapExample.java" timestamp="1530509466014">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="16" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/trial-inline/src/main/kotlin/ClassWithInlineFun.kt" timestamp="1530756825113">
         <mark key="[" line="5" column="10" />
@@ -19,62 +37,350 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/core/AddRequest.java" timestamp="1515539990608">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/interactiveconsole/src/main/java/vip/meetus/exer/interactiveconsole/MyWindow.java" timestamp="1517201086233">
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="36" />
+        <mark key="^" line="27" column="36" />
+        <mark key="." line="27" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/DeleteAllAdminsRender.java" timestamp="1524008709974">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="24" column="45" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1528330705099">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/BaseLdapExample.java" timestamp="1530768142847">
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="34" column="92" />
+        <mark key="." line="34" column="92" />
+        <mark key="^" line="34" column="92" />
       </file>
       <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/trial-inline/src/main/kotlin/Main.kt" timestamp="1530765548238">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="17" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/TaskImpl.java" timestamp="1526003246925">
+        <mark key="[" line="356" column="99" />
+        <mark key="]" line="357" column="30" />
+        <mark key="." line="357" column="30" />
+        <mark key="^" line="357" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/format/ldap/LdifReader.java" timestamp="1514502916457">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/NoAction.java" timestamp="1515382830363">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/htmlSyncReport.peb" timestamp="1527061744623">
         <mark key="[" line="185" column="26" />
         <mark key="]" line="185" column="27" />
         <mark key="." line="185" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/SyncTaskAvatarHandlerImplTest.java" timestamp="1520500630667">
+        <mark key="[" line="115" column="53" />
+        <mark key="]" line="127" column="12" />
+        <mark key="^" line="113" column="9" />
+        <mark key="." line="127" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/globalErrors.peb" timestamp="1523945423022">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/GssExample.java" timestamp="1530509690264">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="100" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_route.dart" timestamp="1528285388113">
         <mark key="[" line="177" column="0" />
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/TestDirSyncReportSender.java" timestamp="1521619704035">
+        <mark key="[" line="246" column="20" />
+        <mark key="]" line="246" column="35" />
+        <mark key="^" line="246" column="35" />
+        <mark key="." line="246" column="35" />
+      </file>
       <file name="/JUnit4 Test Class.txt.ft" timestamp="1530753429347">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/pubspec.yaml" timestamp="1528276633580">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="8" />
+        <mark key="^" line="36" column="27" />
+        <mark key="." line="41" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/FriendlyMessageFactory.java" timestamp="1520401821093">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/SyncQueryTaskResultCodeHandler.java" timestamp="1528361189240">
+        <mark key="[" line="91" column="8" />
+        <mark key="]" line="91" column="8" />
+        <mark key="." line="91" column="8" />
+        <mark key="^" line="87" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/book-examples/Dart-Scalable-Application-Development/Module 1/B04243_Code/Chapter 1/Code/End/TextEditor/pubspec.yaml" timestamp="1528603213728">
         <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/test/java/com/cisco/codev/identity/common/concurrent/executor/ScalableThreadPoolExecutorTest.java" timestamp="1514857813603">
+        <mark key="[" line="184" column="41" />
+        <mark key="]" line="22" column="69" />
+        <mark key="." line="22" column="69" />
+        <mark key="^" line="22" column="69" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/pom.xml" timestamp="1525662621555">
+        <mark key="[" line="65" column="30" />
+        <mark key="]" line="65" column="31" />
+        <mark key="^" line="64" column="30" />
+        <mark key="." line="65" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/dao/DirSyncSynchronizationQueryTask.java" timestamp="1525918849207">
+        <mark key="[" line="246" column="4" />
+        <mark key="]" line="247" column="49" />
+        <mark key="^" line="247" column="49" />
+        <mark key="." line="247" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/AbstractSectionRenderTest.java" timestamp="1524099985419">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/personal/mobileApps/AndroidFeatureTest/app/src/main/AndroidManifest.xml" timestamp="1530190782698">
         <mark key="[" line="18" column="18" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/refactoring/Rental.kt" timestamp="1530445867254">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="54" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/mobileApps/photokit/pubspec.yaml" timestamp="1529992534150">
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="18" column="2" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/personal/mobileApps/AndroidFeatureTest/app/src/main/res/layout/activity_main.xml" timestamp="1530185934409">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/resources/krb5.ini" timestamp="1530172034013">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="13" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/DeleteAllAdminsRenderTest.java" timestamp="1523958355174">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="65" />
+        <mark key="." line="39" column="65" />
+        <mark key="^" line="39" column="65" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/IdentityTargets.java" timestamp="1514877508587">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="11" column="8" />
+        <mark key="." line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/readme.md" timestamp="1524552466894">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity-course/course/02_category_widget/task_02_category_widget/lib/main.dart" timestamp="1526176111059">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="69" />
+        <mark key="^" line="34" column="69" />
+        <mark key="." line="34" column="69" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/FeatureBasedHandler.java" timestamp="1514520194454">
+        <mark key="[" line="37" column="48" />
+        <mark key="]" line="33" column="47" />
+        <mark key="." line="33" column="47" />
+        <mark key="^" line="33" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/TargetLoader.java" timestamp="1515390132954">
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="34" column="31" />
+        <mark key="." line="34" column="31" />
+        <mark key="^" line="31" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/MyPebbleEngineUtil.java" timestamp="1524191662938">
+        <mark key="[" line="44" column="9" />
+        <mark key="]" line="46" column="32" />
+        <mark key="." line="46" column="32" />
+        <mark key="^" line="46" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncInput.java" timestamp="1528186445749">
         <mark key="[" line="181" column="0" />
         <mark key="]" line="181" column="0" />
         <mark key="." line="181" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/BadInputsRenderTest.java" timestamp="1527059713280">
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="50" column="37" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="50" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/AvatarFailRender.java" timestamp="1524121995314">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/SyncContext.java" timestamp="1514355203754">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/pom.xml" timestamp="1530510950984">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/avatar/AvatarUtil.java" timestamp="1525249781951">
+        <mark key="[" line="123" column="27" />
+        <mark key="]" line="123" column="30" />
+        <mark key="^" line="123" column="30" />
+        <mark key="." line="123" column="30" />
+      </file>
       <file name="/valueResourceFile.txt.ft" timestamp="1530753448604">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/Task.java" timestamp="1526002156658">
+        <mark key="[" line="280" column="36" />
+        <mark key="]" line="248" column="65" />
+        <mark key="^" line="248" column="65" />
+        <mark key="." line="248" column="65" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/JndiLdapOperation.java" timestamp="1530768800331">
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="33" column="28" />
+        <mark key="." line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.50/d3189b4b8c72c7f3a327e3c21dca8dbcba267359/kotlin-stdlib-common-1.2.50-sources.jar!/generated/_Collections.kt" timestamp="1530764284192" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/SipaddressDataBuilder.java" timestamp="1528330720049">
+        <mark key="[" line="72" column="25" />
+        <mark key="]" line="72" column="25" />
+        <mark key="." line="72" column="25" />
+        <mark key="^" line="53" column="83" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/MyPebbleEngineFactory.java" timestamp="1524188637203">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/BaseExample.java" timestamp="1530521381891">
+        <mark key="[" line="27" column="64" />
+        <mark key="]" line="56" column="96" />
+        <mark key="." line="56" column="96" />
+        <mark key="^" line="56" column="96" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/format/ldap/LdifFactory.java" timestamp="1514506031420">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/message/FriendlyMessage.java" timestamp="1520841972236">
+        <mark key="[" line="16" column="94" />
+        <mark key="]" line="16" column="53" />
+        <mark key="." line="16" column="53" />
+        <mark key="^" line="16" column="47" />
+      </file>
       <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/BaseLdapExample.java" timestamp="1530509395376">
         <mark key="[" line="8" column="6" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1530752931994">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/core/AddAction.java" timestamp="1515541707191">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/SessionImpl.java" timestamp="1526005272582">
+        <mark key="[" line="204" column="46" />
+        <mark key="]" line="204" column="82" />
+        <mark key="^" line="204" column="82" />
+        <mark key="." line="204" column="82" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/section-base.peb" timestamp="1523514265212">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/DefaultModifier.java" timestamp="1527751140909">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="103" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/Targets.java" timestamp="1515384487004">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/QueryResponse.java" timestamp="1526003140363">
+        <mark key="[" line="119" column="32" />
+        <mark key="]" line="119" column="62" />
+        <mark key="^" line="119" column="62" />
+        <mark key="." line="119" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/InlineSample.kt" timestamp="1530749426986">
         <mark key="[" line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/eventbus/DomainSyncTaskEventBus.java" timestamp="1525854162732">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/impl/persistence/ldap/LdapTargetLoader.java" timestamp="1514874654112">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/Failover.java" timestamp="1526971437753">
+        <mark key="[" line="147" column="92" />
+        <mark key="]" line="147" column="119" />
+        <mark key="^" line="147" column="119" />
+        <mark key="." line="147" column="119" />
       </file>
       <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/inlinesample/InlineSample.kt" timestamp="1530751896456">
         <mark key="[" line="10" column="0" />
@@ -82,20 +388,128 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/badInputs.peb" timestamp="1524707836589">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/aci/AciManager.java" timestamp="1525246589404">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="257" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/resources/gsseg_jaas.conf" timestamp="1530249738055">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/JndiLdapExample.java" timestamp="1530768403337">
+        <mark key="[" line="35" column="74" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="8" />
+        <mark key="^" line="30" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/io/localfs/LocalFsReaderFactory.java" timestamp="1514505912562">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="15" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncRequestLoader.java" timestamp="1515487522206">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+        <mark key="." line="18" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/SummaryRenderTest.java" timestamp="1526954380192">
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="55" column="8" />
+        <mark key="^" line="29" column="27" />
+        <mark key="." line="55" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/trial-inline/build.gradle.kts" timestamp="1530764827879">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/TargetReader.java" timestamp="1515390756805">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/TargetManager.java" timestamp="1515537070984">
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="56" column="8" />
+        <mark key="." line="56" column="8" />
+        <mark key="^" line="52" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/SyncSummary.java" timestamp="1523516176197">
+        <mark key="[" line="77" column="4" />
+        <mark key="]" line="77" column="4" />
+        <mark key="^" line="75" column="19" />
+        <mark key="." line="77" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/mobileApps/AndroidFeatureTest/app/src/main/java/vip/meetus/androidfeaturetest/MainActivity.java" timestamp="1530191086845">
+        <mark key="[" line="35" column="36" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+        <mark key="^" line="35" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/State.java" timestamp="1526005150259">
+        <mark key="[" line="97" column="57" />
+        <mark key="]" line="97" column="77" />
+        <mark key="^" line="97" column="77" />
+        <mark key="." line="97" column="77" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/DefaultCreator.java" timestamp="1525247734981">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="43" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/AbstractCategoryRender.java" timestamp="1526953490361">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="41" column="47" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/FriendlyMessage.java" timestamp="1520387972710">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="9" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category_tile.dart" timestamp="1528285452025">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/NtlmExample.java" timestamp="1530672903844">
+        <mark key="[" line="30" column="34" />
+        <mark key="]" line="30" column="52" />
+        <mark key="." line="30" column="52" />
+        <mark key="^" line="30" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncCommandHandler.java" timestamp="1526004112267">
+        <mark key="[" line="170" column="112" />
+        <mark key="]" line="170" column="141" />
+        <mark key="^" line="170" column="141" />
+        <mark key="." line="170" column="141" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTrafficStatsLoggerTest.java" timestamp="1525935648307">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="20" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/InputLoader.java" timestamp="1515379342093">
+        <mark key="[" line="30" column="85" />
+        <mark key="]" line="28" column="39" />
+        <mark key="^" line="28" column="39" />
+        <mark key="." line="28" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/personal/mobileApps/AndroidFeatureTest/app/build.gradle" timestamp="1530189480371">
         <mark key="[" line="12" column="0" />
@@ -107,16 +521,118 @@
         <mark key="]" line="10" column="49" />
         <mark key="." line="10" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/eventbus/event/SyncTaskAbandonedEvent.java" timestamp="1525916208294">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="20" column="25" />
+        <mark key="^" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/CachedRequest.java" timestamp="1515487206152">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="7" column="46" />
+        <mark key="." line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/Input.java" timestamp="1515540505245">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/BasicIdentityInfoListRenderTest.java" timestamp="1527059335167">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="29" column="55" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/Kotlin Class.txt.ft" timestamp="1530753532156">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/source/ldap/SyncService4Ldap.java" timestamp="1514505812917">
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="32" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncMapperConfig.java" timestamp="1529020709330">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="149" column="79" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/unit_converter.dart" timestamp="1528285618681">
+        <mark key="[" line="208" column="38" />
+        <mark key="]" line="239" column="0" />
+        <mark key="." line="239" column="0" />
+        <mark key="^" line="113" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/personal/mobileApps/photokit/lib/main.dart" timestamp="1530112507835">
         <mark key="[" line="101" column="5" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/Main.java" timestamp="1530575935332">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="18" column="4" />
+      </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1530753455623">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/AbstractSyncMapper4SipaddressCaseTest.java" timestamp="1528183998766">
+        <mark key="[" line="78" column="27" />
+        <mark key="]" line="78" column="26" />
+        <mark key="^" line="78" column="26" />
+        <mark key="." line="78" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/GlobalErrorsRender.java" timestamp="1523946106652">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="32" />
+        <mark key="." line="24" column="32" />
+        <mark key="^" line="25" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/TaskAbandonReason.java" timestamp="1526541222866">
+        <mark key="[" line="13" column="55" />
+        <mark key="]" line="27" column="47" />
+        <mark key="^" line="24" column="108" />
+        <mark key="." line="27" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/dao/ConnectorState.java" timestamp="1526005361863">
+        <mark key="[" line="45" column="80" />
+        <mark key="]" line="45" column="100" />
+        <mark key="^" line="45" column="100" />
+        <mark key="." line="45" column="100" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/ActionExecutor.java" timestamp="1515540034017">
+        <mark key="[" line="11" column="58" />
+        <mark key="]" line="11" column="58" />
+        <mark key="." line="11" column="58" />
+        <mark key="^" line="11" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/FullSyncMapperTest.java" timestamp="1527815041412">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="26" />
+        <mark key="^" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/AbstractCategoryRenderTest.java" timestamp="1527127127018">
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="42" column="27" />
+        <mark key="^" line="42" column="27" />
+        <mark key="." line="42" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/sync/message/MessageFactoryTest.java" timestamp="1524446092421">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/firstdartconsole/lib/mylib.dart" timestamp="1518242124296">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="57" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/main.dart" timestamp="1528277581752">
         <mark key="[" line="27" column="23" />
@@ -129,6 +645,18 @@
       <file name="/AndroidManifest.txt.ft" timestamp="1530753447986">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/NtlmExample.java" timestamp="1530506265267">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="28" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncServiceMessageFactory.java" timestamp="1521163736384">
+        <mark key="[" line="297" column="53" />
+        <mark key="]" line="297" column="53" />
+        <mark key="." line="297" column="53" />
+        <mark key="^" line="296" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/summary.peb" timestamp="1526953868636">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -139,32 +667,290 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/operateFailed.peb" timestamp="1524117187839">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/book-examples/Dart-Scalable-Application-Development/Module 1/B04243_Code/Chapter 1/Code/End/TextEditor/web/main.dart" timestamp="1528604304058">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="24" column="60" />
+        <mark key="^" line="24" column="60" />
+        <mark key="." line="24" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/FullSyncMapper.java" timestamp="1528099745508">
+        <mark key="[" line="76" column="80" />
+        <mark key="]" line="76" column="78" />
+        <mark key="." line="76" column="78" />
+        <mark key="^" line="76" column="78" />
+      </file>
       <file name="/Kotlin File.txt.ft" timestamp="1530753100831">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/AbandonMessageHandler.java" timestamp="1526005991766">
+        <mark key="[" line="73" column="28" />
+        <mark key="]" line="73" column="113" />
+        <mark key="." line="73" column="113" />
+        <mark key="^" line="73" column="113" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/JndiLdapOperation.java" timestamp="1530509636267">
+        <mark key="[" line="15" column="71" />
+        <mark key="]" line="15" column="71" />
+        <mark key="." line="15" column="71" />
+        <mark key="^" line="34" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/AvatarFailedRender.java" timestamp="1524183164710">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="30" />
+        <mark key="^" line="28" column="30" />
+        <mark key="." line="28" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/SyncDispatcher.java" timestamp="1514452278597">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="32" column="7" />
+        <mark key="." line="32" column="7" />
+        <mark key="^" line="32" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/ConnectorStateImpl.java" timestamp="1526005405624">
+        <mark key="[" line="141" column="33" />
+        <mark key="]" line="141" column="40" />
+        <mark key="^" line="141" column="40" />
+        <mark key="." line="141" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/ci/ClientFactory.java" timestamp="1519770086699">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="165" column="68" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncTaskHandler.java" timestamp="1521092175483">
+        <mark key="[" line="610" column="0" />
+        <mark key="]" line="610" column="40" />
+        <mark key="." line="610" column="0" />
+        <mark key="^" line="378" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/OperationFailedRenderTest.java" timestamp="1527060071077">
+        <mark key="[" line="13" column="69" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+      </file>
       <file name="kotlinDecompiled/InlineSample.decompiled.java" timestamp="1530751565954" />
       <file name="kotlinDecompiled/Main.decompiled.java" timestamp="1530765238050" />
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1515390871346">
+        <mark key="[" line="74" column="14" />
+        <mark key="]" line="64" column="7" />
+        <mark key="." line="64" column="7" />
+        <mark key="^" line="64" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/section-base.peb" timestamp="1523516063181">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/BaseExample.java" timestamp="1530506515950">
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="9" />
+        <mark key="." line="43" column="9" />
+        <mark key="^" line="43" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/AbstractSyncError.java" timestamp="1522113777082">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="52" column="34" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/DirSyncUtils.java" timestamp="1525250363089">
+        <mark key="[" line="684" column="52" />
+        <mark key="]" line="684" column="61" />
+        <mark key="." line="684" column="61" />
+        <mark key="^" line="684" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/converter_route.dart" timestamp="1526990492730">
+        <mark key="[" line="209" column="20" />
+        <mark key="]" line="209" column="7" />
+        <mark key="^" line="209" column="7" />
+        <mark key="." line="209" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/AvatarFailedRenderTest.java" timestamp="1527061043886">
+        <mark key="[" line="48" column="113" />
+        <mark key="]" line="58" column="12" />
+        <mark key="." line="58" column="12" />
+        <mark key="^" line="58" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/UniqueIdFinder.java" timestamp="1520406511401">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="89" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/AbstractSyncProcessor.java" timestamp="1516067845129">
+        <mark key="[" line="39" column="77" />
+        <mark key="]" line="40" column="53" />
+        <mark key="." line="40" column="53" />
+        <mark key="^" line="40" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/GssExample.java" timestamp="1530768392241">
+        <mark key="[" line="92" column="57" />
+        <mark key="]" line="75" column="60" />
+        <mark key="^" line="75" column="58" />
+        <mark key="." line="75" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/SyncDispatcher.java" timestamp="1514522758767">
+        <mark key="[" line="55" column="22" />
+        <mark key="]" line="60" column="48" />
+        <mark key="." line="60" column="48" />
+        <mark key="^" line="60" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/inlinesample/ClassWithInlineFun.kt" timestamp="1530751489906">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="8" column="4" />
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync2/FeatureBasedHandler.java" timestamp="1514346246994">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="31" column="1" />
+        <mark key="." line="31" column="1" />
+        <mark key="^" line="31" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/OperationFailedRender.java" timestamp="1524117089964">
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="25" column="41" />
+        <mark key="." line="25" column="41" />
+        <mark key="^" line="25" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/interactiveconsole/pom.xml" timestamp="1517225256684">
+        <mark key="[" line="52" column="74" />
+        <mark key="]" line="58" column="20" />
+        <mark key="." line="58" column="20" />
+        <mark key="^" line="58" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/handler/DirSyncPostProcessingHandlerTest.java" timestamp="1524563342268">
+        <mark key="[" line="203" column="27" />
+        <mark key="]" line="203" column="54" />
+        <mark key="^" line="203" column="54" />
+        <mark key="." line="203" column="54" />
+      </file>
       <file name="/Dummy.txt" timestamp="1530575977658">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/writing/font-make-excellent/src/main/kotlin/refactoring/Movie.kt" timestamp="1530445879076">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/SummaryRender.java" timestamp="1523923005450">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="6" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/sectionBase.peb" timestamp="1527061580995">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="23" column="27" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="11" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/AddRequest.java" timestamp="1515975806286">
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="9" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/AbstractRequest.java" timestamp="1515633126916">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/MyPebbleExtension.java" timestamp="1523957990078">
+        <mark key="[" line="15" column="49" />
+        <mark key="]" line="16" column="44" />
+        <mark key="." line="16" column="44" />
+        <mark key="^" line="16" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/flutter/udacity_course/lib/category.dart" timestamp="1528277561657">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/personal/mobileApps/AndroidFeatureTest/build.gradle" timestamp="1530189599903">
         <mark key="[" line="9" column="50" />
         <mark key="]" line="9" column="50" />
         <mark key="." line="9" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/deleteAllAdmins.peb" timestamp="1523958495740">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="18" column="50" />
+        <mark key="." line="18" column="50" />
+        <mark key="^" line="18" column="50" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/AbstractInput.java" timestamp="1515380362303">
+        <mark key="[" line="60" column="4" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="59" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/engine/handler/dirsync/LDAPMessageIteratorFromPayloadTask.java" timestamp="1525249407959">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="57" column="42" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="/JUnit5 SetUp Method.txt.ft" timestamp="1530753556344">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/common/FriendlyMessage.java" timestamp="1524790643664">
+        <mark key="[" line="138" column="6" />
+        <mark key="]" line="138" column="6" />
+        <mark key="." line="138" column="6" />
+        <mark key="^" line="140" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/avatarFailed.peb" timestamp="1527060916686">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="33" />
+        <mark key="^" line="29" column="33" />
+        <mark key="." line="29" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/section-base.html" timestamp="1523512958195">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRender.java" timestamp="1524191732292">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="95" column="79" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/SyncReportRender.java" timestamp="1523493232596">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="25" column="77" />
+        <mark key="^" line="25" column="77" />
+        <mark key="." line="25" column="77" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/syncreport/basicIdentityInfoList.peb" timestamp="1527059866071">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="31" column="15" />
+      </file>
       <file name="/JUnit4 Test Method.txt.ft" timestamp="1530753438436">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/Java-talk-windows/research_ntlm/src/main/java/Main.java" timestamp="1530509790593">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="27" column="37" />
       </file>
       <file name="/fragment.java" timestamp="1530520947427">
         <mark key="[" line="0" column="0" />
@@ -173,6 +959,12 @@
         <mark key="[" line="21" column="63" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncAttributeSet.java" timestamp="1528186350437">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="19" column="44" />
+        <mark key="." line="19" column="44" />
+        <mark key="^" line="19" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -293,7 +1085,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBQdWJsaXNoZWRBcGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3R4LmNsb3NlKCk7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -323,43 +1115,43 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text encoding="base64">RGlyQ29udGV4dCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKYXZhXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJDYWxsIGZyb20gbm9uaW5saW5lRnVuLCAiCiAgICAgICAgICAgICsgInByaXZhdGVUaXRsZTogJHByaXZhdGVUaXRsZSwgcHVibGljVGl0bGU6ICRwdWJsaWNUaXRsZSIpCg==</text>
+      <register name="0" type="4">
+        <text>final DirContext ctx</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBQdWJsaXNoZWRBcGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3R4LmNsb3NlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcm5hbEZ1bigpCg==</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQ2xvc2UgdGhlIGNvbnRleHQgd2hlbiB3ZSdyZSBkb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5saW5lIGZ1biA8cmVpZmllZCBUPiBtZW1iZXJzT2YoKSA9IFQ6OmNsYXNzLm1lbWJlcnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZG8gc29tZXRoaW5nIHVzZWZ1bCB3aXRoIGN0eAo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQdWJsaXNoZWRBcGkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obWVtYmVyc09mPFN0cmluZ0J1aWxkZXI+KCkuam9pblRvU3RyaW5nKCJcbiIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcm5hbEZ1bigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoa290bGluKCJrb3RsaW4tcmVmbGVjdCIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpc3RPZjxJbnQ+KDEsIDIsIDMpLmZvckVhY2ggeyBwcmludGxuKGl0KSB9Cg==</text>
+        <text encoding="base64">aW5saW5lIGZ1biA8cmVpZmllZCBUPiBtZW1iZXJzT2YoKSA9IFQ6OmNsYXNzLm1lbWJlcnMK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
