@@ -31,6 +31,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="51" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/CoroutineExample.kt" timestamp="1530846501697">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/trial-inline/src/main/kotlin/ClassWithInlineFun.kt" timestamp="1530756825113">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="7" />
@@ -64,10 +70,10 @@
         <mark key="^" line="17" column="81" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/trial-inline/src/main/kotlin/Main.kt" timestamp="1530765548238">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/trial-inline/src/main/kotlin/Main.kt" timestamp="1530833186411">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/domain/TaskImpl.java" timestamp="1526003246925">
         <mark key="[" line="356" column="99" />
@@ -288,7 +294,6 @@
         <mark key="^" line="248" column="65" />
         <mark key="." line="248" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/java-native/login.conf" timestamp="1530775305722" />
       <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/JndiLdapOperation.java" timestamp="1530778135387">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="77" column="51" />
@@ -1107,8 +1112,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>String.format(&quot;    %s: %s&quot;, title, entry.getAttributeValue(attrName))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA2LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1138,7 +1143,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>String.format(&quot;    %s: %s&quot;, title, entry.getAttributeValue(attrName))</text>
+        <text>, $(Demo().title}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKYXZhXD4=</text>
@@ -1149,36 +1154,36 @@
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
-      <register name="1" type="8">
-        <text>attributes
-attributes</text>
+      <register name="1" type="2">
+        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA2LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICsgIiAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnVuIG1haW4oYXJncykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudHJ5LmdldEF0dHJpYnV0ZVZhbHVlKCkK</text>
+        <text encoding="base64">Y2xhc3MgQ29yb3V0aW5lRXhhbXBsZSB7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCA7IGkrKykgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CiAgICBAUHVibGlzaGVkQXBpCiAgICBpbnRlcm5hbCBmdW4gaW50ZXJuYWxGdW4oKSA9IHByaW50bG4oImludGVybmFsIGZ1bi4iKQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VhcmNoUmVzdWx0Lgo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcm5hbEZ1bigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VhcmNoUmVxdWVzdC4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgYmFzZVBhdGggPSAiQ049VXNlcnMsREM9IiArIFN0cmluZy5qb2luKCIsREM9IiwgRW52LkRPTUFJTi5zcGxpdCgiXFwuIikpOwo=</text>
+      <register name="7" type="8">
+        <text>attributes
+attributes</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICsgIiAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBDb2xsZWN0aW9uPD8gZXh0ZW5kcyBTdHJpbmc+IGdldEV4YW1wbGVzKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudHJ5LmdldEF0dHJpYnV0ZVZhbHVlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>242</text>
