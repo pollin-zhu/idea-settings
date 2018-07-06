@@ -31,11 +31,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/CoroutineExample.kt" timestamp="1530865155374">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="27" />
-        <mark key="^" line="17" column="27" />
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/CoroutineExample.kt" timestamp="1530866497324">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+        <mark key="^" line="31" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/trial-inline/src/main/kotlin/ClassWithInlineFun.kt" timestamp="1530756825113">
         <mark key="[" line="5" column="10" />
@@ -1122,7 +1122,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IC8vIGp1c3QgcXVpdCBhZnRlciBkZWxheQ==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1152,7 +1152,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IC8vIGp1c3QgcXVpdCBhZnRlciBkZWxheQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKYXZhXD4=</text>
