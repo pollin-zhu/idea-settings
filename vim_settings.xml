@@ -31,7 +31,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/CoroutineExample.kt" timestamp="1530846501697">
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/CoroutineExample.kt" timestamp="1530847698861">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="8" />
         <mark key="." line="4" column="8" />
@@ -555,6 +555,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="7" column="39" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/build.gradle.kts" timestamp="1530847927208">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/report/html/BasicIdentityInfoListRenderTest.java" timestamp="1527059335167">
         <mark key="[" line="8" column="6" />
@@ -1112,8 +1118,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA2LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>kotlinx(&quot;coroutines-core&quot;)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1143,7 +1149,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>, $(Demo().title}</text>
+        <text>kotlinx(&quot;coroutines-core&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKYXZhXD4=</text>
