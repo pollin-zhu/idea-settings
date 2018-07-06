@@ -31,11 +31,10 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/CoroutineExample.kt" timestamp="1530847698861">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
-        <mark key="^" line="4" column="8" />
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/CoroutineExample.kt" timestamp="1530850131292">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/trial-inline/src/main/kotlin/ClassWithInlineFun.kt" timestamp="1530756825113">
         <mark key="[" line="5" column="10" />
@@ -1118,8 +1117,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>kotlinx(&quot;coroutines-core&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZWwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1161,35 +1160,36 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA2LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuIG1haW4oYXJncykK</text>
+        <text encoding="base64">ICAgIGxhdW5jaAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgQ29yb3V0aW5lRXhhbXBsZSB7Cn0K</text>
+      <register name="3" type="4">
+        <text>async {
+
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAUHVibGlzaGVkQXBpCiAgICBpbnRlcm5hbCBmdW4gaW50ZXJuYWxGdW4oKSA9IHByaW50bG4oImludGVybmFsIGZ1bi4iKQo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcwo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcm5hbEZ1bigpCg==</text>
+        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA2LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIG1haW4oYXJncykK</text>
       </register>
-      <register name="7" type="8">
-        <text>attributes
-attributes</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgQ29yb3V0aW5lRXhhbXBsZSB7Cn0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICsgIiAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICBAUHVibGlzaGVkQXBpCiAgICBpbnRlcm5hbCBmdW4gaW50ZXJuYWxGdW4oKSA9IHByaW50bG4oImludGVybmFsIGZ1bi4iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudHJ5LmdldEF0dHJpYnV0ZVZhbHVlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcm5hbEZ1bigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>242</text>
