@@ -352,6 +352,11 @@
         <mark key="^" line="204" column="82" />
         <mark key="." line="204" column="82" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/Log.kt" timestamp="1530947412255">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/section-base.peb" timestamp="1523514265212">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="3" column="0" />
@@ -713,6 +718,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/ChannelExample.kt" timestamp="1530948594852">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/book-examples/Dart-Scalable-Application-Development/Module 1/B04243_Code/Chapter 1/Code/End/TextEditor/web/main.dart" timestamp="1528604304058">
         <mark key="[" line="25" column="46" />
         <mark key="]" line="24" column="60" />
@@ -871,7 +882,6 @@
         <mark key="." line="58" column="20" />
         <mark key="^" line="58" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" timestamp="1530769057317" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/handler/DirSyncPostProcessingHandlerTest.java" timestamp="1524563342268">
         <mark key="[" line="203" column="27" />
         <mark key="]" line="203" column="54" />
@@ -1012,10 +1022,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="25" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
-      <jump line="289" column="25" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
-      <jump line="818" column="77" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
-      <jump line="294" column="38" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="1170" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
@@ -1112,6 +1118,10 @@
       <jump line="132" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.51/e8c91083a5863d94fdc2836459e7e7a555774be9/kotlin-stdlib-common-1.2.51-sources.jar!/kotlin/util/Standard.kt" />
       <jump line="3" column="1" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/DispatcherExample.kt" />
       <jump line="19" column="8" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/DispatcherExample.kt" />
+      <jump line="3" column="21" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/ChannelExample.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/ChannelExample.kt" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/Log.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/Log.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1129,7 +1139,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB3aWxsIGdldCBpdHMgb3duIG5ldyB0aHJlYWQK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKHkgaW4gY2hhbm5lbCkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1165,42 +1175,40 @@
         <text encoding="base64">XDxKYXZhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGpvYnMgKz0gbGF1bmNoKG5ld1NpbmdsZVRocmVhZENvbnRleHQoIk15T3duVGhyZWFkIikpIHsgLy8gd2lsbCBnZXQgaXRzIG93biBuZXcgdGhyZWFkCiAgICAgICAgcHJpbnRsbigiICAgICAgICAgICduZXdTVEMnOiBJJ20gd29ya2luZyBpbiB0aHJlYWQgJHtUaHJlYWQuY3VycmVudFRocmVhZCgpLm5hbWV9IikK</text>
+        <text encoding="base64">ICAgICAgICBsb2coInJlY2VpdmVkICR7Y2hhbm5lbC5yZWNlaXZlKCl9IikK</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB3aWxsIGdldCBpdHMgb3duIG5ldyB0aHJlYWQK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKHkgaW4gY2hhbm5lbCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA2LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIGZvciAoeSBpbiBjaGFubmVsKQogICAgICAgIGxvZygicmVjZWl2ZWQgJHtjaGFubmVsLnJlY2VpdmUoKX0iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRocmVhZC5zbGVlcCgyMDAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlbGF5KDIsIFRpbWVVbml0LlNFQ09ORFMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoa290bGluKCJrb3RsaW54LWNvcm91dGluZXMtY29yZSIpKQo=</text>
+        <text encoding="base64">ICAgIHJlcGVhdCg1KSB7CiAgICAgICAgbG9nKCJyZWNlaXZlZCAke2NoYW5uZWwucmVjZWl2ZSgpfSIpCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwK</text>
+        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA3LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxhdW5jaAo=</text>
+        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA3LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>async {
-
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB3aWxsIGdldCBpdHMgb3duIG5ldyB0aHJlYWQK</text>
       </register>
       <register name=":" type="4">
         <text>242</text>
