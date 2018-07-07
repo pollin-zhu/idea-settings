@@ -979,10 +979,11 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/PipelinesExample.kt" timestamp="1530949211139">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/PipelinesExample.kt" timestamp="1530950178219">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+        <mark key="^" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRender.java" timestamp="1524191732292">
         <mark key="[" line="99" column="0" />
@@ -1143,8 +1144,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA3LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>MICROSECONDS</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1174,7 +1175,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>newSTC</text>
+        <text>MICROSECONDS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKYXZhXD4=</text>
