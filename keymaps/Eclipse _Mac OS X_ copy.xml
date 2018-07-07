@@ -20,4 +20,7 @@
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="ctrl meta j" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="ctrl meta z" />
+  </action>
 </keymap>
