@@ -297,6 +297,12 @@
         <mark key="^" line="248" column="65" />
         <mark key="." line="248" column="65" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/ActorExample.kt" timestamp="1531016693075">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="42" />
+        <mark key="^" line="18" column="46" />
+        <mark key="." line="18" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/exercises/java-native/src/main/java/JndiLdapOperation.java" timestamp="1530778135387">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="77" column="51" />
@@ -1167,7 +1173,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNvdW50ZXIrKyA=</text>
+        <text>getCompleted</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1197,7 +1203,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvdW50ZXIrKyA=</text>
+        <text>getCompleted</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKYXZhXD4=</text>
