@@ -101,7 +101,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.51/e8c91083a5863d94fdc2836459e7e7a555774be9/kotlin-stdlib-common-1.2.51-sources.jar!/kotlin/util/Standard.kt" timestamp="1530865240045">
         <mark key="'" line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/0.23.4/cdf39e51ee22be3d1a30d040f45155ba4743dd48/kotlinx-coroutines-core-0.23.4-sources.jar!/kotlinx/coroutines/experimental/CoroutineScope.kt" timestamp="1530880362180" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/avatar/SyncTaskAvatarHandlerImplTest.java" timestamp="1520500630667">
         <mark key="[" line="115" column="53" />
         <mark key="]" line="127" column="12" />
@@ -309,6 +308,11 @@
         <mark key="]" line="72" column="25" />
         <mark key="." line="72" column="25" />
         <mark key="^" line="53" column="83" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/TickerExample.kt" timestamp="1531007908911">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/MyPebbleEngineFactory.java" timestamp="1524188637203">
         <mark key="[" line="9" column="0" />
@@ -586,6 +590,7 @@
       <file name="/Kotlin Class.txt.ft" timestamp="1530753532156">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/0.23.4/cdf39e51ee22be3d1a30d040f45155ba4743dd48/kotlinx-coroutines-core-0.23.4-sources.jar!/kotlinx/coroutines/experimental/CommonPool.kt" timestamp="1531010213197" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/sync/impl/source/ldap/SyncService4Ldap.java" timestamp="1514505812917">
         <mark key="[" line="37" column="37" />
         <mark key="]" line="39" column="0" />
@@ -642,6 +647,11 @@
         <mark key="^" line="45" column="100" />
         <mark key="." line="45" column="100" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/FanOutExample.kt" timestamp="1531005133543">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/idsync/sync/ActionExecutor.java" timestamp="1515540034017">
         <mark key="[" line="11" column="58" />
         <mark key="]" line="11" column="58" />
@@ -688,6 +698,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="28" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/FairChannelExample.kt" timestamp="1531009026878">
+        <mark key="[" line="19" column="68" />
+        <mark key="]" line="19" column="68" />
+        <mark key="." line="19" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/handler/v1/DirSyncServiceMessageFactory.java" timestamp="1521163736384">
         <mark key="[" line="297" column="53" />
@@ -882,6 +897,7 @@
         <mark key="." line="58" column="20" />
         <mark key="^" line="58" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/common/src/main/java/com/cisco/codev/identity/handler/v1/Login.java" timestamp="1531003436677" />
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/test/java/com/cisco/codev/identity/dirsync/test/handler/DirSyncPostProcessingHandlerTest.java" timestamp="1524563342268">
         <mark key="[" line="203" column="27" />
         <mark key="]" line="203" column="54" />
@@ -973,16 +989,22 @@
         <mark key="^" line="29" column="33" />
         <mark key="." line="29" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/ConcurrencyWrongExample.kt" timestamp="1531011381113">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/resources/templates/section-base.html" timestamp="1523512958195">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="21" />
         <mark key="^" line="1" column="3" />
         <mark key="." line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/PipelinesExample.kt" timestamp="1530950178219">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="28" />
-        <mark key="." line="12" column="28" />
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/PipelinesExample.kt" timestamp="1531005441752">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/report/html/HtmlSyncReportRender.java" timestamp="1524191732292">
@@ -1028,10 +1050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
@@ -1128,6 +1146,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/Log.kt" />
       <jump line="2" column="11" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/PipelinesExample.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/PipelinesExample.kt" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/FanOutExample.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/FanOutExample.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/TickerExample.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/ConcurrencyWrongExample.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1145,7 +1167,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>MICROSECONDS</text>
+        <text encoding="base64">IGNvdW50ZXIrKyA=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1175,46 +1197,46 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>MICROSECONDS</text>
+        <text encoding="base64">IGNvdW50ZXIrKyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKYXZhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2coInJlY2VpdmVkICR7Y2hhbm5lbC5yZWNlaXZlKCl9IikK</text>
+        <text encoding="base64">ICAgIGxhdW5jaChrb3RsaW4uY29yb3V0aW5lcy5leHBlcmltZW50YWwuY29yb3V0aW5lQ29udGV4dCkgeyBwbGF5KCJwaW5nIiwgdGFibGUpIH0K</text>
       </register>
       <register name="p" type="4">
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA3LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
+        <text encoding="base64">QFZvbGF0aWxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKHkgaW4gY2hhbm5lbCkK</text>
+        <text encoding="base64">QFZvbGF0aWxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBWb2xhdGlsZQogICAgdmFyIGNvdW50ZXIgPSAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciAoeSBpbiBjaGFubmVsKQogICAgICAgIGxvZygicmVjZWl2ZWQgJHtjaGFubmVsLnJlY2VpdmUoKX0iKQo=</text>
+        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA4LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA4LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcGVhdCg1KSB7CiAgICAgICAgbG9nKCJyZWNlaXZlZCAke2NoYW5uZWwucmVjZWl2ZSgpfSIpCiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5leHBlcmltZW50YWwuY2hhbm5lbHMucHJvZHVjZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA3LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5leHBlcmltZW50YWwuY2hhbm5lbHMucHJvZHVjZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA3LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>242</text>
