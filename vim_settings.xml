@@ -98,6 +98,11 @@
         <mark key="]" line="185" column="27" />
         <mark key="." line="185" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/SelectExample.kt" timestamp="1531022864424">
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.51/e8c91083a5863d94fdc2836459e7e7a555774be9/kotlin-stdlib-common-1.2.51-sources.jar!/kotlin/util/Standard.kt" timestamp="1530865240045">
         <mark key="'" line="132" column="0" />
       </file>
@@ -1056,7 +1061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="60" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
@@ -1156,6 +1160,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/FanOutExample.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/TickerExample.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/ConcurrencyWrongExample.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/SelectExample.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1172,8 +1177,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>getCompleted</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1203,7 +1208,7 @@
         <text>product</text>
       </register>
       <register name="-" type="4">
-        <text>getCompleted</text>
+        <text>&quot;fizz&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKYXZhXD4=</text>
@@ -1215,34 +1220,34 @@
         <text encoding="base64">UmVjeWNsYWJsZVBvb2xNYW5hZ2VyPFJlY3ljbGVOb3ZlbGxDb25uZWN0aW9uLCBMREFQQ29ubmVjdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFZvbGF0aWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFZvbGF0aWxlCg==</text>
+        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA4LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBWb2xhdGlsZQogICAgdmFyIGNvdW50ZXIgPSAwCg==</text>
+        <text encoding="base64">QFZvbGF0aWxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA4LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
+        <text encoding="base64">QFZvbGF0aWxlCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB0b3VjaExhc3RBY3RpdmVUaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciAoKQo=</text>
+        <text encoding="base64">ICAgIEBWb2xhdGlsZQogICAgdmFyIGNvdW50ZXIgPSAwCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA4LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5leHBlcmltZW50YWwuY2hhbm5lbHMucHJvZHVjZQo=</text>
+        <text encoding="base64">ICAgIGZvciAoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5leHBlcmltZW50YWwuY2hhbm5lbHMucHJvZHVjZQo=</text>
+        <text encoding="base64">LyoqCiAqCiAqIEBzaW5jZSA4LzcvMjAxOAogKiBAYXV0aG9yIFBvbGxpbiBaaHUuCiAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5leHBlcmltZW50YWwuY2hhbm5lbHMucHJvZHVjZQo=</text>
       </register>
       <register name=":" type="4">
         <text>242</text>
