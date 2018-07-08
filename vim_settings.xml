@@ -783,6 +783,13 @@
         <mark key="^" line="28" column="30" />
         <mark key="." line="28" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/SelectSendExample.kt" timestamp="1531025740767">
+        <mark key="'" line="12" column="27" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/om/cisco/codev/identity/idsync/SyncDispatcher.java" timestamp="1514452278597">
         <mark key="[" line="27" column="30" />
         <mark key="]" line="32" column="7" />
@@ -1061,7 +1068,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="60" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/git/ci/connector-service/Service/dirsync/src/main/java/com/cisco/codev/identity/dirsync/sync/SyncModuleHandler.java" />
@@ -1161,6 +1167,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/TickerExample.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/ConcurrencyWrongExample.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/SelectExample.kt" />
+      <jump line="12" column="27" filename="$USER_HOME$/workspace/exercises/kotlin/learn-kotlin/coroutine/src/main/kotlin/SelectSendExample.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1211,7 +1218,7 @@
         <text>&quot;fizz&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxKYXZhXD4=</text>
+        <text>println</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxhdW5jaChrb3RsaW4uY29yb3V0aW5lcy5leHBlcmltZW50YWwuY29yb3V0aW5lQ29udGV4dCkgeyBwbGF5KCJwaW5nIiwgdGFibGUpIH0K</text>
@@ -1250,21 +1257,20 @@
         <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5leHBlcmltZW50YWwuY2hhbm5lbHMucHJvZHVjZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>242</text>
+        <text>%s/println/log/gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxKYXZhXD4=</last-search>
+      <last-search>println</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxKYXZhXD4=</last-pattern>
-      <last-replace>process_</last-replace>
-      <last-substitute>process_TC_</last-substitute>
+      <last-pattern>println</last-pattern>
+      <last-replace>log</last-replace>
+      <last-substitute>println</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DirSyncReportSender</entry>
         <entry encoding="base64">XDxkZWZCdW5kbGVcPg==</entry>
         <entry encoding="base64">XDxodG1sQXR0YWNobWVudFw+</entry>
         <entry encoding="base64">XDxjc3ZBdHRhY2htZW50XD4=</entry>
@@ -1284,9 +1290,9 @@
         <entry encoding="base64">XDxzaXBBZGRyZXNzZXNcPg==</entry>
         <entry>huge</entry>
         <entry encoding="base64">XDxKYXZhXD4=</entry>
+        <entry>println</entry>
       </history-search>
       <history-cmd>
-        <entry>185</entry>
         <entry>290</entry>
         <entry>59</entry>
         <entry>127</entry>
@@ -1306,6 +1312,7 @@
         <entry>297</entry>
         <entry>99</entry>
         <entry>242</entry>
+        <entry>%s/println/log/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
