@@ -20,6 +20,9 @@
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="ctrl meta j" />
   </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
@@ -27,4 +30,5 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl meta z" />
   </action>
+  <action id="ToggleFullScreen" />
 </keymap>
