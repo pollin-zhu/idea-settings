@@ -21,6 +21,11 @@
     <option name="WHITESPACES" value="93a1a1" />
   </colors>
   <attributes>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a6a2ee" />
+      </value>
+    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="859900" />
