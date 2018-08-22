@@ -34,4 +34,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta z" />
   </action>
   <action id="ToggleFullScreen" />
+  <action id="org.moreunit.actions.jump">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
 </keymap>
