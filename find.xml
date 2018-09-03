@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../effective-java/src/main/java/me/zhhe/book/effectivejava/Employee.java [effective-java_main]'" />
-    <option name="defaultScopeName" value="File '.../effective-java/src/main/java/me/zhhe/book/effectivejava/Employee.java [effective-java_main]'" />
-    <option name="SEARCH_SCOPE" value="File '.../effective-java/src/main/java/me/zhhe/book/effectivejava/Employee.java [effective-java_main]'" />
+    <option name="customScope" value="Module 'attr-expr-core'" />
+    <option name="defaultScopeName" value="Module 'attr-expr-core'" />
+    <option name="SEARCH_SCOPE" value="Module 'attr-expr-core'" />
   </component>
 </application>
