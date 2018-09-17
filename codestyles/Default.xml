@@ -26,6 +26,7 @@
       <emptyLine />
     </value>
   </option>
+  <option name="SOFT_MARGINS" value="120" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
