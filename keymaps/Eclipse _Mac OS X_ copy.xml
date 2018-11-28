@@ -49,6 +49,9 @@
   </action>
   <action id="SetShortcutAction" />
   <action id="ShowIntentionActions" />
+  <action id="ShowRegistry">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl meta z" />
   </action>
