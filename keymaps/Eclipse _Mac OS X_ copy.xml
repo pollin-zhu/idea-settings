@@ -6,6 +6,10 @@
   <action id="ActivateProblemsToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="FileChooser.GotoHome" />
   <action id="Find">
@@ -51,7 +55,9 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SetShortcutAction" />
-  <action id="ShowIntentionActions" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="ShowRegistry">
     <keyboard-shortcut first-keystroke="shift meta a" />
   </action>
