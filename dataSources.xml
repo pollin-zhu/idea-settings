@@ -5,14 +5,6 @@
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://marketplace-dev-cluster.cluster-co16f7xzvs0r.us-east-1.rds.amazonaws.com:3306/marketplace</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="bot service" uuid="7c06738c-ad1a-4de0-9f26-96de7d7eb08d">
       <driver-ref>mysql.8</driver-ref>
