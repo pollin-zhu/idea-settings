@@ -9,8 +9,8 @@
     <mask>*Test.java</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
