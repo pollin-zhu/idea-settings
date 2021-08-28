@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/workspace/SourceCode/test/books" />
+        <option value="$USER_HOME$/Workplace/SourceCode" />
       </list>
     </option>
   </component>
