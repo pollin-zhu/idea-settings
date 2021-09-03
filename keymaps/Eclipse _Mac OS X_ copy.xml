@@ -30,6 +30,7 @@
   </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="ctrl f3" />
   </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="shift f3" />
