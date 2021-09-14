@@ -10,8 +10,8 @@
     <mask>*.js</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
-    <mask>*.ftl</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.ftl</mask>
   </component>
 </application>
