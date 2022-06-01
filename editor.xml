@@ -2,8 +2,6 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="monofur for Powerline" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="  bold" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">

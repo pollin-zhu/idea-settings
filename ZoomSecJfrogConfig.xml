@@ -1,0 +1,14 @@
+<application>
+  <component name="GlobalSettings">
+    <option name="serverConfig">
+      <ServerConfigImpl>
+        <option name="url" value="https://artifacts.corp.zoom.us" />
+        <option name="xrayUrl" value="https://artifacts.corp.zoom.us/xray" />
+        <option name="artifactoryUrl" value="https://artifacts.corp.zoom.us/artifactory" />
+        <excludedPaths>**/*{.idea,test,node_modules}*</excludedPaths>
+        <connectionRetries>3</connectionRetries>
+        <connectionTimeout>60</connectionTimeout>
+      </ServerConfigImpl>
+    </option>
+  </component>
+</application>
