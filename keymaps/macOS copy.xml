@@ -5,4 +5,5 @@
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
+  <action id="ServiceView.ShowServices" />
 </keymap>
