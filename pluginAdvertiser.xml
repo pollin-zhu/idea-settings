@@ -2329,7 +2329,7 @@
                   </entry>
                   <entry key="PIT">
                     <value>
-                      <FeaturePluginData displayName="PIT Runner" pluginName="PIT mutation testing Idea plugin" pluginId="PIT mutation testing Idea plugin" />
+                      <FeaturePluginData displayName="PIT Runner" pluginName="PIT Mutation Testing" pluginId="PIT mutation testing Idea plugin" />
                     </value>
                   </entry>
                   <entry key="QuarkusRunConfigurationType">
